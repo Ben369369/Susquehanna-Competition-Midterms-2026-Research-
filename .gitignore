@@ -4,3 +4,4 @@ __pycache__/
 data/research.sqlite3*
 data/market-archives/
 node_modules/
+data/trade-plan.json
