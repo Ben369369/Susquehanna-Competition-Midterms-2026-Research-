@@ -36,7 +36,7 @@ class TradeTests(unittest.TestCase):
         held = [{'marketId': '166', 'quantity': 100, 'costBasis': 50, 'lots': [{'side': 'YES'}]}]
         _, notes = plan_orders(plan(GA), MARKETS, held, [], {'9': (.60, .61)}, 100000, PROBS)
         self.assertIn('opposite side', notes[0])
-        _, notes = plan_orders(plan(GA), MARKETS, [], [{'id': 1, 'exchangeId': '9'}], {'9': (.60, .61)}, 100000, PROBS)
+        _, notes = plan_orders(plan(GA), MARKETS, [], [{'id': 1, 'exchangeId': '9', 'quantity': 10, 'priceLimit': .4}], {'9': (.60, .61)}, 100000, PROBS)
         self.assertIn('resting', notes[0])
     def test_flags_mistyped_limit(self):
         orders = [{'id': 5, 'exchangeId': '9', 'side': 'no', 'action': 'buy', 'priceLimit': .58, 'quantity': 1}]

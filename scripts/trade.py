@@ -58,7 +58,8 @@ def plan_orders(plan, markets, positions, open_orders, books, balance, probs):
         if sides - {item['side']}: notes.append(f'SKIP {label}: you hold the opposite side; review manually'); continue
         spent = sum(abs(p['costBasis']) for p in held)
         resting = [o for o in open_orders if o['exchangeId'] == exchange]
-        if resting: notes.append(f'SKIP {label}: open order already resting (id {resting[0]["id"]})'); continue
+        if resting:
+            notes.append(f'WAIT {label}: {spent:,.0f} of {item["budget"]:,} filled; {resting[0]["quantity"]:,.0f} shares resting @ {resting[0]["priceLimit"]} (order {resting[0]["id"]})'); continue
         need = item['budget']-spent
         if need < plan.get('min_order', 200): notes.append(f'DONE {label}: {spent:,.0f} of {item["budget"]:,} already invested'); continue
         bid, ask = books.get(exchange, (None, None))
