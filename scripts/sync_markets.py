@@ -24,7 +24,11 @@ def get(path,key):
         except urllib.error.HTTPError as exc:
             if exc.code==429 and attempt<3:
                 time.sleep(min(30,2**attempt*2));continue
-            raise RuntimeError(f'API returned HTTP {exc.code}; verify key access and tournament context.') from None
+            try:code=json.load(exc).get('error',{}).get('code','')
+            except (ValueError,AttributeError):code=''
+            hint={401:'Key missing or not recognised: paste the real key from Super Market account settings, not a placeholder.',
+                  403:'Key lacks access to this tournament; check SIG_TOURNAMENT_ID or unset it to auto-detect.'}.get(exc.code,'Verify key access and tournament context.')
+            raise RuntimeError(f'API returned HTTP {exc.code} {code}. {hint}') from None
     raise RuntimeError('Rate limit retry exhausted')
 
 def sync(key,tournament):
@@ -49,7 +53,16 @@ def sync(key,tournament):
     file.write_text(json.dumps(result,indent=2),encoding='utf-8')
     print(f'Archived {sum(len(p["data"]) for p in pages)} market records to {file.name}. Contract mapping requires review.')
 
+def find_tournament(key):
+    """Pick the caller's midterm tournament when SIG_TOURNAMENT_ID is unset."""
+    mine=get('/tournaments?limit=100',key)['data']
+    for t in mine:print(f"  {t['id']}  {t['slug']}  {t['name']}  ({t['status']}, balance {t.get('myBalance')})")
+    matches=[t for t in mine if 'midterm' in (t['slug']+t['name']).lower()] or mine
+    if len(matches)!=1:raise SystemExit('Could not pick one tournament; set SIG_TOURNAMENT_ID to an id listed above.')
+    print('Using',matches[0]['name'])
+    return matches[0]['id']
+
 if __name__=='__main__':
     key=os.getenv('SIG_API_KEY');tournament=os.getenv('SIG_TOURNAMENT_ID')
-    if not key or not tournament:raise SystemExit('Set SIG_API_KEY and SIG_TOURNAMENT_ID locally. Do not paste keys into chat.')
-    sync(key,tournament)
+    if not key or key.strip('.')=='':raise SystemExit('Set SIG_API_KEY locally to your real key. Do not paste keys into chat.')
+    sync(key,tournament or find_tournament(key))
