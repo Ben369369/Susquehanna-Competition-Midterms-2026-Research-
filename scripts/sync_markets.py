@@ -11,6 +11,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import uuid
 from datetime import datetime,timezone
 from pathlib import Path
 
@@ -65,4 +66,9 @@ def find_tournament(key):
 if __name__=='__main__':
     key=os.getenv('SIG_API_KEY');tournament=os.getenv('SIG_TOURNAMENT_ID')
     if not key or key.strip('.')=='':raise SystemExit('Set SIG_API_KEY locally to your real key. Do not paste keys into chat.')
+    if tournament:
+        try:uuid.UUID(tournament)
+        except ValueError:
+            print('Ignoring SIG_TOURNAMENT_ID: not a UUID (a leftover placeholder?). Auto-detecting instead.')
+            tournament=None
     sync(key,tournament or find_tournament(key))
