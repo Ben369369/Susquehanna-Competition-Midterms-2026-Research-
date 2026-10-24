@@ -1,0 +1,2326 @@
+{
+  "observations": [
+    {
+      "id": "new-hampshire-senate-saint-anselm-college-2026-10-22",
+      "race_id": "new-hampshire-senate",
+      "pollster": "Saint Anselm College",
+      "end": "2026-10-22",
+      "published": "2026-10-22",
+      "margin": 7.0,
+      "n": 1672,
+      "kind": "poll",
+      "source_id": "import-new-hampshire-senate-saint-anselm-college-2026-10-22",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "new-hampshire-senate-national-public-affairs-2026-10-20",
+      "race_id": "new-hampshire-senate",
+      "pollster": "National Public Affairs",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": 7.0,
+      "n": 600,
+      "kind": "poll",
+      "source_id": "import-new-hampshire-senate-national-public-affairs-2026-10-20",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "new-hampshire-senate-saint-anselm-college-2026-10-06",
+      "race_id": "new-hampshire-senate",
+      "pollster": "Saint Anselm College",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 7.0,
+      "n": 1042,
+      "kind": "poll",
+      "source_id": "import-new-hampshire-senate-saint-anselm-college-2026-10-06",
+      "note": "D51/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "new-hampshire-senate-yougov-2026-10-06",
+      "race_id": "new-hampshire-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 8.0,
+      "n": 1519,
+      "kind": "poll",
+      "source_id": "import-new-hampshire-senate-yougov-2026-10-06",
+      "note": "D51/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-insideradvantage-2026-10-23",
+      "race_id": "michigan-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": 1.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-insideradvantage-2026-10-23",
+      "note": "D47/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-marist-poll-2026-10-21",
+      "race_id": "michigan-senate",
+      "pollster": "Marist Poll",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 2.0,
+      "n": 1185,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-marist-poll-2026-10-21",
+      "note": "D50/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-insideradvantage-2026-10-11",
+      "race_id": "michigan-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-11",
+      "published": "2026-10-11",
+      "margin": 2.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-insideradvantage-2026-10-11",
+      "note": "D48/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-z-to-a-research-2026-10-09",
+      "race_id": "michigan-senate",
+      "pollster": "Z to A Research",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": 7.0,
+      "n": 483,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-z-to-a-research-2026-10-09",
+      "note": "D49/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-quantus-insights-2026-10-07",
+      "race_id": "michigan-senate",
+      "pollster": "Quantus Insights",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 1.0,
+      "n": 744,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-quantus-insights-2026-10-07",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-guidant-polling-2026-10-07",
+      "race_id": "michigan-senate",
+      "pollster": "Guidant Polling",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 5.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-guidant-polling-2026-10-07",
+      "note": "D48/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-yougov-2026-10-06",
+      "race_id": "michigan-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 1.0,
+      "n": 3947,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-yougov-2026-10-06",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-mitchell-research-2026-10-05",
+      "race_id": "michigan-senate",
+      "pollster": "Mitchell Research",
+      "end": "2026-10-05",
+      "published": "2026-10-05",
+      "margin": 5.0,
+      "n": 682,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-mitchell-research-2026-10-05",
+      "note": "D46/R41 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-trafalgar-group-2026-10-01",
+      "race_id": "michigan-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": 2.0,
+      "n": 1085,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-trafalgar-group-2026-10-01",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-senate-fox-news-2026-09-30",
+      "race_id": "michigan-senate",
+      "pollster": "Fox News",
+      "end": "2026-09-30",
+      "published": "2026-09-30",
+      "margin": 1.0,
+      "n": 1028,
+      "kind": "poll",
+      "source_id": "import-michigan-senate-fox-news-2026-09-30",
+      "note": "D50/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-fox-news-2026-10-22",
+      "race_id": "maine-senate",
+      "pollster": "Fox News",
+      "end": "2026-10-22",
+      "published": "2026-10-22",
+      "margin": 0.0,
+      "n": 1514,
+      "kind": "poll",
+      "source_id": "import-maine-senate-fox-news-2026-10-22",
+      "note": "D49/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-insideradvantage-2026-10-16",
+      "race_id": "maine-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-16",
+      "published": "2026-10-16",
+      "margin": 2.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-maine-senate-insideradvantage-2026-10-16",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-suffolk-university-2026-10-14",
+      "race_id": "maine-senate",
+      "pollster": "Suffolk University",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 2.0,
+      "n": 500,
+      "kind": "poll",
+      "source_id": "import-maine-senate-suffolk-university-2026-10-14",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-wash-post-schar-school-2026-10-09",
+      "race_id": "maine-senate",
+      "pollster": "Wash. Post-Schar School",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": 4.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-maine-senate-wash-post-schar-school-2026-10-09",
+      "note": "D50/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-trafalgar-group-2026-10-03",
+      "race_id": "maine-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-03",
+      "published": "2026-10-03",
+      "margin": 0.0,
+      "n": 1091,
+      "kind": "poll",
+      "source_id": "import-maine-senate-trafalgar-group-2026-10-03",
+      "note": "D46/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-aarp-2026-10-01",
+      "race_id": "maine-senate",
+      "pollster": "AARP",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": 3.0,
+      "n": 982,
+      "kind": "poll",
+      "source_id": "import-maine-senate-aarp-2026-10-01",
+      "note": "D50/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-co-efficient-2026-09-30",
+      "race_id": "maine-senate",
+      "pollster": "co/efficient",
+      "end": "2026-09-30",
+      "published": "2026-09-30",
+      "margin": -2.0,
+      "n": 1240,
+      "kind": "poll",
+      "source_id": "import-maine-senate-co-efficient-2026-09-30",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-verasight-2026-10-23",
+      "race_id": "texas-senate",
+      "pollster": "Verasight",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": 3.0,
+      "n": 601,
+      "kind": "poll",
+      "source_id": "import-texas-senate-verasight-2026-10-23",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-texas-public-opinion-research-2026-10-23",
+      "race_id": "texas-senate",
+      "pollster": "Texas Public Opinion Research",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": 4.0,
+      "n": 969,
+      "kind": "poll",
+      "source_id": "import-texas-senate-texas-public-opinion-research-2026-10-23",
+      "note": "D51/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-emerson-college-2026-10-22",
+      "race_id": "texas-senate",
+      "pollster": "Emerson College",
+      "end": "2026-10-22",
+      "published": "2026-10-22",
+      "margin": 1.0,
+      "n": 1000,
+      "kind": "poll",
+      "source_id": "import-texas-senate-emerson-college-2026-10-22",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-new-river-gsg-2026-10-21",
+      "race_id": "texas-senate",
+      "pollster": "New River / GSG",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 5.0,
+      "n": 934,
+      "kind": "poll",
+      "source_id": "import-texas-senate-new-river-gsg-2026-10-21",
+      "note": "D49/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-activote-2026-10-21",
+      "race_id": "texas-senate",
+      "pollster": "ActiVote",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 2.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-texas-senate-activote-2026-10-21",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-fox-news-2026-10-21",
+      "race_id": "texas-senate",
+      "pollster": "Fox News",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 0.0,
+      "n": 1398,
+      "kind": "poll",
+      "source_id": "import-texas-senate-fox-news-2026-10-21",
+      "note": "D49/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-university-of-houston-hobby-school-2026-10-19",
+      "race_id": "texas-senate",
+      "pollster": "University of Houston Hobby School",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": 2.0,
+      "n": 2000,
+      "kind": "poll",
+      "source_id": "import-texas-senate-university-of-houston-hobby-school-2026-10-19",
+      "note": "D48/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-yougov-2026-10-18",
+      "race_id": "texas-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-18",
+      "published": "2026-10-18",
+      "margin": 2.0,
+      "n": 1458,
+      "kind": "poll",
+      "source_id": "import-texas-senate-yougov-2026-10-18",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-insideradvantage-2026-10-16",
+      "race_id": "texas-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-16",
+      "published": "2026-10-16",
+      "margin": -1.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-texas-senate-insideradvantage-2026-10-16",
+      "note": "D48/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-activote-2026-10-15",
+      "race_id": "texas-senate",
+      "pollster": "ActiVote",
+      "end": "2026-10-15",
+      "published": "2026-10-15",
+      "margin": 4.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-texas-senate-activote-2026-10-15",
+      "note": "D52/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-yougov-2026-10-14",
+      "race_id": "texas-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 3.0,
+      "n": 861,
+      "kind": "poll",
+      "source_id": "import-texas-senate-yougov-2026-10-14",
+      "note": "D50/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-marist-poll-2026-10-14",
+      "race_id": "texas-senate",
+      "pollster": "Marist Poll",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 2.0,
+      "n": 1196,
+      "kind": "poll",
+      "source_id": "import-texas-senate-marist-poll-2026-10-14",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-quantus-insights-2026-10-13",
+      "race_id": "texas-senate",
+      "pollster": "Quantus Insights",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": 0.0,
+      "n": 854,
+      "kind": "poll",
+      "source_id": "import-texas-senate-quantus-insights-2026-10-13",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-siena-college-2026-10-13",
+      "race_id": "texas-senate",
+      "pollster": "Siena College",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": 4.0,
+      "n": 617,
+      "kind": "poll",
+      "source_id": "import-texas-senate-siena-college-2026-10-13",
+      "note": "D48/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-trafalgar-group-2026-10-10",
+      "race_id": "texas-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-10",
+      "published": "2026-10-10",
+      "margin": 3.0,
+      "n": 1086,
+      "kind": "poll",
+      "source_id": "import-texas-senate-trafalgar-group-2026-10-10",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-umass-lowell-2026-10-08",
+      "race_id": "texas-senate",
+      "pollster": "UMass Lowell",
+      "end": "2026-10-08",
+      "published": "2026-10-08",
+      "margin": 0.0,
+      "n": 850,
+      "kind": "poll",
+      "source_id": "import-texas-senate-umass-lowell-2026-10-08",
+      "note": "D45/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-guidant-polling-2026-10-07",
+      "race_id": "texas-senate",
+      "pollster": "Guidant Polling",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 3.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-texas-senate-guidant-polling-2026-10-07",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-yougov-2026-10-06",
+      "race_id": "texas-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 6.0,
+      "n": 3623,
+      "kind": "poll",
+      "source_id": "import-texas-senate-yougov-2026-10-06",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-siena-college-2026-10-03",
+      "race_id": "texas-senate",
+      "pollster": "Siena College",
+      "end": "2026-10-03",
+      "published": "2026-10-03",
+      "margin": 6.0,
+      "n": 615,
+      "kind": "poll",
+      "source_id": "import-texas-senate-siena-college-2026-10-03",
+      "note": "D51/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-senate-fox-news-2026-10-01",
+      "race_id": "texas-senate",
+      "pollster": "Fox News",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": 2.0,
+      "n": 881,
+      "kind": "poll",
+      "source_id": "import-texas-senate-fox-news-2026-10-01",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-insideradvantage-2026-10-23",
+      "race_id": "iowa-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": -2.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-insideradvantage-2026-10-23",
+      "note": "D45/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-new-river-gsg-2026-10-21",
+      "race_id": "iowa-senate",
+      "pollster": "New River / GSG",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 2.0,
+      "n": 602,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-new-river-gsg-2026-10-21",
+      "note": "D46/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-national-public-affairs-2026-10-20",
+      "race_id": "iowa-senate",
+      "pollster": "National Public Affairs",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": -3.0,
+      "n": 678,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-national-public-affairs-2026-10-20",
+      "note": "D44/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-co-efficient-2026-10-19",
+      "race_id": "iowa-senate",
+      "pollster": "co/efficient",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": -3.0,
+      "n": 863,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-co-efficient-2026-10-19",
+      "note": "D45/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-trafalgar-group-2026-10-17",
+      "race_id": "iowa-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-17",
+      "published": "2026-10-17",
+      "margin": -2.0,
+      "n": 1094,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-trafalgar-group-2026-10-17",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-marist-poll-2026-10-15",
+      "race_id": "iowa-senate",
+      "pollster": "Marist Poll",
+      "end": "2026-10-15",
+      "published": "2026-10-15",
+      "margin": 3.0,
+      "n": 1100,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-marist-poll-2026-10-15",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-yougov-2026-10-14",
+      "race_id": "iowa-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 1.0,
+      "n": 2245,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-yougov-2026-10-14",
+      "note": "D47/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-cnn-ssrs-2026-10-08",
+      "race_id": "iowa-senate",
+      "pollster": "CNN / SSRS",
+      "end": "2026-10-08",
+      "published": "2026-10-08",
+      "margin": -2.0,
+      "n": 801,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-cnn-ssrs-2026-10-08",
+      "note": "D43/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-suffolk-university-2026-10-07",
+      "race_id": "iowa-senate",
+      "pollster": "Suffolk University",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 4.0,
+      "n": 500,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-suffolk-university-2026-10-07",
+      "note": "D48/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-siena-college-2026-10-03",
+      "race_id": "iowa-senate",
+      "pollster": "Siena College",
+      "end": "2026-10-03",
+      "published": "2026-10-03",
+      "margin": -1.0,
+      "n": 606,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-siena-college-2026-10-03",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-fox-news-2026-10-01",
+      "race_id": "iowa-senate",
+      "pollster": "Fox News",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": 2.0,
+      "n": 1008,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-fox-news-2026-10-01",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-senate-quantus-insights-2026-09-30",
+      "race_id": "iowa-senate",
+      "pollster": "Quantus Insights",
+      "end": "2026-09-30",
+      "published": "2026-09-30",
+      "margin": -2.0,
+      "n": 738,
+      "kind": "poll",
+      "source_id": "import-iowa-senate-quantus-insights-2026-09-30",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "alaska-senate-data-for-progress-2026-10-20",
+      "race_id": "alaska-senate",
+      "pollster": "Data for Progress",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": 3.0,
+      "n": 694,
+      "kind": "poll",
+      "source_id": "import-alaska-senate-data-for-progress-2026-10-20",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "alaska-senate-insideradvantage-2026-10-11",
+      "race_id": "alaska-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-11",
+      "published": "2026-10-11",
+      "margin": 5.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-alaska-senate-insideradvantage-2026-10-11",
+      "note": "D48/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "alaska-senate-alaska-survey-research-2026-10-06",
+      "race_id": "alaska-senate",
+      "pollster": "Alaska Survey Research",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 2.0,
+      "n": 1512,
+      "kind": "poll",
+      "source_id": "import-alaska-senate-alaska-survey-research-2026-10-06",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "alaska-senate-siena-college-2026-10-03",
+      "race_id": "alaska-senate",
+      "pollster": "Siena College",
+      "end": "2026-10-03",
+      "published": "2026-10-03",
+      "margin": 7.0,
+      "n": 504,
+      "kind": "poll",
+      "source_id": "import-alaska-senate-siena-college-2026-10-03",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "alaska-senate-quantus-insights-2026-10-02",
+      "race_id": "alaska-senate",
+      "pollster": "Quantus Insights",
+      "end": "2026-10-02",
+      "published": "2026-10-02",
+      "margin": 0.0,
+      "n": 758,
+      "kind": "poll",
+      "source_id": "import-alaska-senate-quantus-insights-2026-10-02",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-senate-insideradvantage-2026-10-16",
+      "race_id": "kansas-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-16",
+      "published": "2026-10-16",
+      "margin": -1.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-kansas-senate-insideradvantage-2026-10-16",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-senate-insideradvantage-2026-10-11",
+      "race_id": "kansas-senate",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-11",
+      "published": "2026-10-11",
+      "margin": 1.0,
+      "n": 1200,
+      "kind": "poll",
+      "source_id": "import-kansas-senate-insideradvantage-2026-10-11",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-senate-yougov-2026-10-06",
+      "race_id": "kansas-senate",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 3.0,
+      "n": 2253,
+      "kind": "poll",
+      "source_id": "import-kansas-senate-yougov-2026-10-06",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-senate-trafalgar-group-2026-10-02",
+      "race_id": "kansas-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-02",
+      "published": "2026-10-02",
+      "margin": 0.0,
+      "n": 1095,
+      "kind": "poll",
+      "source_id": "import-kansas-senate-trafalgar-group-2026-10-02",
+      "note": "D44/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "nevada-governor-noble-predictive-insights-2026-10-06",
+      "race_id": "nevada-governor",
+      "pollster": "Noble Predictive Insights",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": -2.0,
+      "n": 708,
+      "kind": "poll",
+      "source_id": "import-nevada-governor-noble-predictive-insights-2026-10-06",
+      "note": "D40/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "georgia-governor-activote-2026-10-20",
+      "race_id": "georgia-governor",
+      "pollster": "ActiVote",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": -3.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-georgia-governor-activote-2026-10-20",
+      "note": "D49/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "georgia-governor-university-of-georgia-2026-10-20",
+      "race_id": "georgia-governor",
+      "pollster": "University of Georgia",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": -1.0,
+      "n": 1000,
+      "kind": "poll",
+      "source_id": "import-georgia-governor-university-of-georgia-2026-10-20",
+      "note": "D45/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "georgia-governor-quantus-insights-2026-10-19",
+      "race_id": "georgia-governor",
+      "pollster": "Quantus Insights",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": -1.0,
+      "n": 755,
+      "kind": "poll",
+      "source_id": "import-georgia-governor-quantus-insights-2026-10-19",
+      "note": "D48/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "georgia-governor-insideradvantage-2026-10-14",
+      "race_id": "georgia-governor",
+      "pollster": "InsiderAdvantage",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": -2.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-georgia-governor-insideradvantage-2026-10-14",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-governor-yougov-2026-10-06",
+      "race_id": "kansas-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": -3.0,
+      "n": 2252,
+      "kind": "poll",
+      "source_id": "import-kansas-governor-yougov-2026-10-06",
+      "note": "D44/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "kansas-governor-siena-college-2026-10-04",
+      "race_id": "kansas-governor",
+      "pollster": "Siena College",
+      "end": "2026-10-04",
+      "published": "2026-10-04",
+      "margin": -5.0,
+      "n": 605,
+      "kind": "poll",
+      "source_id": "import-kansas-governor-siena-college-2026-10-04",
+      "note": "D44/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "wisconsin-governor-z-to-a-research-2026-10-09",
+      "race_id": "wisconsin-governor",
+      "pollster": "Z to A Research",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": 5.0,
+      "n": 662,
+      "kind": "poll",
+      "source_id": "import-wisconsin-governor-z-to-a-research-2026-10-09",
+      "note": "D49/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "wisconsin-governor-marquette-law-school-2026-09-30",
+      "race_id": "wisconsin-governor",
+      "pollster": "Marquette Law School",
+      "end": "2026-09-30",
+      "published": "2026-09-30",
+      "margin": 3.0,
+      "n": 692,
+      "kind": "poll",
+      "source_id": "import-wisconsin-governor-marquette-law-school-2026-09-30",
+      "note": "D49/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-new-river-gsg-2026-10-21",
+      "race_id": "iowa-governor",
+      "pollster": "New River / GSG",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 11.0,
+      "n": 602,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-new-river-gsg-2026-10-21",
+      "note": "D54/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-national-public-affairs-2026-10-20",
+      "race_id": "iowa-governor",
+      "pollster": "National Public Affairs",
+      "end": "2026-10-20",
+      "published": "2026-10-20",
+      "margin": 5.0,
+      "n": 678,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-national-public-affairs-2026-10-20",
+      "note": "D50/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-co-efficient-2026-10-19",
+      "race_id": "iowa-governor",
+      "pollster": "co/efficient",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": 4.0,
+      "n": 863,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-co-efficient-2026-10-19",
+      "note": "D49/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-marist-poll-2026-10-15",
+      "race_id": "iowa-governor",
+      "pollster": "Marist Poll",
+      "end": "2026-10-15",
+      "published": "2026-10-15",
+      "margin": 7.0,
+      "n": 1100,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-marist-poll-2026-10-15",
+      "note": "D52/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-yougov-2026-10-14",
+      "race_id": "iowa-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 6.0,
+      "n": 2244,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-yougov-2026-10-14",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-emerson-college-2026-10-09",
+      "race_id": "iowa-governor",
+      "pollster": "Emerson College",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": 4.0,
+      "n": 650,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-emerson-college-2026-10-09",
+      "note": "D49/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-cnn-ssrs-2026-10-08",
+      "race_id": "iowa-governor",
+      "pollster": "CNN / SSRS",
+      "end": "2026-10-08",
+      "published": "2026-10-08",
+      "margin": 9.0,
+      "n": 801,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-cnn-ssrs-2026-10-08",
+      "note": "D51/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-suffolk-university-2026-10-07",
+      "race_id": "iowa-governor",
+      "pollster": "Suffolk University",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 12.0,
+      "n": 500,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-suffolk-university-2026-10-07",
+      "note": "D55/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-siena-college-2026-10-04",
+      "race_id": "iowa-governor",
+      "pollster": "Siena College",
+      "end": "2026-10-04",
+      "published": "2026-10-04",
+      "margin": 11.0,
+      "n": 606,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-siena-college-2026-10-04",
+      "note": "D52/R41 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "iowa-governor-fox-news-2026-10-01",
+      "race_id": "iowa-governor",
+      "pollster": "Fox News",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": 9.0,
+      "n": 1008,
+      "kind": "poll",
+      "source_id": "import-iowa-governor-fox-news-2026-10-01",
+      "note": "D53/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-governor-marist-poll-2026-10-21",
+      "race_id": "michigan-governor",
+      "pollster": "Marist Poll",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": 6.0,
+      "n": 1185,
+      "kind": "poll",
+      "source_id": "import-michigan-governor-marist-poll-2026-10-21",
+      "note": "D51/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-governor-z-to-a-research-2026-10-09",
+      "race_id": "michigan-governor",
+      "pollster": "Z to A Research",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": 10.0,
+      "n": 483,
+      "kind": "poll",
+      "source_id": "import-michigan-governor-z-to-a-research-2026-10-09",
+      "note": "D50/R40 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-governor-guidant-polling-2026-10-07",
+      "race_id": "michigan-governor",
+      "pollster": "Guidant Polling",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": 5.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-michigan-governor-guidant-polling-2026-10-07",
+      "note": "D50/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-governor-yougov-2026-10-06",
+      "race_id": "michigan-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 3.0,
+      "n": 3949,
+      "kind": "poll",
+      "source_id": "import-michigan-governor-yougov-2026-10-06",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "michigan-governor-fox-news-2026-09-30",
+      "race_id": "michigan-governor",
+      "pollster": "Fox News",
+      "end": "2026-09-30",
+      "published": "2026-09-30",
+      "margin": 9.0,
+      "n": 1028,
+      "kind": "poll",
+      "source_id": "import-michigan-governor-fox-news-2026-09-30",
+      "note": "D54/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "arizona-governor-wick-2026-10-13",
+      "race_id": "arizona-governor",
+      "pollster": "Wick",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": 6.0,
+      "n": 1513,
+      "kind": "poll",
+      "source_id": "import-arizona-governor-wick-2026-10-13",
+      "note": "D49/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "arizona-governor-highground-inc-2026-10-13",
+      "race_id": "arizona-governor",
+      "pollster": "HighGround Inc.",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": 17.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-arizona-governor-highground-inc-2026-10-13",
+      "note": "D51/R34 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "arizona-governor-grayhouse-2026-10-10",
+      "race_id": "arizona-governor",
+      "pollster": "Grayhouse",
+      "end": "2026-10-10",
+      "published": "2026-10-10",
+      "margin": 6.0,
+      "n": 550,
+      "kind": "poll",
+      "source_id": "import-arizona-governor-grayhouse-2026-10-10",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-univ-of-north-florida-2026-10-21",
+      "race_id": "florida-governor",
+      "pollster": "Univ. of North Florida",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": -2.0,
+      "n": 1471,
+      "kind": "poll",
+      "source_id": "import-florida-governor-univ-of-north-florida-2026-10-21",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-co-efficient-2026-10-21",
+      "race_id": "florida-governor",
+      "pollster": "co/efficient",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": -9.0,
+      "n": 1014,
+      "kind": "poll",
+      "source_id": "import-florida-governor-co-efficient-2026-10-21",
+      "note": "D40/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-activote-2026-10-19",
+      "race_id": "florida-governor",
+      "pollster": "ActiVote",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": -4.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-florida-governor-activote-2026-10-19",
+      "note": "D48/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-mdw-communications-2026-10-14",
+      "race_id": "florida-governor",
+      "pollster": "MDW Communications",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": -2.0,
+      "n": 2351,
+      "kind": "poll",
+      "source_id": "import-florida-governor-mdw-communications-2026-10-14",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-stetson-university-2026-10-13",
+      "race_id": "florida-governor",
+      "pollster": "Stetson University",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": -11.0,
+      "n": 716,
+      "kind": "poll",
+      "source_id": "import-florida-governor-stetson-university-2026-10-13",
+      "note": "D41/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-change-research-2026-10-12",
+      "race_id": "florida-governor",
+      "pollster": "Change Research",
+      "end": "2026-10-12",
+      "published": "2026-10-12",
+      "margin": 0.0,
+      "n": 920,
+      "kind": "poll",
+      "source_id": "import-florida-governor-change-research-2026-10-12",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-james-madison-institute-2026-10-09",
+      "race_id": "florida-governor",
+      "pollster": "James Madison Institute",
+      "end": "2026-10-09",
+      "published": "2026-10-09",
+      "margin": -10.0,
+      "n": 849,
+      "kind": "poll",
+      "source_id": "import-florida-governor-james-madison-institute-2026-10-09",
+      "note": "D42/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-st-pete-polls-2026-10-08",
+      "race_id": "florida-governor",
+      "pollster": "St. Pete Polls",
+      "end": "2026-10-08",
+      "published": "2026-10-08",
+      "margin": 0.0,
+      "n": 836,
+      "kind": "poll",
+      "source_id": "import-florida-governor-st-pete-polls-2026-10-08",
+      "note": "D45/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-mason-dixon-2026-10-07",
+      "race_id": "florida-governor",
+      "pollster": "Mason-Dixon",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": -7.0,
+      "n": 625,
+      "kind": "poll",
+      "source_id": "import-florida-governor-mason-dixon-2026-10-07",
+      "note": "D41/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "florida-governor-yougov-2026-10-06",
+      "race_id": "florida-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": -2.0,
+      "n": 3813,
+      "kind": "poll",
+      "source_id": "import-florida-governor-yougov-2026-10-06",
+      "note": "D45/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-verasight-2026-10-23",
+      "race_id": "texas-governor",
+      "pollster": "Verasight",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": -2.0,
+      "n": 601,
+      "kind": "poll",
+      "source_id": "import-texas-governor-verasight-2026-10-23",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-texas-public-opinion-research-2026-10-23",
+      "race_id": "texas-governor",
+      "pollster": "Texas Public Opinion Research",
+      "end": "2026-10-23",
+      "published": "2026-10-23",
+      "margin": -3.0,
+      "n": 969,
+      "kind": "poll",
+      "source_id": "import-texas-governor-texas-public-opinion-research-2026-10-23",
+      "note": "D48/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-emerson-college-2026-10-22",
+      "race_id": "texas-governor",
+      "pollster": "Emerson College",
+      "end": "2026-10-22",
+      "published": "2026-10-22",
+      "margin": -4.0,
+      "n": 1000,
+      "kind": "poll",
+      "source_id": "import-texas-governor-emerson-college-2026-10-22",
+      "note": "D47/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-new-river-gsg-2026-10-21",
+      "race_id": "texas-governor",
+      "pollster": "New River / GSG",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": -2.0,
+      "n": 934,
+      "kind": "poll",
+      "source_id": "import-texas-governor-new-river-gsg-2026-10-21",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-activote-2026-10-21",
+      "race_id": "texas-governor",
+      "pollster": "ActiVote",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": -5.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-texas-governor-activote-2026-10-21",
+      "note": "D48/R53 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-fox-news-2026-10-21",
+      "race_id": "texas-governor",
+      "pollster": "Fox News",
+      "end": "2026-10-21",
+      "published": "2026-10-21",
+      "margin": -5.0,
+      "n": 1398,
+      "kind": "poll",
+      "source_id": "import-texas-governor-fox-news-2026-10-21",
+      "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-university-of-houston-hobby-school-2026-10-19",
+      "race_id": "texas-governor",
+      "pollster": "University of Houston Hobby School",
+      "end": "2026-10-19",
+      "published": "2026-10-19",
+      "margin": -3.0,
+      "n": 2000,
+      "kind": "poll",
+      "source_id": "import-texas-governor-university-of-houston-hobby-school-2026-10-19",
+      "note": "D46/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-yougov-2026-10-18",
+      "race_id": "texas-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-18",
+      "published": "2026-10-18",
+      "margin": -4.0,
+      "n": 1460,
+      "kind": "poll",
+      "source_id": "import-texas-governor-yougov-2026-10-18",
+      "note": "D48/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-activote-2026-10-15",
+      "race_id": "texas-governor",
+      "pollster": "ActiVote",
+      "end": "2026-10-15",
+      "published": "2026-10-15",
+      "margin": -2.0,
+      "n": 400,
+      "kind": "poll",
+      "source_id": "import-texas-governor-activote-2026-10-15",
+      "note": "D49/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-yougov-2026-10-14",
+      "race_id": "texas-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": 1.0,
+      "n": 861,
+      "kind": "poll",
+      "source_id": "import-texas-governor-yougov-2026-10-14",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-marist-poll-2026-10-14",
+      "race_id": "texas-governor",
+      "pollster": "Marist Poll",
+      "end": "2026-10-14",
+      "published": "2026-10-14",
+      "margin": -4.0,
+      "n": 1196,
+      "kind": "poll",
+      "source_id": "import-texas-governor-marist-poll-2026-10-14",
+      "note": "D45/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-siena-college-2026-10-13",
+      "race_id": "texas-governor",
+      "pollster": "Siena College",
+      "end": "2026-10-13",
+      "published": "2026-10-13",
+      "margin": -1.0,
+      "n": 617,
+      "kind": "poll",
+      "source_id": "import-texas-governor-siena-college-2026-10-13",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-umass-lowell-2026-10-08",
+      "race_id": "texas-governor",
+      "pollster": "UMass Lowell",
+      "end": "2026-10-08",
+      "published": "2026-10-08",
+      "margin": -4.0,
+      "n": 850,
+      "kind": "poll",
+      "source_id": "import-texas-governor-umass-lowell-2026-10-08",
+      "note": "D44/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-guidant-polling-2026-10-07",
+      "race_id": "texas-governor",
+      "pollster": "Guidant Polling",
+      "end": "2026-10-07",
+      "published": "2026-10-07",
+      "margin": -2.0,
+      "n": 800,
+      "kind": "poll",
+      "source_id": "import-texas-governor-guidant-polling-2026-10-07",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-yougov-2026-10-06",
+      "race_id": "texas-governor",
+      "pollster": "YouGov",
+      "end": "2026-10-06",
+      "published": "2026-10-06",
+      "margin": 1.0,
+      "n": 3622,
+      "kind": "poll",
+      "source_id": "import-texas-governor-yougov-2026-10-06",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-siena-college-2026-10-04",
+      "race_id": "texas-governor",
+      "pollster": "Siena College",
+      "end": "2026-10-04",
+      "published": "2026-10-04",
+      "margin": 3.0,
+      "n": 615,
+      "kind": "poll",
+      "source_id": "import-texas-governor-siena-college-2026-10-04",
+      "note": "D49/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "texas-governor-fox-news-2026-10-01",
+      "race_id": "texas-governor",
+      "pollster": "Fox News",
+      "end": "2026-10-01",
+      "published": "2026-10-01",
+      "margin": -5.0,
+      "n": 881,
+      "kind": "poll",
+      "source_id": "import-texas-governor-fox-news-2026-10-01",
+      "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    }
+  ],
+  "sources": [
+    {
+      "id": "import-new-hampshire-senate-saint-anselm-college-2026-10-22",
+      "title": "Saint Anselm College / new-hampshire-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/new-hampshire",
+      "type": "Imported primary poll",
+      "published": "2026-10-22",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-new-hampshire-senate-national-public-affairs-2026-10-20",
+      "title": "National Public Affairs / new-hampshire-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/new-hampshire",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-new-hampshire-senate-saint-anselm-college-2026-10-06",
+      "title": "Saint Anselm College / new-hampshire-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/new-hampshire",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D51/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-new-hampshire-senate-yougov-2026-10-06",
+      "title": "YouGov / new-hampshire-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/new-hampshire",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D51/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-insideradvantage-2026-10-23",
+      "title": "InsiderAdvantage / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D47/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-marist-poll-2026-10-21",
+      "title": "Marist Poll / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D50/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-insideradvantage-2026-10-11",
+      "title": "InsiderAdvantage / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-11",
+      "note": "D48/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-z-to-a-research-2026-10-09",
+      "title": "Z to A Research / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D49/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-quantus-insights-2026-10-07",
+      "title": "Quantus Insights / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-guidant-polling-2026-10-07",
+      "title": "Guidant Polling / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D48/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-yougov-2026-10-06",
+      "title": "YouGov / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-mitchell-research-2026-10-05",
+      "title": "Mitchell Research / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-05",
+      "note": "D46/R41 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-trafalgar-group-2026-10-01",
+      "title": "Trafalgar Group / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-senate-fox-news-2026-09-30",
+      "title": "Fox News / michigan-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-09-30",
+      "note": "D50/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-fox-news-2026-10-22",
+      "title": "Fox News / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-22",
+      "note": "D49/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-insideradvantage-2026-10-16",
+      "title": "InsiderAdvantage / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-16",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-suffolk-university-2026-10-14",
+      "title": "Suffolk University / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-wash-post-schar-school-2026-10-09",
+      "title": "Wash. Post-Schar School / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D50/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-trafalgar-group-2026-10-03",
+      "title": "Trafalgar Group / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-03",
+      "note": "D46/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-aarp-2026-10-01",
+      "title": "AARP / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D50/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-co-efficient-2026-09-30",
+      "title": "co/efficient / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-09-30",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-verasight-2026-10-23",
+      "title": "Verasight / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-texas-public-opinion-research-2026-10-23",
+      "title": "Texas Public Opinion Research / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D51/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-emerson-college-2026-10-22",
+      "title": "Emerson College / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-22",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-new-river-gsg-2026-10-21",
+      "title": "New River / GSG / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D49/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-activote-2026-10-21",
+      "title": "ActiVote / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-fox-news-2026-10-21",
+      "title": "Fox News / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D49/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-university-of-houston-hobby-school-2026-10-19",
+      "title": "University of Houston Hobby School / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D48/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-yougov-2026-10-18",
+      "title": "YouGov / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-18",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-insideradvantage-2026-10-16",
+      "title": "InsiderAdvantage / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-16",
+      "note": "D48/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-activote-2026-10-15",
+      "title": "ActiVote / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-15",
+      "note": "D52/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-yougov-2026-10-14",
+      "title": "YouGov / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D50/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-marist-poll-2026-10-14",
+      "title": "Marist Poll / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-quantus-insights-2026-10-13",
+      "title": "Quantus Insights / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-siena-college-2026-10-13",
+      "title": "Siena College / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D48/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-trafalgar-group-2026-10-10",
+      "title": "Trafalgar Group / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-10",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-umass-lowell-2026-10-08",
+      "title": "UMass Lowell / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-08",
+      "note": "D45/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-guidant-polling-2026-10-07",
+      "title": "Guidant Polling / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-yougov-2026-10-06",
+      "title": "YouGov / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-siena-college-2026-10-03",
+      "title": "Siena College / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-03",
+      "note": "D51/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-senate-fox-news-2026-10-01",
+      "title": "Fox News / texas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D51/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-insideradvantage-2026-10-23",
+      "title": "InsiderAdvantage / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D45/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-new-river-gsg-2026-10-21",
+      "title": "New River / GSG / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D46/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-national-public-affairs-2026-10-20",
+      "title": "National Public Affairs / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D44/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-co-efficient-2026-10-19",
+      "title": "co/efficient / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D45/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-trafalgar-group-2026-10-17",
+      "title": "Trafalgar Group / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-17",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-marist-poll-2026-10-15",
+      "title": "Marist Poll / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-15",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-yougov-2026-10-14",
+      "title": "YouGov / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D47/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-cnn-ssrs-2026-10-08",
+      "title": "CNN / SSRS / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-08",
+      "note": "D43/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-suffolk-university-2026-10-07",
+      "title": "Suffolk University / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D48/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-siena-college-2026-10-03",
+      "title": "Siena College / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-03",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-fox-news-2026-10-01",
+      "title": "Fox News / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-senate-quantus-insights-2026-09-30",
+      "title": "Quantus Insights / iowa-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-09-30",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-alaska-senate-data-for-progress-2026-10-20",
+      "title": "Data for Progress / alaska-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/alaska",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D47/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-alaska-senate-insideradvantage-2026-10-11",
+      "title": "InsiderAdvantage / alaska-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/alaska",
+      "type": "Imported primary poll",
+      "published": "2026-10-11",
+      "note": "D48/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-alaska-senate-alaska-survey-research-2026-10-06",
+      "title": "Alaska Survey Research / alaska-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/alaska",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D47/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-alaska-senate-siena-college-2026-10-03",
+      "title": "Siena College / alaska-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/alaska",
+      "type": "Imported primary poll",
+      "published": "2026-10-03",
+      "note": "D50/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-alaska-senate-quantus-insights-2026-10-02",
+      "title": "Quantus Insights / alaska-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/alaska",
+      "type": "Imported primary poll",
+      "published": "2026-10-02",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-senate-insideradvantage-2026-10-16",
+      "title": "InsiderAdvantage / kansas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-16",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-senate-insideradvantage-2026-10-11",
+      "title": "InsiderAdvantage / kansas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-11",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-senate-yougov-2026-10-06",
+      "title": "YouGov / kansas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-senate-trafalgar-group-2026-10-02",
+      "title": "Trafalgar Group / kansas-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-02",
+      "note": "D44/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-nevada-governor-noble-predictive-insights-2026-10-06",
+      "title": "Noble Predictive Insights / nevada-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/nevada",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D40/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-georgia-governor-activote-2026-10-20",
+      "title": "ActiVote / georgia-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/georgia",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D49/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-georgia-governor-university-of-georgia-2026-10-20",
+      "title": "University of Georgia / georgia-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/georgia",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D45/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-georgia-governor-quantus-insights-2026-10-19",
+      "title": "Quantus Insights / georgia-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/georgia",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D48/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-georgia-governor-insideradvantage-2026-10-14",
+      "title": "InsiderAdvantage / georgia-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/georgia",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-governor-yougov-2026-10-06",
+      "title": "YouGov / kansas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D44/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-kansas-governor-siena-college-2026-10-04",
+      "title": "Siena College / kansas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/kansas",
+      "type": "Imported primary poll",
+      "published": "2026-10-04",
+      "note": "D44/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-wisconsin-governor-z-to-a-research-2026-10-09",
+      "title": "Z to A Research / wisconsin-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/wisconsin",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D49/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-wisconsin-governor-marquette-law-school-2026-09-30",
+      "title": "Marquette Law School / wisconsin-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/wisconsin",
+      "type": "Imported primary poll",
+      "published": "2026-09-30",
+      "note": "D49/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-new-river-gsg-2026-10-21",
+      "title": "New River / GSG / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D54/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-national-public-affairs-2026-10-20",
+      "title": "National Public Affairs / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-20",
+      "note": "D50/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-co-efficient-2026-10-19",
+      "title": "co/efficient / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D49/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-marist-poll-2026-10-15",
+      "title": "Marist Poll / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-15",
+      "note": "D52/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-yougov-2026-10-14",
+      "title": "YouGov / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-emerson-college-2026-10-09",
+      "title": "Emerson College / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D49/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-cnn-ssrs-2026-10-08",
+      "title": "CNN / SSRS / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-08",
+      "note": "D51/R42 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-suffolk-university-2026-10-07",
+      "title": "Suffolk University / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D55/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-siena-college-2026-10-04",
+      "title": "Siena College / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-04",
+      "note": "D52/R41 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-iowa-governor-fox-news-2026-10-01",
+      "title": "Fox News / iowa-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/iowa",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D53/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-governor-marist-poll-2026-10-21",
+      "title": "Marist Poll / michigan-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D51/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-governor-z-to-a-research-2026-10-09",
+      "title": "Z to A Research / michigan-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D50/R40 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-governor-guidant-polling-2026-10-07",
+      "title": "Guidant Polling / michigan-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D50/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-governor-yougov-2026-10-06",
+      "title": "YouGov / michigan-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D48/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-michigan-governor-fox-news-2026-09-30",
+      "title": "Fox News / michigan-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/michigan",
+      "type": "Imported primary poll",
+      "published": "2026-09-30",
+      "note": "D54/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-arizona-governor-wick-2026-10-13",
+      "title": "Wick / arizona-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/arizona",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D49/R43 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-arizona-governor-highground-inc-2026-10-13",
+      "title": "HighGround Inc. / arizona-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/arizona",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D51/R34 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-arizona-governor-grayhouse-2026-10-10",
+      "title": "Grayhouse / arizona-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/arizona",
+      "type": "Imported primary poll",
+      "published": "2026-10-10",
+      "note": "D50/R44 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-univ-of-north-florida-2026-10-21",
+      "title": "Univ. of North Florida / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D47/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-co-efficient-2026-10-21",
+      "title": "co/efficient / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D40/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-activote-2026-10-19",
+      "title": "ActiVote / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D48/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-mdw-communications-2026-10-14",
+      "title": "MDW Communications / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-stetson-university-2026-10-13",
+      "title": "Stetson University / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D41/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-change-research-2026-10-12",
+      "title": "Change Research / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-12",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-james-madison-institute-2026-10-09",
+      "title": "James Madison Institute / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-09",
+      "note": "D42/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-st-pete-polls-2026-10-08",
+      "title": "St. Pete Polls / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-08",
+      "note": "D45/R45 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-mason-dixon-2026-10-07",
+      "title": "Mason-Dixon / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D41/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-florida-governor-yougov-2026-10-06",
+      "title": "YouGov / florida-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/florida",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D45/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-verasight-2026-10-23",
+      "title": "Verasight / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-texas-public-opinion-research-2026-10-23",
+      "title": "Texas Public Opinion Research / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-23",
+      "note": "D48/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-emerson-college-2026-10-22",
+      "title": "Emerson College / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-22",
+      "note": "D47/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-new-river-gsg-2026-10-21",
+      "title": "New River / GSG / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-activote-2026-10-21",
+      "title": "ActiVote / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D48/R53 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-fox-news-2026-10-21",
+      "title": "Fox News / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-21",
+      "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-university-of-houston-hobby-school-2026-10-19",
+      "title": "University of Houston Hobby School / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-19",
+      "note": "D46/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-yougov-2026-10-18",
+      "title": "YouGov / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-18",
+      "note": "D48/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-activote-2026-10-15",
+      "title": "ActiVote / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-15",
+      "note": "D49/R51 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-yougov-2026-10-14",
+      "title": "YouGov / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D49/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-marist-poll-2026-10-14",
+      "title": "Marist Poll / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-14",
+      "note": "D45/R49 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-siena-college-2026-10-13",
+      "title": "Siena College / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-13",
+      "note": "D47/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-umass-lowell-2026-10-08",
+      "title": "UMass Lowell / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-08",
+      "note": "D44/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-guidant-polling-2026-10-07",
+      "title": "Guidant Polling / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-07",
+      "note": "D44/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-yougov-2026-10-06",
+      "title": "YouGov / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-06",
+      "note": "D48/R47 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-siena-college-2026-10-04",
+      "title": "Siena College / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-04",
+      "note": "D49/R46 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-texas-governor-fox-news-2026-10-01",
+      "title": "Fox News / texas-governor",
+      "url": "https://www.270towin.com/2026-governor-polls/texas",
+      "type": "Imported primary poll",
+      "published": "2026-10-01",
+      "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    }
+  ]
+}

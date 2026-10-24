@@ -84,6 +84,15 @@ def estimate(observations, as_of, shift=0, error_scale=1):
             'used_ids':[p['id'] for p in selected], 'latest':max(p['end'] for p in selected),
             'status':'Provisional polling model', 'assumption':'D/R winner approximation; other-party wins not modeled'}
 
+MIN_EDGE, MIN_POLLSTERS = .08, 3
+
+def tradability(model, observations):
+    """Reason an edge is reference-only, or None. Rating conversions carry no information beyond the label."""
+    if model['status']!='Provisional polling model':return 'Rating-derived baseline; not independent evidence'
+    pollsters={p['pollster'] for p in observations if p['id'] in model['used_ids']}
+    if len(pollsters)<MIN_POLLSTERS:return f'Fewer than {MIN_POLLSTERS} independent pollsters'
+    return None
+
 def forecast(races, observations, as_of, shift=0, error_scale=1):
     output=[]
     for race in races:
@@ -96,9 +105,11 @@ def forecast(races, observations, as_of, shift=0, error_scale=1):
         row['status'] = row['model']['status'] if row['model'] else 'Market snapshot only'
         row['edges'] = {}
         if row['model']:
+            reason = tradability(row['model'], obs)
             for party, quote in race['quotes'].items():
                 p = row['model']['dem_probability'] if party=='Democratic' else 1-row['model']['dem_probability']
-                row['edges'][party] = {'probability':p,'difference':p-quote['yes']}
+                why = reason or (None if abs(p-quote['yes'])>=MIN_EDGE else f'Below {MIN_EDGE:.0%} minimum edge')
+                row['edges'][party] = {'probability':p,'difference':p-quote['yes'],'tradable':why is None,'reason':why}
         output.append(row)
     return output
 

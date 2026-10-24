@@ -62,6 +62,11 @@ class ModelTests(unittest.TestCase):
         newer=dict(obs[-1],id='new',end='2026-10-01',published='2026-10-02')
         result=estimate(obs+[newer],'2026-10-02')
         self.assertEqual(result['used_ids'],['new'])
+    def test_rating_edges_never_tradable(self):
+        for race in build()['races']:
+            for edge in race['edges'].values():
+                if race['model']['status']=='Rating-derived baseline':self.assertFalse(edge['tradable'])
+                if edge['tradable']:self.assertGreaterEqual(abs(edge['difference']),.08)
     def test_database_universe(self):
         rows=json.loads(Path('data/universe.json').read_text())
         self.assertEqual(sum(r['office']=='house' for r in rows),435)
