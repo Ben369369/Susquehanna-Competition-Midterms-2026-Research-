@@ -1,0 +1,118 @@
+[
+  {
+    "id": "platform-docs",
+    "url": "https://sig.thesuper.market/api/v1/docs",
+    "retrieved_at": "2026-09-29T18:42:19.350497+00:00",
+    "sha256": "c02518f99830a23b38b878c7f8aeed3f96a3271054fa8add93a0b8101a7b6ee6",
+    "bytes": 942730,
+    "status": "archived"
+  },
+  {
+    "id": "platform-openapi",
+    "url": "https://sig.thesuper.market/api/v1/openapi.json",
+    "retrieved_at": "2026-09-29T18:42:16.334283+00:00",
+    "sha256": "e68152d804755bf0dbbe55f8bf6100fec211cda8b087bc54684f6fcd873a0aae",
+    "bytes": 422027,
+    "status": "archived"
+  },
+  {
+    "id": "emerson",
+    "url": "https://emersoncollegepolling.com/",
+    "retrieved_at": "2026-09-29T18:42:17.767131+00:00",
+    "sha256": "e837a5350946f7d8a2f42c68aa03c5dd2a54a8343db382dd64568ba9c9e24ba4",
+    "bytes": 186233,
+    "status": "archived"
+  },
+  {
+    "id": "silver",
+    "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+    "retrieved_at": "2026-09-29T18:42:16.333284+00:00",
+    "sha256": "fb5f7dbfefeebf611765ab857aa50c286a4213168b790b5469bb4431e90bdb2c",
+    "bytes": 190845,
+    "status": "archived"
+  },
+  {
+    "id": "rules",
+    "url": "https://predictionscup.com/rules/",
+    "retrieved_at": "2026-09-29T18:42:16.306172+00:00",
+    "sha256": "8c9faa1b06784ffea4114cdc7fdbcccff6c2203e9b3336f5156e7f76e17a8723",
+    "bytes": 118708,
+    "status": "archived"
+  },
+  {
+    "id": "unh-nh",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2004&context=survey_center_polls",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "unh-vt",
+    "url": "https://scholars.unh.edu/cgi/viewcontent.cgi?article=2005&context=survey_center_polls",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ratings-house",
+    "url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_house_year=2026_district=all_clean.json",
+    "retrieved_at": "2026-09-29T18:42:18.083774+00:00",
+    "sha256": "848758f7dad02f7bb2c7560e25f0c8673bc114e6aa666812be71ccc2ea98052c",
+    "bytes": 322247,
+    "status": "archived"
+  },
+  {
+    "id": "ratings-senate",
+    "url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json",
+    "retrieved_at": "2026-09-29T18:42:17.563782+00:00",
+    "sha256": "14fba6151cc3241623dc252307aff5a17f7b6443b0528732c85f4e8e987c3f08",
+    "bytes": 86063,
+    "status": "archived"
+  },
+  {
+    "id": "ratings-governor",
+    "url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_governor_year=2026_district=all_clean.json",
+    "retrieved_at": "2026-09-29T18:42:17.231541+00:00",
+    "sha256": "9c6c81d3249c733aa82ac2606a8b248f3c480f7a4fb0586fc8ee1b18b160c77b",
+    "bytes": 43414,
+    "status": "archived"
+  },
+  {
+    "id": "nevada",
+    "url": "https://emersoncollegepolling.com/nevada-2026-poll-ford-and-lombardo/",
+    "retrieved_at": "2026-09-29T18:42:19.360584+00:00",
+    "sha256": "0e189944328524e2d0c5a3706570c141ff9174100a2006110dc0acc407f31c0a",
+    "bytes": 105384,
+    "status": "archived"
+  },
+  {
+    "id": "kansas",
+    "url": "https://emersoncollegepolling.com/kansas-2026/",
+    "retrieved_at": "2026-09-29T18:42:20.627091+00:00",
+    "sha256": "4da5aa879c29f20ed9bbed7c5feb6e8b4f2bb34b044a27e9667652286f3c47af",
+    "bytes": 105993,
+    "status": "archived"
+  },
+  {
+    "id": "texas",
+    "url": "https://emersoncollegepolling.com/texas-2026-poll-talarico-and-paxton-in-dead-heat-abbott-maintains-edge/",
+    "retrieved_at": "2026-09-29T18:42:20.308249+00:00",
+    "sha256": "bf5cad627294b1a41e79e64ad8fe27dbaa6e87e24c4d28dcfa5bc9de7ed8c53b",
+    "bytes": 105553,
+    "status": "archived"
+  },
+  {
+    "id": "michigan",
+    "url": "https://emersoncollegepolling.com/michigan-2026-poll-el-sayed-and-rogers-locked-in-close-election/",
+    "retrieved_at": "2026-09-29T18:42:20.026497+00:00",
+    "sha256": "28aa4e97413437d1f62320a593b2a1b73643d716606715580db13c0694357e61",
+    "bytes": 104100,
+    "status": "archived"
+  },
+  {
+    "id": "iowa",
+    "url": "https://emersoncollegepolling.com/iowa-2026-poll-hinson-leads-turek/",
+    "retrieved_at": "2026-09-29T18:42:20.894017+00:00",
+    "sha256": "89cf158976034ef10ce837d5117c7d1898c9fd0b81abf02e457a06f4e3025d8f",
+    "bytes": 106076,
+    "status": "archived"
+  }
+]

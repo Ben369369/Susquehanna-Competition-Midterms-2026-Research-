@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/research.sqlite3*
+data/market-archives/
+node_modules/

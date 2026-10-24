@@ -1,0 +1,1025 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+                <script type="text/javascript" src="https://embeds.iubenda.com/widgets/0462bb56-9d5c-4a76-8607-4575399003c3.js"></script>
+        <style>
+            div#iubenda-cs-banner {
+                display: none !important;
+            }
+        </style>
+
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W6445FD');
+    </script>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google-site-verification" content="zCBRSGGLZX4uberQdUPFPKLBd-bUQy2yJyVdiMP_KQA" />
+    <meta property="og:site_name" content="Susquehanna International Group" />
+    <title>Predictions Cup Rules | Susquehanna Predictions</title>
+<meta name="description" content="Predictions Cup is a free to enter, virtual market simulated trading competition for university students."/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://sig.com/#organization",
+  "name": "Susquehanna International Group",
+  "alternateName": "Susquehanna",
+  "url": "https://predictionscup.com/rules/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://sig.com/media/0cxm3mrj/susquehanna.png"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-610-617-2600",
+    "contactType": "corporate headquarters",
+    "areaServed": "US",
+    "availableLanguage": "English"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/susquehanna-international-group/",
+    "https://www.instagram.com/lifeatsusquehanna",
+    "https://www.youtube.com/@LifeatSusquehanna"
+  ]
+}
+</script>
+<meta property="og:title" content="Predictions Cup Rules | Susquehanna Predictions"/>
+<meta property="og:description" content="Predictions Cup is a free to enter, virtual market simulated trading competition for university students."/>
+<meta property="og:image" content="https://predictionscup.com/media/p13hqgwn/predictionscupog.webp"/>
+<meta name="og:url" content="https://predictionscup.com/rules/"/>
+<link rel="canonical" href="https://predictionscup.com/rules/"/>
+
+    <link rel="stylesheet" href="/css/output.css" />
+    <link rel="stylesheet" href="/css/richtext.css" />
+    <link rel="stylesheet" href="/css/daisy.css" />
+</head>
+
+<body id="body" class="flex w-screen min-h-screen flex-col overflow-x-hidden bg-white text-black">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6445FD"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+<header id="header" class="relative inline" style="margin-left: calc(100vw - 100%);">
+    <img id="full-background" src="/media/uqwmdzru/vectorpaint.svg" alt="Menu Box Nav" class="fixed hidden h-screen w-screen object-cover" />
+
+    <div class="flex justify-center">
+        <div id="header-content-wrapper" class="z-40 min-h-[100%]  flex w-screen justify-center overflow-auto px-5 sm:px-6 xl:px-12 2xl:px-20 py-2.5 sm:py-5 md:py-[28px] min-h-[55px]" style="background-color: #ffffff;">
+            <div class="flex w-full flex-wrap content-start items-center justify-between gap-0 xl:max-w-[97.5rem] 2xl:max-w-[98.5rem] xl:gap-14 2xl:gap-20">
+                <div id="logo" class=" ">
+                    <a href="https://sig.com/predictions/">
+                        <img id="logo-image" alt=""
+                             class="max-w-[393px] md:max-w-[327px] xl:max-w-[393px] w-[164px] h-auto md:w-[393px] relative"
+                             style="shape-rendering:crispEdges;"
+                             src="/media/db2iv225/susqpredictionlogo_488x64-blk.svg" />
+                    </a>
+                </div>
+                    <div id="headings" class="flex flex-row items-center lg:gap-5 xl:gap-8 2xl:gap-12">
+                        <div id="navbar-headings-container" class="hidden items-center xl:flex lg:gap-5 xl:gap-8 2xl:gap-12">
+                                    <a href="https://sig.com/what-we-do/" class="font-brutalExtraBold size-2xl text-[#005db9] hover:text-[#1c355e]">What We Do</a>
+                                    <a href="https://sig.com/who-we-are/" class="font-brutalExtraBold size-2xl text-[#005db9] hover:text-[#1c355e]">Who We Are</a>
+                                    <a href="https://sig.com/careers/" class="font-brutalExtraBold size-2xl text-[#005db9] hover:text-[#1c355e]">Careers</a>
+                                    <span class="font-brutalExtraBold size-2xl text-[#005db9]">Blog</span>
+                        </div>
+
+                        <div id="menu-button-container" class="blueBtn bg-[#ffffff] flex h-fit max-w-fit scale-[80%] max-xs:px-1 py-1.5 hover:bg-[#1c355e] xl:py-2 md:scale-100">
+                            <a id="menu-toggle" data-open="false" class="size-2xl m-1 my-1 flex xl:mx-0" style="color: #ffffff;">
+                                <img src="/media/d40f4pyp/menu-vector.svg" class="w-[100%] max-w-[100px] aspect-[99/16]" alt="menu-button" />
+                            </a>
+                        </div>
+                    </div>
+                        <div id="headings-dropdown" class="min-h-[1000px] hidden w-full flex-col items-start justify-start gap-4 xl:flex-row md:gap-5 lg:gap-6 xl:gap-14 2xl:gap-20 max-xl:mt-8">
+                                <style>
+                                    #Careers-container {
+                                        @media (min-width: 1475px) {
+                                            max-width: 17rem;
+                                        }
+                                    }
+                                </style>
+                                <div id="What We Do-container" class="max-w-[25rem] w-full md:max-w-[28rem] xl:max-w-[14.5rem]">
+                                    <div class="flex justify-between">
+                                        <div class="min-w-[180px] block w-fit sm:w-full xl:min-w-[0px]">
+                                                <a href='https://sig.com/what-we-do/' class="size-3xl font-brutalBlack block w-full p-1 pl-0 text-white hover:underline xl:p-0">What We Do</a>
+
+                                        </div>
+                                        <div class="items-center">
+                                                <img src="/media/vtqdm23b/vectorpaint.svg" alt="What We Do toggle" onclick='toggleDropdown("What We Do", this)' class="visible inline-flex w-full object-scale-down p-3 xl:hidden" />
+                                        </div>
+
+
+                                    </div>
+
+                                        <div id="What We Do" class="mb-2 hidden xl:block">
+                                                <a href="https://sig.com/what-we-do/quantitative-trading/" id="https://sig.com/what-we-do/quantitative-trading/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Quantitative Trading
+                                                </a>
+                                                <a href="https://sig.com/predictions/" id="https://sig.com/predictions/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Predictions
+                                                </a>
+                                                <a href="https://www.susquehannainstitutionaltrading.com/" id="https://www.susquehannainstitutionaltrading.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Institutional Sales
+                                                </a>
+                                                <a href="https://www.sgep.com/" id="https://www.sgep.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Growth Equity
+                                                </a>
+                                                <a href="https://www.sig-ssi.com/" id="https://www.sig-ssi.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Sustainable Investments
+                                                </a>
+                                                <a href="https://sig-asiavc.com/" id="https://sig-asiavc.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Venture Capital
+                                                </a>
+                                                <a href="https://www.riversedgepromotions.com/" id="https://www.riversedgepromotions.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    River&#x27;s Edge
+                                                </a>
+                                        </div>
+                                </div>
+                                <style>
+                                    #Careers-container {
+                                        @media (min-width: 1475px) {
+                                            max-width: 17rem;
+                                        }
+                                    }
+                                </style>
+                                <div id="Who We Are-container" class="max-w-[25rem] w-full md:max-w-[28rem] xl:max-w-[14.5rem]">
+                                    <div class="flex justify-between">
+                                        <div class="min-w-[180px] block w-fit sm:w-full xl:min-w-[0px]">
+                                                <a href='https://sig.com/who-we-are/' class="size-3xl font-brutalBlack block w-full p-1 pl-0 text-white hover:underline xl:p-0">Who We Are</a>
+
+                                        </div>
+                                        <div class="items-center">
+                                                <img src="/media/vtqdm23b/vectorpaint.svg" alt="Who We Are toggle" onclick='toggleDropdown("Who We Are", this)' class="visible inline-flex w-full object-scale-down p-3 xl:hidden" />
+                                        </div>
+
+
+                                    </div>
+
+                                        <div id="Who We Are" class="mb-2 hidden xl:block">
+                                                <a href="https://sig.com/who-we-are/game-theory-decision-science/" id="https://sig.com/who-we-are/game-theory-decision-science/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Game Theory &#x2B; Decision Science
+                                                </a>
+                                                <a href="https://sig.com/who-we-are/life-at-susquehanna/" id="https://sig.com/who-we-are/life-at-susquehanna/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Life at Susquehanna
+                                                </a>
+                                                <a href="https://sig.com/who-we-are/office-locations/" id="https://sig.com/who-we-are/office-locations/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Office Locations
+                                                </a>
+                                        </div>
+                                </div>
+                                <style>
+                                    #Careers-container {
+                                        @media (min-width: 1475px) {
+                                            max-width: 17rem;
+                                        }
+                                    }
+                                </style>
+                                <div id="Careers-container" class="max-w-[25rem] w-full md:max-w-[28rem] xl:max-w-[14.5rem]">
+                                    <div class="flex justify-between">
+                                        <div class="min-w-[180px] block w-fit sm:w-full xl:min-w-[0px]">
+                                                <a href='https://sig.com/careers/' class="size-3xl font-brutalBlack block w-full p-1 pl-0 text-white hover:underline xl:p-0">Careers</a>
+
+                                        </div>
+                                        <div class="items-center">
+                                                <img src="/media/vtqdm23b/vectorpaint.svg" alt="Careers toggle" onclick='toggleDropdown("Careers", this)' class="visible inline-flex w-full object-scale-down p-3 xl:hidden" />
+                                        </div>
+
+
+                                    </div>
+
+                                        <div id="Careers" class="mb-2 hidden xl:block">
+                                                <a href="https://sig.com/careers/trading/" id="https://sig.com/careers/trading/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Trading
+                                                </a>
+                                                <a href="https://sig.com/careers/technology/" id="https://sig.com/careers/technology/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Technology
+                                                </a>
+                                                <a href="https://sig.com/careers/quant/" id="https://sig.com/careers/quant/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Quantitative Research    &#x2B; Machine Learning
+                                                </a>
+                                                <a href="https://careers.sig.com/jobs" id="https://careers.sig.com/jobs" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Apply Now
+                                                </a>
+                                        </div>
+                                </div>
+                                <style>
+                                    #Careers-container {
+                                        @media (min-width: 1475px) {
+                                            max-width: 17rem;
+                                        }
+                                    }
+                                </style>
+                                <div id="Blog-container" class="max-w-[25rem] w-full md:max-w-[28rem] xl:max-w-[14.5rem]">
+                                    <div class="flex justify-between">
+                                        <div class="min-w-[180px] block w-fit sm:w-full xl:min-w-[0px]">
+                                                <span class="size-3xl font-brutalBlack block w-full p-1 pl-0 text-white xl:p-0">Blog</span>
+
+                                        </div>
+                                        <div class="items-center">
+                                                <img src="/media/vtqdm23b/vectorpaint.svg" alt="Blog toggle" onclick='toggleDropdown("Blog", this)' class="visible inline-flex w-full object-scale-down p-3 xl:hidden" />
+                                        </div>
+
+
+                                    </div>
+
+                                        <div id="Blog" class="mb-2 hidden xl:block">
+                                                <a href="/waves/" id="/waves/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0">
+                                                    Waves
+                                                </a>
+                                                <a href="https://raiseyourgame.com/" id="https://raiseyourgame.com/" class="size-2xl font-brutalLight mt-1.5 inline-block w-full p-2 pl-0 leading-tight text-white hover:underline md:mt-2 lg:mt-2.5 xl:mt-5 xl:p-0" target="_blank">
+                                                    Raise Your Game
+                                                </a>
+                                        </div>
+                                </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded",
+        () => {
+            displayLogo("/media/db2iv225/susqpredictionlogo_488x64-blk.svg");
+
+            const menuToggle = document.getElementById("menu-toggle");
+            if (menuToggle)
+                menuToggle.addEventListener("click",
+                    function () {
+                        toggleFullPageImage();
+                        toggleBackgroundTransparency(document.getElementById("header-content-wrapper"), "#ffffff");
+                        toggleHeadings();
+                        toggleMenuItems();
+
+                        // helps ensure that the header content takes over the whole page, even if the user has scrolled down a little
+                        updateHeaderContentDisplayProperty();
+
+                        const toggleText = document.getElementById("menu-toggle");
+                        if (toggleText.getAttribute("data-open") === "false") {
+                            toggleText.querySelector("img").src = "/media/z11jrtkv/close_x_final.svg";
+                            toggleText.setAttribute("data-open", "true");
+                            displayLogo("/media/mnjhl2el/susqpredictionlogo_white_488x64.svg");
+                        } else {
+                            toggleText.setAttribute("data-open", "false");
+
+                            toggleText.querySelector("img").src = "/media/d40f4pyp/menu-vector.svg";
+                            displayLogo("/media/db2iv225/susqpredictionlogo_488x64-blk.svg");
+                        }
+
+                    });
+        });
+
+    function toggleHeadings() {
+        var el = document.getElementById("navbar-headings-container");
+        var background = document.getElementById("full-background");
+        if (background.classList.contains("hidden")) {
+            el.classList.add("xl:flex");
+        }
+        else {
+            el.classList.remove("xl:flex");
+        }
+    }
+
+    function updateHeaderContentDisplayProperty() {
+        var content = document.getElementById("header-content-wrapper");
+        content.classList.toggle("absolute");
+        content.classList.toggle("fixed");
+        content.classList.toggle("h-screen");
+
+    }
+
+    function toggleFullPageImage() {
+        const navbarImage = document.getElementById("full-background");
+        navbarImage.classList.toggle("hidden");
+        navbarImage.classList.toggle("z-30");
+
+        const body = document.getElementById("body");
+        body.classList.toggle("overflow-hidden");
+    }
+
+    function toggleMenuItems() {
+        document.getElementById("headings-dropdown").classList.toggle("flex");
+        document.getElementById("headings-dropdown").classList.toggle("hidden");
+    }
+
+    function toggleBackgroundTransparency(el, color) {
+        /*
+         * toggle background of element
+         * el - element to toggle
+         * color - color to toggle
+         */
+
+        if (el.style.getPropertyValue("background-color") != null && el.style.getPropertyValue("background-color") !== "")
+            el.style.removeProperty("background-color");
+        else
+            el.style.setProperty("background-color", color);
+    }
+
+    function toggleMenuButton(backgroundColor, text, textColor) {
+        /*
+         * toggle between menu and close button
+         *
+         * backgroundColor - color of wrapper
+         * text - text of toggle
+         * textColor - color of toggle
+         */
+
+        var wrapper = document.getElementById("menu-button-container");
+        toggleBackgroundTransparency(wrapper, backgroundColor);
+
+        var toggle = document.getElementById("menu-toggle");
+        toggle.innerText = text;
+        toggle.style.color = textColor;
+        toggle.classList.toggle("font-brutalExtraBold");
+        toggle.classList.toggle("font-brutalLight");
+
+    }
+
+    function displayLogo(url) {
+        /*
+         * change logo
+         * url - logo to input
+         */
+
+        document.getElementById("logo-image").setAttribute("src", url);
+    }
+
+    function toggleDropdown(id, button) {
+        /*
+         * toggle dropdown for heading
+         * id - dropdown to toggle
+         * button - img to swap plus and minus
+         */
+
+        var el = document.getElementById(id)
+        el.classList.toggle("hidden");
+        el.classList.toggle("xl:visibility");
+        el.classList.toggle("xl:visibility");
+        if (el.classList.contains("hidden")) {
+            button.setAttribute("src", "/media/vtqdm23b/vectorpaint.svg");
+        }
+        else {
+            button.setAttribute("src", "/media/fofpdy3b/vectorpaint-2.svg");
+        }
+    }
+</script>
+
+<style>
+    #sponsorHeader #menu-button-container {
+        background-color: #000;
+    }
+
+        #sponsorHeader #menu-button-container:hover {
+            background-color: #000;
+        }
+
+    @media (max-width: 1440px) {
+        #headings-dropdown > div:last-child {
+            margin-bottom: 20px;
+        }
+    }
+
+    @media (max-width: 600px) {
+        .size-3xl {
+            font-size: 16px;
+        }
+    }
+
+    body.overflow-hidden #menu-button-container,
+    body #menu-button-container {
+        background-color: #005db9;
+    }
+
+        body #menu-button-container:hover {
+            background-color: #1c355e;
+        }
+
+    @media (max-width: 499px) {
+        body.overflow-hidden #menu-button-container,
+        body.overflow-hidden #menu-button-container:hover,
+        body #menu-button-container:hover,
+        body #menu-button-container {
+            background-color: #005cb9;
+        }
+    }
+
+    /* Hides Blog header from top nav menu */
+    #navbar-headings-container span:nth-child(4) {
+        display: none;
+    }
+
+    /* add cursor to header nav onhover*/
+    #menu-toggle:hover {
+        cursor: pointer;
+    }
+
+</style>
+
+<main>
+    
+<section class="mx-auto max-w-7xl px-6 py-20">
+
+        <div class="rules-content">
+            <div class="SCXW45831007 BCX0">
+<h1 class="Paragraph SCXW45831007 BCX0" style="text-align: center;"><span class="size-4xl"><strong>Susquehanna Predictions Cup</strong><br>OFFICIAL RULES</span></h1>
+<p style="text-align: center;" class="Paragraph SCXW45831007 BCX0">Last Updated: September 23rd, 2026</p>
+<h1 class="Paragraph SCXW45831007 BCX0" style="text-align: center;"><span class="size-4xl"><strong>NO PURCHASE NECESSARY.</strong></span></h1>
+<div class="OutlineElement Ltr SCXW45831007 BCX0" style="text-align: center;">
+<p class="Paragraph SCXW45831007 BCX0">ONLY OPEN TO RESIDENTS IN AUSTRALIA, AUSTRIA, BELGIUM, CANADA, CHILE, CHINA, COLOMBIA, COSTA RICA, CZECH REPUBLIC, DENMARK, FRANCE, GERMANY, GUAM, GUATEMALA, HUNGARY, INDIA, IRELAND, JAPAN, MALAYSIA, MEXICO, NETHERLANDS, NEW ZEALAND, NORWAY, PERU, PHILIPPINES, POLAND, ROMANIA, SOUTH KOREA, SPAIN, SWEDEN, SWITZERLAND, THAILAND, TRINIDAD AND TOBAGO, UNITED KINGDOM, UNITED STATES, OR VIETNAM</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0" style="text-align: center;">
+<p class="Paragraph SCXW45831007 BCX0">VOID WHERE PROHIBITED BY LAW.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0" style="text-align: center;">
+<p class="Paragraph SCXW45831007 BCX0">The Susquehanna Predictions Cup simulates trading in markets; this is not an offer or solicitation to buy or sell any security or derivative, is not investment advice, and does not represent the terms on which any actual transaction could be executed.</p>
+</div>
+<div>
+<p style="text-align: center;">This Competition is open to many countries.<br>The winners can be from any of the eligible countries.<br>Only individuals who can read and understand English should participate.&nbsp;</p>
+These Official Rules were drafted in English, but you can request a translation into Bahasa Melayu, Czech, Dutch, French, Romanian, Spanish, and Thai by sending an email to <a rel="noopener" href="mailto:%20legalnotices@sig.com" target="_blank">legalnotices@sig.com</a> with “Susquehanna Predictions Cup – Translation Request” in the subject line. Please specify which translation you are requesting in the body of the email. In the event of any conflict or inconsistency between any translated version of the Official Rules and the English version of the Official Rules, the English version shall govern.&nbsp;<br>
+<p class="Paragraph SCXW45831007 BCX0">&nbsp;</p>
+</div>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="1">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="1" data-aria-level="1" aria-posinset="1">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Overview:</strong> The Predictions Cup is a series of individual forecasting and simulated trading competitions hosted by Susquehanna International Group, LLP (“Sponsor”) from time to time on the platform available at https://sig.thesuper.market/ (the “Platform”). <strong>These Official Rules govern with respect to the 2026 Midterm Elections Competition (the “Competition”)</strong>. The official rules for future competitions hosted by Sponsor via the Platform shall be published in advance of each future competition.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0"><strong>By participating in the Competition, each participant acknowledges and agrees that he/she has carefully read these Official Rules. Each participant understands that he/she is bound by each and every term of these Official Rules. Participation in this Competition is void where prohibited or otherwise restricted by law. Each participant is responsible for complying with all applicable local, state, provincial, territorial, and federal</strong> <strong>laws and regulations, in addition to determining whether he/she is permitted to participate in the Competition.</strong></p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="2">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1" aria-posinset="2">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Competition Period:</strong> The Competition begins on October 1, 2026 at 12:00pm and ends on November 4, 2026 at 12:00pm (the “Competition Period”). For all purposes of this Competition, all times refer to Eastern Daylight Time or Eastern Standard Time, as applicable.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="3">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="3" data-aria-level="1" aria-posinset="3">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Competition Description:</strong> The Competition is a skill-based, free-to-enter forecasting and simulated trading tournament that Sponsor is hosting for entertainment purposes only. Participants in the Competition must have an active Account (as defined below) on the Platform in order to participate (see Section 5 (Platform Account Creation) for additional information). It is completely free to sign up for an Account. The Platform is operated by The Super Market (“Platform Operator”). Platform Operator is not affiliated with Sponsor or any other Competition Entities (as defined below).</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Participants in the Competition can use their forecasting skill and knowledge to trade across a set of markets (pre-determined by Sponsor) related to the 2026 U.S. midterm elections (each a “Market” and collectively, the “Markets”) during the Competition Period. The number of Markets in the Competition will be determined in Sponsor’s sole discretion and may vary throughout the Competition. No Market offered in the Competition is or will be a “mention market,” meaning, a market resolving on whether a particular word, phrase, or name is spoken, written, or otherwise referenced by any person or in any broadcast, publication, or event.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Participants trade on Markets using non-monetary Competition-specific currency referred to as “SUSQies.” 100,000 SUSQies are allocated to all participants by Sponsor upon registration (the “Initial SUSQies Allotment”). <strong>There is zero cost, fee, or financial obligation required from any participant in the Competition. SUSQies cannot be purchased, transferred, withdrawn, converted into cash, or used outside of the Competition.</strong></p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">At any time during the Competition Period, participants in the Competition can, once logged into their Account, “buy” and “sell” positions using available SUSQies, place resting bids and offers on electronic order books, and trade with other participants. Each Market has two sides: YES and NO. A YES position wins if the Market resolves YES. A NO position wins if the Market resolves NO. By clicking on the “Info” tab within each Market on the Platform, participants can view the specific rules and the data source that will determine how that Market will resolve. Sponsor may, in its sole discretion, update the rules, outcomes, or resolution of a Market at any time, including after the resolution date or end date. Platform Operator is responsible for resolving the Markets in accordance with the objective resolution criteria set forth on the Platform. The Platform Guide, linked on the Platform and available at <a rel="noreferrer noopener" href="https://sig.thesuper.market/docs" target="_blank" class="Hyperlink SCXW45831007 BCX0">https://sig.thesuper.market/docs</a> (the “Guide”), contains additional information about how to trade with SUSQies on the available Markets. For purposes of this Competition, a trade is “received” when transmitted to the Platform via API (as defined below) or the official website, and the transmission is validly received and confirmed by the Platform via an explicit confirmation message sent via API or displayed on the official website.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">SUSQies, the non-monetary Competition-specific currency used to trade across the Markets available in the Competition, function as the participant’s simulated trading capital as well as the Competition’s scorekeeping mechanism. As participants trade across the various Markets using SUSQies, and upon the official resolution of each Market, the Platform will adjust each participant’s SUSQies balance by crediting or debiting SUSQies as applicable. Participants can view the number of SUSQies available to trade and their account value on the “Portfolio” tab of the Platform. The “Leaderboards” tab of the Platform displays a real-time ranking of each participant in the Competition (identified by username) based on their SUSQies account value (under “Current Standings”).</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">The three (3) participants with the highest total SUSQies balance following the resolution of all Markets will receive cash prizes corresponding to their final ranking: first place ($30,000 USD), second place ($5,000 USD), and third place ($2,500 USD), as permitted by applicable law and subject to the terms set forth in these Official Rules. The potential winning of a prize is subject to verification, as described below.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="4">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="4" data-aria-level="1" aria-posinset="4">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Eligibility:</strong> The Competition is open to residents of one of the following geographic areas: Australia, Austria, Belgium, Canada, Chile, China, Colombia, Costa Rica, Czech Republic, Denmark, France, Germany, Guam, Guatemala, Hungary, India, Ireland, Japan, Malaysia, Mexico, Netherlands, New Zealand, Norway, Peru, Philippines, Poland, Romania, South Korea, Spain, Sweden, Switzerland, Thailand, Trinidad and Tobago, United Kingdom, United States, or Vietnam (collectively, the “Eligible Jurisdictions”). Individuals who do not reside in an Eligible Jurisdiction are prohibited from entering the Competition. Participants must be eighteen (18) years of age or have reached the age of majority (i.e., legally recognized as an adult) in their jurisdiction of residence (See Section 9 (Minors/Age of Eligibility) for more information). Participants must be actively enrolled as an undergraduate, graduate, or PhD student (or local academic equivalent) at an accredited institution in their country of residence. Participants must also have a valid Social Security number, a valid U.S. Individual Taxpayer Identification Number, Social Insurance Number, and/or a valid taxpayer reference number issued by their country of residence. Participants must have an active Account on the Platform (see Section 5 (Platform Account Creation) for additional information). Employees of Sponsor, Platform Operator, Enteractive Solutions Group, Inc. (“Administrator”), their advertising or promotion agencies, those involved in the production, development, implementation or handling of the Competition, and any agents acting for the above entities, and their respective parent companies, officers, directors, subsidiaries, affiliates, service providers, prize suppliers, assigns, or any other person or entity associated with the Competition (collectively “Competition Entities”) are not eligible to enter the Competition. Immediate family members (i.e., a spouse, domestic partner, child, sibling, or parent) and/or any person, whether related or not, living in the same household of an individual affiliated with a Competition Entity are also ineligible to enter the Competition. Notwithstanding the foregoing, current and former Susquehanna interns and co-ops are expressly permitted to participate in the Competition and shall not be considered “Competition Entities” or otherwise be ineligible to participate under these Official Rules.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">INDIVIDUALS WHO DO NOT MEET THESE ELIGIBILITY REQUIREMENTS MAY NOT ENTER THE COMPETITION OR RECEIVE A PRIZE. ANY ATTEMPT TO ENTER THE COMPETITION BY AN INDIVIDUAL WHO DOES NOT MEET THESE ELIGIBILITY REQUIREMENTS OR FAILURE TO COMPLY WITH THESE OFFICIAL RULES WILL RESULT IN DISQUALIFICATION AND INELIGIBILITY TO CLAIM OR WIN A PRIZE. In addition to other remedies provided in these Official Rules, failure to comply with these Official Rules may, among other things, result in disqualification or removal from the Competition and/or forfeiture of a prize as determined by Sponsor in its sole and absolute discretion.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="5">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="5" data-aria-level="1" aria-posinset="5">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Platform Account Creation:</strong> Eligible participants who do not have an account are invited to visit the Platform located at <a rel="noreferrer noopener" href="https://sig.thesuper.market" target="_blank" class="Hyperlink SCXW45831007 BCX0">https://sig.thesuper.market</a> to create an account (“Account”) for free by providing the following information: first name, last name, email address, phone number, password, country, date of birth, name of current school/college/university/educational institution, expected graduation date, agreement to the Platform Operator’s Terms of Service (<span style="font-size: 11.0pt; font-family: 'Aptos',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Aptos; mso-ligatures: standardcontextual; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><a href="https://sig.thesuper.market/terms">https://sig.thesuper.market/terms</a></span><a rel="noopener" href="https://sig.thesuper.market/terms" target="_blank" class="Hyperlink SCXW45831007 BCX0"></a>), and agreement to these Official Rules (collectively “Account Information”). All required Account Information must be completed in full and must be accurate and valid. An Account may be created at any time during the Competition Period. Neither Sponsor nor Platform Operator is responsible for any delays in the creation of an Account or inability of any person to enter the Competition due to delay.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Each participant must activate his or her Account in order to participate in the Competition by clicking on the link in the confirmation email that will be sent to the email address provided at registration.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0"><strong><u>Limit one (1) Account per person</u></strong>. The individual creating an Account must be the authorized user and holder of the Account. Entry by other persons via an individual’s Account is prohibited. If Sponsor, in its sole discretion, determines that a participant has attempted to obtain more than the Initial SUSQies Allotment by using multiple/different email addresses, Accounts, identities, registrations, logins or any other methods, including, but not limited to, commercial contest/sweepstakes subscription notification and/or entering services, such participant shall be disqualified from the Competition (and may further be disqualified from all future competitions sponsored by Sponsor via the Platform at Sponsor’s sole discretion).</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="6">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="6" data-aria-level="1" aria-posinset="6">
+<p class="Paragraph SCXW45831007 BCX0"><strong>How to Participate:</strong> Participants that have successfully created and activated an Account are automatically enrolled in the Competition. The Initial SUSQies Allotment will be available to participants to use for trading across the available Markets commencing at the start of the Competition Period (or upon registration for participants that register after the Competition Period has begun). Participants may engage in trading on the Platform as described in Section 3 above and in the Guide and may make changes to their positions at any time during the Competition Period. Once the Competition Period expires, all positions are locked and cannot be modified or changed by participants. Following the conclusion of the Competition, no SUSQies will be available to any participant for further trading via the Platform until such time as Sponsor hosts a different competition via the Platform, and a participant’s SUSQies balance from this Competition shall not carry over to any future competition. Participation is intended to be strictly individual, not team based. If participants use a web-enabled mobile device to participate, data rates may apply (participants should contact their service provider for data rates/plans). Participants should use care and not drive or operate machinery while entering the Competition. <strong>All trades must be received prior to 12:00pm Eastern Standard Time on November 4, 2026.</strong></p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Participants may access the Platform through an application programming interface (“API”) and may connect an unlimited number of automated software programs (“Bots”) to their Account, provided that each Participant maintains only one (1) Account. Through the API, a participant may receive market data, submit and cancel simulated orders, monitor positions, and develop automated models or strategies, subject to applicable authentication requirements, rate limits, position limits, technical controls, these Official Rules, and the Platform’s Terms of Service. Use of the API must be in accordance with the API Reference available on the Platform and at https://sig.thesuper.market/api/v1/docs#description/introduction. By connecting a Bot or using the API, participant authorizes the Platform to associate all such activity with the participant’s Account and to use such activity in administering the Competition. All API and Bot activity shall be deemed the activity of the participant and is subject to these Official Rules. Sponsor and Platform Operator reserve the right to verify the ownership, authorization, and connection status of any Bot or API credential, and to suspend, throttle, or disqualify any participant whose Bot or API use violates these Official Rules, the Platform’s Terms of Service, or applicable law. Sponsor and Platform Operator further reserve the right to remove any Bot at any time and for any reason. Neither Platform Operator nor Sponsor has the ability, nor shall either have any obligation, to correct any claimed or actual errors in any Bot- or API-submitted order, and the records stored on Sponsor’s and/or Platform Operator’s servers shall control.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Sponsor may, in its sole and absolute discretion, act as a market maker in any or all Markets during the Competition Period. Any such market-making activity is undertaken solely to facilitate the neutral and orderly operation of the Platform. Sponsor has no obligation to provide or maintain liquidity and may commence, modify, or withdraw such activity at any time. No quote, price, or order posted by Sponsor constitutes investment, trading, or other advice, or any representation or warranty as to the value, likelihood, or outcome of any Market. Sponsor shall have no liability arising out of its market making activity on the Platform and Participants hereby waive and release any and all claims against Sponsor and its affiliates in connection therewith.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="7">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="7" data-aria-level="1" aria-posinset="7">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Market Integrity; No Trading on Material Non-Public Information:</strong> Participants may not trade in any Market while in possession of material non-public information concerning the outcome of the underlying event. Prohibited trading includes trading by any participant who: (i) has access, or is in a position to access, material non-public information concerning a Market before such information is made publicly available; (ii) is an employee or affiliate of the data source identified on the Platform as determining the resolution of that Market; or (iii) is a decision maker, direct or indirect, or has any influence, direct or indirect, on the outcome of the underlying event. By way of example only, a participant who is employed by, interns or volunteers for, advises, or is an immediate family member of a candidate, campaign, or organization whose conduct or results determine the resolution of a Market may not trade in that Market. Each participant represents and warrants on a continuing basis that their trading activity on the Platform complies with this Section.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Sponsor may, in its sole and absolute discretion, investigate suspected violations of this Section 7 and in the event of any violation (in Sponsor’s sole and absolute discretion), take any of the following actions: disqualify any participant, void or reverse any trade, adjust any SUSQies balance or leaderboard standing, and forfeit any Prize. However, neither Sponsor not any of the Competition Entities have a duty nor obligation to monitor, detect, investigate, or prevent any violation of this Section 7, and, to the maximum extent permitted by law, shall have no liability to any participant or third party arising out of or relating to any other participant’s violation of this Section 7, or out of Sponsor’s decision to take or not take any action in response.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="8">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="8" data-aria-level="1" aria-posinset="8">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Informational Content:</strong> The Platform may display news feeds related to certain Markets that include, but are not limited to, news stories, polling data, and other informational content, all of which is sourced from third parties (collectively, “Informational Content”). All Informational Content is provided solely for general informational purposes and does not constitute investment, trading, financial, or other advice, an endorsement of any source, or a recommendation to take any position in any Market. Neither Sponsor nor the Platform Operator shall independently verify any Informational Content, nor does Sponsor or Platform Operator make any representations or warranties of any kind as to the accuracy, completeness, reliability, timeliness, or availability of Informational Content. There shall be no obligation on the part of Sponsor or Platform Operator to update, supplement, or correct Informational Content. Participants are solely responsible for their own trading decisions, and to the maximum extent permitted by law, the Competition Entities shall have no liability arising out of or relating to any participant’s use of, or reliance on, any Informational Content.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="9">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="9" data-aria-level="1" aria-posinset="9">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Minors/Age of</strong> <strong>Eligibility:</strong> For purposes of this Competition, a minor is not eligible to participate. A participant is deemed a minor if any of the following is true:</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="1" data-aria-level="1" aria-posinset="1">
+<p class="Paragraph SCXW45831007 BCX0">A resident living in Alabama or Nebraska in the U.S. or a resident of the provinces or territories of British Columbia, Newfoundland and Labrador, New Brunswick, Northwest Territories, Nova Scotia, Nunavut or the Yukon in Canada who is under nineteen (19) years of age.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1" aria-posinset="2">
+<p class="Paragraph SCXW45831007 BCX0">A resident of Mississippi in the U.S. who is under twenty-one (21) years of age.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="3" data-aria-level="1" aria-posinset="3">
+<p class="Paragraph SCXW45831007 BCX0">A resident under the age of eighteen (18) residing in: 1) the remaining forty-seven (47) states of the U.S.; 2) the provinces of Alberta, Manitoba, Ontario, Prince Edward Island or Saskatchewan in Canada; 3) the following countries: Australia, Austria, Belgium, Chile, China, Colombia, Costa Rica, Czech Republic, Denmark, France, Germany, Guam, Guatemala, Hungary, India, Ireland, Japan, Malaysia, Mexico, Netherlands, New Zealand, Norway, Peru, Philippines, Poland, Romania, Spain, Sweden, Switzerland, Trinidad and Tobago, or Vietnam.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="4" data-aria-level="1" aria-posinset="4">
+<p class="Paragraph SCXW45831007 BCX0">A resident of Scotland who is under sixteen (16) years of age, or under eighteen (18) years of age for the rest of the United Kingdom.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="5" data-aria-level="1" aria-posinset="5">
+<p class="Paragraph SCXW45831007 BCX0">A resident of Thailand under twenty (20) years of age.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="11" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="6" data-aria-level="1" aria-posinset="6">
+<p class="Paragraph SCXW45831007 BCX0">A resident of South Korea under nineteen (19) years of age.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="10">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="10" data-aria-level="1" aria-posinset="10">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Prizes; Determination of Winners: Three (3) prizes (each, a “Prize” and collectively, the “Prizes”) will be awarded in the Competition.</strong> Each Participant’s final score/rank shall be based on his or her verified total SUSQies balance as of the resolution of all Markets. Except in the event of a tie, described further below, the Prizes shall be awarded as follows:</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="23" data-list-defn-props="{&quot;335551500&quot;:0,&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="1" data-aria-level="1" aria-posinset="1">
+<p class="Paragraph SCXW45831007 BCX0">the eligible participant who achieves the highest score based on his or her total SUSQies balance as of the resolution of all Markets will win Thirty Thousand U.S. Dollars ($30,000 USD) (the “First Place Prize”) – actual retail value (“ARV”) of the First Place Prize: $30,000 USD;</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="23" data-list-defn-props="{&quot;335551500&quot;:0,&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1" aria-posinset="2">
+<p class="Paragraph SCXW45831007 BCX0">the eligible participant who achieves the second highest score based on his or her total SUSQies balance as of the resolution of all Markets will win Five Thousand U.S. Dollars ($5,000 USD) (the “Second Place Prize”) – ARV of the Second Place Prize: $5,000 USD; and</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="23" data-list-defn-props="{&quot;335551500&quot;:0,&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="3" data-aria-level="1" aria-posinset="3">
+<p class="Paragraph SCXW45831007 BCX0">the eligible participant who achieves the third highest score based on his or her total SUSQies balance as of the resolution of all Markets will win Two Thousand Five Hundred U.S. Dollars ($2,500 USD) (the “Third Place Prize”) – ARV of the Third Place Prize: $2,500 USD.</p>
+</li>
+</ul>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0"><strong>The total ARV of the First Place Prize, Second Place Prize and Third Place Prize is Thirty-Seven Thousand Five Hundred U.S. Dollars ($37,500 USD).</strong> The ARV for winners outside of the U.S. is the equivalent amount based on the currency exchange rate at the time the Prize is awarded, minus any applicable withholding taxes.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">The awarding of all Prizes is subject to verification of the eligibility of the potential winning participants in accordance with these Official Rules. <strong>Limit one (1) Prize per person.</strong> All expenses associated with the receipt or use of a Prize not specifically mentioned herein are excluded and are the sole responsibility of each winner. Electronic wire transfers or bank deposits sent to a jurisdiction outside the United States may be subject to local banking regulations, anti-money laundering reporting limits, or foreign exchange controls. In the event that a potential winner resides in a jurisdiction outside the United States where the award of a cash Prize is prohibited or restricted by applicable law, Sponsor reserves the right, in its sole and absolute discretion, to substitute the cash Prize with an alternative Prize of comparable or equivalent value that complies with local legal requirements. No Prizes will be awarded to a team, group, or organization. Prizes are not transferable. Prizes will only be mailed/shipped/delivered electronically to persons residing in the Eligible Jurisdictions. Any depictions of the Prizes in any promotional materials for the Competition or otherwise are for illustrative purposes only.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Each Participant’s final score (based solely on their total SUSQies balance as of the resolution of all Markets) will be published on the Platform (which shall be identified as the “Final Standings” in the “Leaderboards” tab) as soon as practicable following the resolution of all Markets and verification by Sponsor and/or Sponsor’s designee(s) of the Competition results. Sponsor’s decisions are final and binding in all respects. Any earlier or interim rankings displayed on the “Leaderboards” tab of the Platform only reflect participant scores as of that point in time and are dynamic, provisional, and subject to change. Sponsor and/or Sponsor’s designee(s) shall endeavor to identify, notify and verify the winner(s) of the First Place Prize, Second Place Prize and Third Place Prize as soon as possible, and in any event within two (2) weeks after all Markets have resolved.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">No tiebreakers will be used in the Competition. Tied participants will receive the same rank, with subsequent ranks adjusted to reflect the number of tied participants (for example, if two participants tie for second place, the next-ranked participant is ranked fourth). Tied participants are treated as occupying consecutive ranking positions beginning with their shared rank. The Prize amounts assigned to those positions are added together and divided equally among the tied participants. Positions below third place carry no Prize and contribute nothing to the amount divided. Any amount that cannot be divided evenly will be rounded down to the nearest whole cent. In no event will the total amount awarded across all participants exceed Thirty-Seven Thousand Five Hundred U.S. Dollars ($37,500 USD). For example:</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="25" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="1" data-aria-level="1" aria-posinset="1">
+<p class="Paragraph SCXW45831007 BCX0">If two participants tie with the highest score, the rankings will be 1st, 1st, followed by 3rd (the rank of second is skipped as a result of the first place tie) and continuing accordingly. The individuals who tied with the highest score (both ranked 1st) will split Thirty-Five Thousand U.S. Dollars ($35,000.00 USD), which is the sum of the First Place Prize and the Second Place Prize, and the participant ranked 3rd will be awarded the Third Place Prize.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="25" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1" aria-posinset="2">
+<p class="Paragraph SCXW45831007 BCX0">If three participants tie with the highest score, the rankings will be 1st, 1st, 1st, followed by 4th (the ranks of second and third are both skipped as a result of the first place tie) and continuing accordingly. The individuals who tied with the highest score (all ranked 1st) will split Thirty-Seven Thousand Five Hundred U.S. Dollars ($37,500.00 USD), which is the sum of the First Place Prize, the Second Place Prize and the Third Place Prize. No other participant will be entitled to a Prize in this hypothetical example.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="25" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="3" data-aria-level="1" aria-posinset="3">
+<p class="Paragraph SCXW45831007 BCX0">If two participants tie with the second highest score, the rankings will be 1st, 2nd, 2nd, followed by 4th (the rank of third is skipped as a result of the second place tie) and continuing accordingly. The person ranked 1st will be awarded the First Place Prize, and the individuals who tied with the second highest score (both ranked 2nd) will split Seven Thousand Five Hundred U.S. Dollars ($7,500 USD), which is the sum of the Second Place Prize and the Third Place Prize. No other participant will be entitled to a Prize in this hypothetical example.</p>
+</li>
+</ul>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ul class="BulletListStyle1 SCXW45831007 BCX0">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="?" data-font="Symbol" data-listid="25" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:1080,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;?&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="4" data-aria-level="1" aria-posinset="4">
+<p class="Paragraph SCXW45831007 BCX0">If two participants tie with the third highest score, the rankings will be 1st, 2nd, 3rd, 3rd, followed by 5th (the rank of fourth is skipped as a result of the third place tie) and continuing accordingly. The participant ranked 1st will be awarded the First Place Prize and the participant ranked 2nd will be awarded the Second Place Prize. The individuals who tied with the third highest score (both ranked 3rd) will split Two Thousand Five Hundred U.S. Dollars ($2,500 USD), which is the amount of the Third Place Prize, as the fourth ranking position carries no prize. No other participant will be entitled to a Prize in this hypothetical example.</p>
+</li>
+</ul>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">If a tied participant is disqualified or forfeits a Prize, the pooled amount will be recalculated as though that participant had not placed, and the rankings will be adjusted accordingly.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="11">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="11" data-aria-level="1" aria-posinset="11">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Notification:</strong> Each potential winner will be notified by Sponsor or Sponsor’s designee(s) at the email address associated with his/her Account. The email notification will include a link to a secure eligibility form (“Eligibility Form”), which must be completed by each potential winner within seventy-two (72) hours from the date the email notification was sent. The information required on the Eligibility Form includes: first and last name, mailing address including country, telephone number, email address, name of current school/college/university/educational institution, and month/year of birth. Failure to complete the Eligibility Form within seventy-two (72) hours of it being sent will result in disqualification and the Prize will be forfeited.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Each potential winner will be required to electronically sign and return an unmodified Affidavit of Eligibility, a Liability Release (where legal), and a Publicity Release; complete an IRS Form W-9 for U.S. winners if the Prize value exceeds $2,000, or complete an IRS Form W-8 for non U.S. winners; provide a copy of his/her legible government issued photo identification and current student ID; and provide any other documentation that Sponsor requires (collectively “Prize Claim Documents”) within five (5) days following Sponsor and/or Sponsor’s designee(s)’s request. Once the Prize Claim Documents have been received and verified, a potential winner then and only then formally becomes the “winner.” If a potential winner does not timely provide the applicable Prize Claim Documents required herein, as determined in Sponsor’s sole discretion, said person(s) may be disqualified and shall forfeit the applicable Prize, and Sponsor will have no further obligation to such potential winner. Electronic documents have the same force and effect as originals. By completing the Prize Claim Documents, each winner attests to the provisions stated therein including the accuracy of the information contained therein and compliance with these Official Rules. <strong>If a potential winner(s) cannot be reached, is found to be ineligible, does not complete the applicable Eligibility Form or Prize Claim Documents in the time frames listed above, does not comply with these Official Rules, and/or if any electronic communication is returned as undeliverable, such potential winner will be disqualified and the participant(s) with the next highest score as reflected in the Final Standings (on the “Leaderboards” tab) will replace them and become the potential winner of that Prize (subject to verification as set forth in these Official Rules) as determined by Sponsor in its sole and absolute discretion.</strong></p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="12">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="12" data-aria-level="1" aria-posinset="12">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Tax Obligations:</strong> All federal, state, and/or other applicable taxes (including but not limited to income taxes for a U.S. winner) arising from participation in the Competition or the award of a Prize as may be required by applicable tax authorities in the jurisdiction in which a winner resides is the sole responsibility of each winner. Non-U.S. winners will be subject to 30% withholding taxes which shall be deducted from the applicable Prize amount prior to remittance. U.S. winners will be issued an IRS Form 1099-MISC or equivalent tax reporting documents for a Prize valued over $2,000 and winners outside the U.S. will be issued an IRS Form 1042-S from Sponsor or Sponsor’s designee for the total ARV of the Prize won (as stated herein) in the calendar year won as required by United States law.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="13">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="13" data-aria-level="1" aria-posinset="13">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Personal Data/Privacy Policy:</strong> Participants understand and agree that personal data/information they provide will be processed in the U.S. (i.e., outside the EEA and/or not in any other Eligible Jurisdiction). Each participant’s personal data will be used by Sponsor, Platform Operator and/or Administrator for purposes of administering the Competition including but not limited to any required applicable record keeping, tax forms, state/country/region registrations, and/or any Prize fulfillment obligations. Personal information collected from participants will only be used for Competition administration purposes unless their express consent has been obtained beforehand (including by opting in, while registering for an Account, to be contacted by Sponsor by email about Competition updates, future competitions and events, and about internship and career opportunities at Susquehanna). Opting in to be contacted by Sponsor does not improve a participant’s score. Neither Sponsor, Platform Operator nor Administrator will sell any personally identifiable information of any participants or winners. Furthermore, Neither Sponsor, Platform Operator nor Administrator will share or disclose any personally identifiable information to any third-party unrelated to the Competition. To the maximum extent permitted by law, any personal information supplied by participants to Sponsor or its affiliates will be subject to Sponsor’s Privacy Policy located at <a rel="noopener" href="https://sig.com/privacy/" target="_blank" title="Privacy">https://sig.com/privacy/.</a> To the maximum extent permitted by law, except where prohibited by law, participant’s acceptance of a Prize constitutes permission for the Sponsor or its affiliates to use such participant’s first name, last initial and country for advertising/publicity purposes worldwide and in all forms of media (including posting on Sponsor’s affiliated social media platforms) in perpetuity, without further notice to or compensation to such participant in connection with the Competition and/or the Prize awarded.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="14">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="14" data-aria-level="1" aria-posinset="14">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Competition Data</strong>: <strong>Sponsor is and shall be the sole and exclusive owner of all data generated by or relating to activity on the Platform, including all orders, quotes, trades, positions, SUSQies balances, transaction and order histories, leaderboard and scoring data, API and Bot activity logs, and all statistics, analytics, models, aggregations, and derivative works created from any of the foregoing (collectively, “Competition Data”).</strong> Sponsor may use, reproduce, modify, analyze, publish, display, and otherwise exploit the Competition Data for any purpose, in any medium, in perpetuity, worldwide, without further notice, consent, compensation, or attribution to any participant, subject only to Sponsor’s obligations regarding personal data set forth in Section 13. Nothing in these Official Rules grants any participant any ownership or license rights in the Competition Data or in the Platform.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="15">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="15" data-aria-level="1" aria-posinset="15">
+<p class="Paragraph SCXW45831007 BCX0"><strong>General Conditions:</strong> This Competition is governed by these Official Rules and all applicable federal, state, territorial, provincial, and local laws. By entering the Competition, and to the maximum extent permitted by law, participants agree and acknowledge to be bound by these Official Rules, as well as the decisions of Sponsor, which are final and binding in all respects, to waive any rights to claim ambiguity with the Official Rules, and to release all rights to bring any claim, action, or proceeding against the Competition Entities. Sponsor may, in its sole and absolute discretion, disqualify any participant found tampering with the operation of the Competition, to be acting in violation of the Official Rules, or to be acting in an unsportsmanlike or disruptive manner, or with the intent to annoy, abuse, threaten, or harass any other person. Any attempt by any person to deliberately undermine the legitimate operation of the Competition may be a violation of criminal and civil law and, should such an attempt be made, Sponsor reserves the right to seek damages from any such person to the fullest extent permitted by law. Sponsor’s failure to enforce any term of these Official Rules shall not constitute a waiver of that provision. If, for any reason, the Competition is not capable of running as originally planned, Sponsor, in its sole and absolute discretion, reserves the right to cancel, suspend, and/or modify the Competition or any portion thereof and to conduct the applicable scoring and award the Prize(s) from all salvageable eligible trades received prior to and/or after (as appropriate) the action taken by Sponsor, or award the Prize(s) in a manner that is fair and equitable as determined in Sponsor’s sole and absolute discretion. In case of a dispute over the identity of a participant, the authorized account holder of the Account on the Platform affiliated with the applicable trading activity will be deemed the participant. Said person must comply with these Official Rules, be the person who completed the act of setting up the Account, and, in Sponsor’s sole and absolute discretion, may be required to provide proof of ownership of the Account.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Sponsor reserves the right to cancel, suspend and/or modify the Competition or these Official Rules, or any part of the Competition or these Official Rules, as determined by Sponsor in its sole and absolute discretion. Any notice regarding cancellation, suspension and/or modification will be posted by Sponsor or Platform Operator on the Platform. In the event of modifying the Competition or these Official Rules, a participant’s continued enrollment and/or participation in the Competition constitutes acceptance of the modified Official Rules.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">In the event there is a discrepancy or inconsistency between disclosures and other statements contained in any Competition materials and the terms and conditions of these Official Rules, these Official Rules shall prevail, govern, and control.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">The Administrator is not responsible for operating the Platform, determining winners, or supplying or guaranteeing any Prize.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="16">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="16" data-aria-level="1" aria-posinset="16">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Disclaimers:</strong> The Competition Entities are not responsible or liable for any order, trade, position, or Account Information that is late, incomplete, misdirected, corrupted, tampered with, forged, not received by the Platform, or otherwise not submitted in compliance with these Official Rules, or that is affected by any error, omission, interruption, defect, delay in operation or transmission, computer line or network failure, or other technical malfunction. Except as expressly set forth in Section 6, the Competition Entities are not responsible or liable for any activity submitted by automated means. Sponsor may, in its sole and absolute discretion, void, reverse, or disqualify any order, trade, or position.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">To the maximum extent permitted by applicable law, the participants agree and acknowledge that the Competition Entities shall have no responsibility or liability (including, but not limited to, liability for any property loss, damage, personal injury, or death) in connection with: participation in this Competition; human error; incorrect or inaccurate transcription of account data and/or trades; disputes over Market resolution; acceptance/possession, use/misuse, and/or defects of Prize (or Prize element) awarded herein; typographical errors in the Competition promotional material; any technical malfunctions of the Platform or other computer systems or equipment, scoring or timing mechanisms, software, internet service providers, Platform metrics; any interruption or inability to access the Platform (or Sponsor’s/Administrator’s inability to access the Platform), or any website or online service via the internet due to hardware or software compatibility problems or due to a ban by a government due to security concerns; wireless network dead zones or obstructions; any damage to a participant’s (or any third person’s) computer/mobile device and/or its contents related to or resulting from any part of this Competition or use of the Platform; and/or any lost/delayed data transmissions, omissions, interruptions, defects or any other errors or malfunctions; any technical or mechanical error even if caused by the negligence of one of the Competition Entities.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">Participants hereby acknowledge that said Competition Entities have neither made nor are in any manner responsible or liable for any warranty, representation, or guarantee, express or implied, in fact or in law, relative to a Prize. To the maximum extent permitted by law, the Competition Entities shall not be liable for any injury, damage, loss, expense, accident, delay, inconvenience, or irregularity that may be caused by or have contributed to (1) any wrongful, negligent or unauthorized act or omission on the part of a Prize supplier or any of its agents, servants, employees, or independent contractors, (2) any wrongful, negligent, or unauthorized act or omission on the part of any other person or entity not an employee of Sponsor, Platform Operator or Administrator, or (3) any other cause, condition, or event whatsoever beyond the control of the Competition Entities.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="17">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="17" data-aria-level="1" aria-posinset="17">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Disclaimer of Warranties:</strong> THE COMPETITION, IN WHOLE AND IN PART (INCLUDING, WITHOUT LIMITATION, THE PLATFORM, ALL MARKETS, ALL CONTENT, AND ALL INFORMATIONAL CONTENT), ARE PROVIDED, TRANSMITTED, DISTRIBUTED, AND MADE AVAILABLE “AS IS” AND “AS AVAILABLE” WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE COMPETITION ENTITIES MAKE NO WARRANTY: (A) THAT THE COMPETITION OR THE PLATFORM WILL BE UNINTERRUPTED OR ERROR FREE; (B) THAT DEFECTS OR ERRORS IN THE COMPETITION OR THE PLATFORM WILL BE CORRECTED; (C) THAT THE COMPETITION OR THE PLATFORM WILL BE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS; (D) AS TO THE QUALITY, ACCURACY, COMPLETENESS AND VALIDITY OF ANY INFORMATION OR MATERIALS IN CONNECTION WITH THE COMPETITION, INCLUDING WITHOUT LIMITATION ANY INFORMATIONAL CONTENT; (E) THAT A PARTICIPANT’S USE OF THE PLATFORM WILL MEET ITS REQUIREMENTS; (F) AS TO THE ACCURACY OR TIMELINESS OF ANY MARKET RESOLUTION; OR (G) THAT TRANSMISSIONS OR DATA WILL BE SECURE.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER, EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES, LIABILITIES AND DAMAGES, SO SOME OF THE ABOVE DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO CERTAIN PARTICIPANTS. IN SUCH JURISDICTIONS, SPONSOR’S WARRANTIES AND LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="18">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="18" data-aria-level="1" aria-posinset="18">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Force Majeure:</strong> The failure of Sponsor to comply with any provision of these Official Rules due to Force Majeure Event (as defined below) will not be considered a breach of these Official Rules. For purposes of these Official Rules, “Force Majeure Event” shall mean the interruption of or material interference with Sponsor’s ability to hold the Competition or to grant a Prize by any cause or occurrence not within Sponsor’s reasonable control, including, but not limited to, fire, flood, epidemic, pandemic, earthquake, explosion, hurricane, terrorist threat or activity, public health emergency (e.g., COVID-19), act of God or public enemy, satellite or equipment failure, riot or civil disturbance, war (declared or undeclared), any federal, state or local government law, order, or regulation, or order of any court, or any delay, interruption, postponement, cancellation, recount, challenge, dispute, certification delay, or other complication relating to any federal, state, or local election, election results, certification of election results, or any governmental action or failure to act in connection therewith.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="19">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="19" data-aria-level="1" aria-posinset="19">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Governing Law, Jurisdiction, Arbitration; Limitation of Liability:</strong> <strong>All participants acknowledge and understand that they are entering into a Competition being run and administered in the U.S. and acknowledge that the Competition is subject to the laws and exclusive jurisdiction of the U.S. Commonwealth of Pennsylvania to the maximum extent permitted by law. Nothing in this Section 19 shall limit any release of liability or claims set forth in these Official Rules.</strong> Any controversy or claim arising out of or relating to (i) the Competition, (ii) the awarding of any Prize, and/or (iii) the determination of the scope or applicability of these Official Rules or their enforcement or interpretation shall be governed by and construed in accordance with the substantive laws of the Commonwealth of Pennsylvania without giving effect to any choice of law or conflict of law rules or provisions that would cause the application of any other state’s laws. To the maximum extent permitted by law, any controversy or claim arising out of or relating to these Official Rules, their enforcement, arbitrability or interpretation shall be submitted to final and binding arbitration, to be held in Montgomery County, Pennsylvania, before a single arbitrator. The arbitrator shall be selected by mutual agreement of Sponsor and the participant or participants bringing forth the controversy or claim, which to the extent permissible must be brought individually and not as part of a class/group (collectively, the “Parties”) or, if the Parties cannot agree, then by striking from a list of arbitrators supplied by the American Arbitration Association or JAMS/Endispute. The arbitration shall be a confidential proceeding, closed to the general public. The arbitrator shall issue a written opinion stating the essential findings and conclusions upon which the arbitrator’s award is based. The Parties will share equally in payment of the arbitrator’s fees and arbitration expenses and any other costs unique to the arbitration hearing (recognizing that each side bears its own deposition, witness, expert, and attorneys’ fees and other expenses to the same extent as if the matter were being heard in court). To the maximum extent permitted by law, participant(s) agrees that his/her claim will be resolved individually, exclusively by arbitration (where legal), without resort to any form of class action. To the maximum extent permitted by law, each participant(s) further agrees that any claim/judgment/award in such arbitration shall be limited to actual out-of-pocket costs incurred, including costs associated with participating in the Competition and in no event will participant(s) be permitted to obtain attorneys’ fees, other legal costs and/or be entitled to awards.</p>
+</li>
+</ol>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE PARTIES HEREBY WAIVE THEIR RIGHT TO JURY TRIAL WITH RESPECT TO ALL CLAIMS AND ISSUES ARISING OUT OF OR RELATING TO THESE OFFICIAL RULES WHETHER SOUNDING IN CONTRACT OR TORT AND INCLUDING ANY CLAIM FOR FRAUDULENT INDUCEMENT THEREOF.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">PARTICIPANTS HEREBY CONFIRM THAT ANY DAMAGES, LOSSES, OR INJURIES THAT MAY ARISE OUT OF THE ACTS OR OMISSIONS OF ANY OF THE COMPETITION ENTITIES, ARE NOT IRREPARABLE OR SUFFICIENT TO ENTITLE PARTICIPANTS TO AN INJUNCTION PREVENTING THE CONTINUATION OF THE COMPETITION OR ANY EXPLOITATION OF THE PLATFORM, ANY COMPETITION DATA, SERVICES, OR OTHER PROPERTY OWNED OR CONTROLLED BY ANY OF THE COMPETITION ENTITIES, AND PARTICIPANTS WILL HAVE NO RIGHTS TO ENJOIN OR RESTRAIN THE OPERATION, ADMINISTRATION OR CONCLUSION OF THE COMPETITION, THE PLATFORM, ANY MARKET, OR ANY COMPETITION DATA OR ANY AND ALL ACTIVITIES OR ACTIONS RELATED THERETO.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COMPETITION ENTITIES’ AGGREGATE LIABILITY TO PARTICIPANTS EXCEED THE MAXIMUM ARV FOR ALL PRIZES ($37,500 USD).</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">For participants outside the United States, to the extent that any limitation or exclusion of liability set forth above is prohibited, restricted, or rendered unenforceable, in whole or in part, under the mandatory law of the participant's country of residence, such limitation or exclusion shall apply only to the extent permitted under that law, and nothing in these Official Rules shall operate to exclude or limit any liability including, without limitation, liability for death, personal injury, fraud, or willful or grossly negligent misconduct that cannot lawfully be excluded or limited under such mandatory law. All other limitations and exclusions of liability set forth in these Official Rules shall remain in full force and effect to the fullest extent permitted by law.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">In the event of any conflict between any provision of these Official Rules and any statute, law, or regulation in any jurisdiction(s), the latter will prevail; provided, however, that in such event, the provision(s) of these Official Rules so affected will be curtailed and limited only to the minimum extent necessary to permit compliance with the requirement(s) of such statute, law, regulation or provision, and all other terms of these Official Rules will continue in full force and effect.</p>
+</div>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">IF YOU ARE A PARTICIPANT WHO RESIDES IN CALIFORNIA, YOU WAIVE YOUR RIGHTS UNDER CALIFORNIA CIVIL CODE SEC. 1542, WHICH PROVIDES: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.”</p>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="20">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="20" data-aria-level="1" aria-posinset="20">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Rules/Winners List</strong>: To receive the winners list or the rules, send an email to <a rel="noreferrer noopener" href="mailto:winnerslist@enteractivesolutions.com" target="_blank" class="Hyperlink SCXW45831007 BCX0">winnerslist@enteractivesolutions.com</a> with the name of the Competition in the subject line and specify if you want the rules or the winners list in the body of the email. All requests must be received by January 4, 2027. The winners may also be posted on the Platform in Sponsor’s discretion. The list of winners will only contain the following information: first name, last initial, state/province, country, Prize won, and Prize value.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="21">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="21" data-aria-level="1" aria-posinset="21">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Sponsor:</strong> Susquehanna International Group, LLP, 401 City Avenue, Suite 220, Bala Cynwyd, PA 19004 U.S.</p>
+</li>
+</ol>
+</div>
+<div class="ListContainerWrapper SCXW45831007 BCX0">
+<ol class="NumberListStyle1 SCXW45831007 BCX0" start="22">
+<li class="OutlineElement Ltr SCXW45831007 BCX0" aria-setsize="-1" data-leveltext="%1." data-font="Times New Roman" data-listid="6" data-list-defn-props="{&quot;134224900&quot;:false,&quot;335552541&quot;:0,&quot;335559685&quot;:900,&quot;335559991&quot;:360,&quot;469769242&quot;:[65533,0],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;%1.&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="22" data-aria-level="1" aria-posinset="22">
+<p class="Paragraph SCXW45831007 BCX0"><strong>Administrator:</strong> Enteractive Solutions Group, Inc., 1612 W. Olive Ave, Suite 300, Burbank, CA 91506 U.S.</p>
+</li>
+</ol>
+</div>
+<p>&nbsp;</p>
+<div class="OutlineElement Ltr SCXW45831007 BCX0">
+<p class="Paragraph SCXW45831007 BCX0">©2026 Enteractive Solutions Group, Inc. These Official Rules may only be used for personal use and not for any commercial purpose whatsoever. All rights reserved.</p>
+</div>
+        </div>
+
+    <a href="/"
+       class="text-blue-700 underline">
+        Return to Predictions Cup
+    </a>
+</section>
+<style>
+    /* added consistent spacing between elements in RTE pasted from Word doc */
+    .rules-content div ol {
+        margin-left: 2rem;
+    }
+
+    .rules-content div.OutlineElement {
+        margin-left: 2rem;
+    }
+
+    .rules-content h1,
+    .rules-content h2,
+    .rules-content h3,
+    .rules-content p,
+    .rules-content ol,
+    .rules-content ul {
+        margin: 0 0 1rem;
+    }
+
+        .rules-content ul li {
+            margin-left: 4rem;
+        }
+
+    ol {
+        list-style: decimal;
+    }
+
+    ul {
+        list-style: disc;
+    }
+
+    section a {
+        text-decoration: underline;
+    }
+</style>
+</main>
+
+
+    <footer id="sigFooter"
+            class="max-w-[1475px] mx-auto flex w-full justify-center bg-white pb-10 pt-10 text-sigBlue lg:pt-14 2xl:pt-24">
+        <div class="spacing">
+                <div id="footer-nav" class="flex flex-col gap-1.5 lg:flex-row">
+                        <div class="hidden w-full flex-col lg:flex-row lg:flex lg:visible">
+                                <div class="shrink-0 flex flex-col last:shrink last:w-full">
+                                        <a href="https://sig.com/what-we-do/"
+                                           class="lg:pl-0 lg:pr-3 xl:pr-4 font-brutalExtraBold size-xl underline-offset-4 mt-4 hover:underline lg:mt-0">
+                                            What We Do
+                                        </a>
+
+
+                                    <hr class="border-[1.5px] mb-2 mt-1 w-full border-sigBlue lg:mt-3"/>
+                                    <div class="flex flex-row">
+                                            <ul class="lg:pl-0 lg:pr-3 xl:pr-4 max-w-[233px] list-none">
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/what-we-do/quantitative-trading/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="">
+                                                            Quantitative Trading
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/predictions/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Predictions
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://www.susquehannainstitutionaltrading.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Institutional Sales
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sgep.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Growth Equity
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://www.sig-ssi.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Sustainable Investments
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig-asiavc.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Venture Capital
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://www.riversedgepromotions.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            River's Edge
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                    </div>
+                                </div>
+                                <div class="shrink-0 flex flex-col last:shrink last:w-full">
+                                        <a href="https://sig.com/who-we-are/"
+                                           class="lg:px-4 xl:px-[1.15rem] font-brutalExtraBold size-xl underline-offset-4 mt-4 hover:underline lg:mt-0">
+                                            Who We Are
+                                        </a>
+
+
+                                    <hr class="border-[1.5px] mb-2 mt-1 w-full border-sigBlue lg:mt-3"/>
+                                    <div class="flex flex-row">
+                                            <ul class="lg:px-4 xl:px-[1.15rem] max-w-[233px] list-none">
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/who-we-are/game-theory-decision-science/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Game Theory +<br> Decision Science
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/who-we-are/life-at-susquehanna/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Life at Susquehanna
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/who-we-are/office-locations/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Office Locations
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                    </div>
+                                </div>
+                                <div class="shrink-0 flex flex-col last:shrink last:w-full">
+                                        <a href="https://sig.com/careers/"
+                                           class="lg:px-4 xl:px-[1.15rem] font-brutalExtraBold size-xl underline-offset-4 mt-4 hover:underline lg:mt-0">
+                                            Careers
+                                        </a>
+
+
+                                    <hr class="border-[1.5px] mb-2 mt-1 w-full border-sigBlue lg:mt-3"/>
+                                    <div class="flex flex-row">
+                                            <ul class="lg:px-4 xl:px-[1.15rem] max-w-[233px] list-none">
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/careers/trading/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Trading
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/careers/technology/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Technology
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/careers/quant/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Quantitative Research +<br> Machine Learning
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://careers.sig.com/jobs" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Apply Now
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                    </div>
+                                </div>
+                                <div class="shrink-0 flex flex-col last:shrink last:w-full">
+                                        <span
+                                            class="lg:px-4 xl:px-[1.15rem] font-brutalExtraBold size-xl underline-offset-4 mt-4 lg:mt-0">
+                                            Blog
+                                        </span>
+
+
+                                    <hr class="border-[1.5px] mb-2 mt-1 w-full border-sigBlue lg:mt-3"/>
+                                    <div class="flex flex-row">
+                                            <ul class="lg:px-4 xl:px-[1.15rem] max-w-[233px] list-none">
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://sig.com/waves/" class="font-avenirBook size-lg decoration-1 hover:underline">
+                                                            Waves
+                                                        </a>
+                                                    </li>
+                                                    <li class="mb-2 leading-tight text-pretty w-fit">
+                                                        <a href="https://raiseyourgame.com/" class="font-avenirBook size-lg decoration-1 hover:underline"
+                                                           target="_blank">
+                                                            Raise Your Game
+                                                        </a>
+                                                    </li>
+                                            </ul>
+                                    </div>
+                                </div>
+                        </div>
+                    <div id="footer-social"
+                         class="shrink-0 mt-3 flex flex-row lg:justify-end justify-center gap-1.5  lg:mt-7 xl:mt-5 lg:gap-1.5">
+                        
+
+    <a href=https://www.linkedin.com/company/susquehanna-international-group/ target ="_blank" class="max-w-[45px] lg:max-w-[32px] xl:max-w-[50px] lg:-mt-1">
+        <img src='/media/lzmh4cdg/linkedin_1.webp' alt="linkedin" />
+    </a>
+
+    <a href=https://www.youtube.com/@LifeatSusquehanna/videos target ="_blank" class="max-w-[45px] lg:max-w-[32px] xl:max-w-[50px] lg:-mt-1">
+        <img src='/media/t2vl4gcx/youtube_1.webp' alt="youtube" />
+    </a>
+
+    <a href=https://www.instagram.com/lifeatsusquehanna target ="_blank" class="max-w-[45px] lg:max-w-[32px] xl:max-w-[50px] lg:-mt-1">
+        <img src='/media/c4yl2clk/insta.webp' alt="Instagram" />
+    </a>
+
+                    </div>
+                </div>
+                <div id="fineprint" class="size-sm mt-5 text-gray-400 lg:mt-10">
+                    <div class="lg:text-right text-center">
+                        <p>Copyright © 2026 Susquehanna. All rights reserved.</p>
+                    </div>
+                        <div id="documents"
+                             class="my-3 text-center [&>a:nth-child(n+2)]:border-l-2 [&>a:nth-child(n+2)]:pl-1  lg:text-right">
+                                <a href="https://sig.com/disclosures/" class="font-avenirLight hover:underline ">Disclosures</a>
+                                <a href="https://sig.com/privacy/" class="font-avenirLight hover:underline ">Privacy</a>
+                                <a href="https://sig.com/fraud-and-impersonation-warning/" class="font-avenirLight hover:underline ">Fraud and Impersonation Warning</a>
+                                <a href="https://sig.com/information-and-waiver/" class="font-avenirLight hover:underline ">Information &#x2B; Waiver</a>
+                                <a href="mailto:media@sig.com" class="font-avenirLight hover:underline ">Media Inquiry</a>
+                                <a href='#' class='font-avenirLight hover:underline iubenda-cs-preferences-link text-nowrap'>Your Privacy Choices <img style='width: 2rem' class="inline" src="data:image/svg+xml;charset=UTF-8,%3csvg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 30 14' style='enable-background:new 0 0 30 14;' xml:space='preserve'%3e%3cstyle type='text/css'%3e .st0%7bfill-rule:evenodd;clip-rule:evenodd;fill:%23FFFFFF;%7d .st1%7bfill-rule:evenodd;clip-rule:evenodd;fill:%230066FF;%7d .st2%7bfill:%23FFFFFF;%7d .st3%7bfill:%230066FF;%7d %3c/style%3e%3cg%3e%3cg id='final---dec.11-2020_1_'%3e%3cg id='_x30_208-our-toggle_2_' transform='translate(-1275.000000, -200.000000)'%3e%3cg id='Final-Copy-2_2_' transform='translate(1275.000000, 200.000000)'%3e%3cpath class='st0' d='M7.4,12.8h6.8l3.1-11.6H7.4C4.2,1.2,1.6,3.8,1.6,7S4.2,12.8,7.4,12.8z'/%3e%3c/g%3e%3c/g%3e%3c/g%3e%3cg id='final---dec.11-2020'%3e%3cg id='_x30_208-our-toggle' transform='translate(-1275.000000, -200.000000)'%3e%3cg id='Final-Copy-2' transform='translate(1275.000000, 200.000000)'%3e%3cpath class='st1' d='M22.6,0H7.4c-3.9,0-7,3.1-7,7s3.1,7,7,7h15.2c3.9,0,7-3.1,7-7S26.4,0,22.6,0z M1.6,7c0-3.2,2.6-5.8,5.8-5.8 h9.9l-3.1,11.6H7.4C4.2,12.8,1.6,10.2,1.6,7z'/%3e%3cpath id='x' class='st2' d='M24.6,4c0.2,0.2,0.2,0.6,0,0.8l0,0L22.5,7l2.2,2.2c0.2,0.2,0.2,0.6,0,0.8c-0.2,0.2-0.6,0.2-0.8,0 l0,0l-2.2-2.2L19.5,10c-0.2,0.2-0.6,0.2-0.8,0c-0.2-0.2-0.2-0.6,0-0.8l0,0L20.8,7l-2.2-2.2c-0.2-0.2-0.2-0.6,0-0.8 c0.2-0.2,0.6-0.2,0.8,0l0,0l2.2,2.2L23.8,4C24,3.8,24.4,3.8,24.6,4z'/%3e%3cpath id='y' class='st3' d='M12.7,4.1c0.2,0.2,0.3,0.6,0.1,0.8l0,0L8.6,9.8C8.5,9.9,8.4,10,8.3,10c-0.2,0.1-0.5,0.1-0.7-0.1l0,0 L5.4,7.7c-0.2-0.2-0.2-0.6,0-0.8c0.2-0.2,0.6-0.2,0.8,0l0,0L8,8.6l3.8-4.5C12,3.9,12.4,3.9,12.7,4.1z'/%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e" alt="California Consumer Privacy Act (CCPA) Opt-Out Icon"/></a>
+                                <a class="iubenda-cs-uspr-link hidden"></a>
+                        </div>
+                </div>
+        </div>
+    </footer>
+
+<style>
+    /* target second row and make set width*/
+    #footer-nav>div>div:nth-child(2)>div>ul {
+        max-width: 176px;
+    }
+</style>
+
+</body>
+</html>

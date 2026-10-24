@@ -1,0 +1,1458 @@
+{
+    "office": "Governor",
+    "total": 50,
+    "last_updated": "2026-09-17T13:25:00-05:00",
+    "generated_at": "2026-09-29T18:37:29+00:00",
+    "ratings": [
+        {
+            "district": "FL",
+            "state": "fl",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-09-17T13:25:00-05:00",
+            "rating": "Lean Republican",
+            "rating_numeric": 8,
+            "shift": "left",
+            "previous_rating": "Likely Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "DeSantis",
+                    "first_name": "Ron",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "ME",
+            "state": "me",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-09-17T13:25:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": "left",
+            "previous_rating": "Likely Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Mills",
+                    "first_name": "Janet",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "AZ",
+            "state": "az",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-09-03T14:08:44-05:00",
+            "rating": "Tilt Democrat",
+            "rating_numeric": 3,
+            "shift": "left",
+            "previous_rating": "Toss-up",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Hobbs",
+                    "first_name": "Katie",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "OH",
+            "state": "oh",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-09-03T14:08:05-05:00",
+            "rating": "Tilt Republican",
+            "rating_numeric": 7,
+            "shift": "left",
+            "previous_rating": "Lean Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "DeWine",
+                    "first_name": "Mike",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "AK",
+            "state": "ak",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-09-03T14:06:49-05:00",
+            "rating": "Lean Republican",
+            "rating_numeric": 8,
+            "shift": "left",
+            "previous_rating": "Likely Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Dunleavy",
+                    "first_name": "Mike",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "KS",
+            "state": "ks",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-08-06T13:20:00-05:00",
+            "rating": "Tilt Republican",
+            "rating_numeric": 7,
+            "shift": "right",
+            "previous_rating": "Toss-up",
+            "flipped": true,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Kelly",
+                    "first_name": "Laura",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "IA",
+            "state": "ia",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-08-06T13:20:00-05:00",
+            "rating": "Tilt Democrat",
+            "rating_numeric": 3,
+            "shift": "left",
+            "previous_rating": "Toss-up",
+            "flipped": true,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Reynolds",
+                    "first_name": "Kim",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "TX",
+            "state": "tx",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-08-06T13:20:00-05:00",
+            "rating": "Likely Republican",
+            "rating_numeric": 9,
+            "shift": "left",
+            "previous_rating": "Solid Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Abbott",
+                    "first_name": "Greg",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "PA",
+            "state": "pa",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-06-25T12:08:29-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": "left",
+            "previous_rating": "Likely Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Shapiro",
+                    "first_name": "Josh",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "OR",
+            "state": "or",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-06-25T12:06:35-05:00",
+            "rating": "Lean Democrat",
+            "rating_numeric": 2,
+            "shift": "right",
+            "previous_rating": "Solid Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Kotek",
+                    "first_name": "Tina",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MI",
+            "state": "mi",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-06-25T12:03:48-05:00",
+            "rating": "Tilt Democrat",
+            "rating_numeric": 3,
+            "shift": "left",
+            "previous_rating": "Toss-up",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Whitmer",
+                    "first_name": "Gretchen",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "GA",
+            "state": "ga",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-06-25T12:00:37-05:00",
+            "rating": "Toss-up",
+            "rating_numeric": 5,
+            "shift": "left",
+            "previous_rating": "Tilt Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Kemp",
+                    "first_name": "Brian",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MN",
+            "state": "mn",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-01-16T00:00:00-05:00",
+            "rating": "Likely Democrat",
+            "rating_numeric": 1,
+            "shift": "no-change",
+            "previous_rating": "Likely Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Walz",
+                    "first_name": "Tim",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NJ",
+            "state": "nj",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-01-02T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Sherrill",
+                    "first_name": "Mikie",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "VA",
+            "state": "va",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2026-01-02T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Spanberger",
+                    "first_name": "Abigail",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NV",
+            "state": "nv",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-08-28T00:00:00-05:00",
+            "rating": "Tilt Republican",
+            "rating_numeric": 7,
+            "shift": "right",
+            "previous_rating": "Battleground Republican",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Lombardo",
+                    "first_name": "Joe",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NM",
+            "state": "nm",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-08-28T00:00:00-05:00",
+            "rating": "Likely Democrat",
+            "rating_numeric": 1,
+            "shift": "left",
+            "previous_rating": "Battleground Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Lujan Grisham",
+                    "first_name": "Michelle",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NY",
+            "state": "ny",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-08-28T00:00:00-05:00",
+            "rating": "Likely Democrat",
+            "rating_numeric": 1,
+            "shift": "left",
+            "previous_rating": "Battleground Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Hochul",
+                    "first_name": "Kathy",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "WI",
+            "state": "wi",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-08-28T00:00:00-05:00",
+            "rating": "Toss-up",
+            "rating_numeric": 5,
+            "shift": "right",
+            "previous_rating": "Battleground Democrat",
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Evers",
+                    "first_name": "Tony",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "IL",
+            "state": "il",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Pritzker",
+                    "first_name": "J.B.",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "WY",
+            "state": "wy",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Gordon",
+                    "first_name": "Mark",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MS",
+            "state": "ms",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Reeves",
+                    "first_name": "Tate",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "IN",
+            "state": "in",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Braun",
+                    "first_name": "Mike",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NC",
+            "state": "nc",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Stein",
+                    "first_name": "Josh",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "ND",
+            "state": "nd",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Armstrong",
+                    "first_name": "Kelly",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "VT",
+            "state": "vt",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Scott",
+                    "first_name": "Phil",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "OK",
+            "state": "ok",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Stitt",
+                    "first_name": "Kevin",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "AL",
+            "state": "al",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Ivey",
+                    "first_name": "Kay",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MD",
+            "state": "md",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Moore",
+                    "first_name": "Wes",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "RI",
+            "state": "ri",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "McKee",
+                    "first_name": "Dan",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MA",
+            "state": "ma",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Healey",
+                    "first_name": "Maura",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "SC",
+            "state": "sc",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "McMaster",
+                    "first_name": "Henry",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "AR",
+            "state": "ar",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Huckabee Sanders",
+                    "first_name": "Sarah",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "SD",
+            "state": "sd",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Rhoden",
+                    "first_name": "Larry",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "CA",
+            "state": "ca",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Newsom",
+                    "first_name": "Gavin",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "TN",
+            "state": "tn",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Lee",
+                    "first_name": "Bill",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "CO",
+            "state": "co",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Polis",
+                    "first_name": "Jared",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": true,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "CT",
+            "state": "ct",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Lamont",
+                    "first_name": "Ned",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "UT",
+            "state": "ut",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Cox",
+                    "first_name": "Spencer",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MO",
+            "state": "mo",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Kehoe",
+                    "first_name": "Mike",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "DE",
+            "state": "de",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Meyer",
+                    "first_name": "Matt",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "MT",
+            "state": "mt",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Gianforte",
+                    "first_name": "Greg",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NE",
+            "state": "ne",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Pillen",
+                    "first_name": "Jim",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "WA",
+            "state": "wa",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Ferguson",
+                    "first_name": "Bob",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "HI",
+            "state": "hi",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Democrat",
+            "rating_numeric": 0,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Green",
+                    "first_name": "Josh",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "WV",
+            "state": "wv",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Morrisey",
+                    "first_name": "Patrick",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "NH",
+            "state": "nh",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Ayotte",
+                    "first_name": "Kelly",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "ID",
+            "state": "id",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Solid Republican",
+            "rating_numeric": 10,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Little",
+                    "first_name": "Brad",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "KY",
+            "state": "ky",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Beshear",
+                    "first_name": "Andy",
+                    "party": "D"
+                }
+            ],
+            "party": {
+                "name": "Democrat",
+                "slug": "democrat"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        },
+        {
+            "district": "LA",
+            "state": "la",
+            "election_year": "2026",
+            "office": "Governor",
+            "office_slug": "governor",
+            "date": "2025-02-06T00:00:00-05:00",
+            "rating": "Not Up This Cycle",
+            "rating_numeric": null,
+            "shift": null,
+            "previous_rating": null,
+            "flipped": false,
+            "incumbent_name": "",
+            "incumbent": [
+                {
+                    "name": "Landry",
+                    "first_name": "Jeff",
+                    "party": "R"
+                }
+            ],
+            "party": {
+                "name": "Republican",
+                "slug": "republican"
+            },
+            "open": false,
+            "special": false,
+            "electoral_votes": null,
+            "note": ""
+        }
+    ]
+}

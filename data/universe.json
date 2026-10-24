@@ -1,0 +1,8207 @@
+[
+  {
+    "office": "house",
+    "district": "FL-16",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:53:06-05:00",
+    "incumbent": [
+      {
+        "name": "Buchanan",
+        "first_name": "Vern",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-05",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Crank",
+        "first_name": "Jeff",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-14",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Castor",
+        "first_name": "Kathy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-27",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Salazar",
+        "first_name": "Maria",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IA-02",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hinson",
+        "first_name": "Ashley",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-19",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Riley",
+        "first_name": "Josh",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-01",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Davis",
+        "first_name": "Don",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-09",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Green",
+        "first_name": "Alexander",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-01",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Steil",
+        "first_name": "Bryan",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-10T10:22:05-05:00",
+    "incumbent": [
+      {
+        "name": "Cleaver",
+        "first_name": "Emanuel",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-35",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-03T14:30:00-05:00",
+    "incumbent": [
+      {
+        "name": "Casar",
+        "first_name": "Greg",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-01",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:18:46-05:00",
+    "incumbent": [
+      {
+        "name": "Finstad",
+        "first_name": "Brad",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-15",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-20T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "De La Cruz",
+        "first_name": "Monica",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-01",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-20T13:24:00-05:00",
+    "incumbent": [
+      {
+        "name": "Mace",
+        "first_name": "Nancy",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NV-02",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-20T13:23:00-05:00",
+    "incumbent": [
+      {
+        "name": "Amodei",
+        "first_name": "Mark",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-06",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-20T13:22:00-05:00",
+    "incumbent": [
+      {
+        "name": "Barr",
+        "first_name": "Andy",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-09",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-20T13:22:00-05:00",
+    "incumbent": [
+      {
+        "name": "Pou",
+        "first_name": "Nelida",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-21",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-20T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Costa",
+        "first_name": "Jim",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-45",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-20T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Tran",
+        "first_name": "Derek",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-07",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-10T19:27:42-05:00",
+    "incumbent": [
+      {
+        "name": "Miller",
+        "first_name": "Max",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IA-03",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Nunn",
+        "first_name": "Zach",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "McDonald Rivet",
+        "first_name": "Kristen",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-17",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-12T13:55:04-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-01",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-12T13:52:16-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-11",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-12T13:48:16-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-06",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Independent",
+      "slug": "independent"
+    },
+    "date": "2026-06-12T13:47:11-05:00",
+    "incumbent": [
+      {
+        "name": "Bera",
+        "first_name": "Amerish",
+        "party": "D"
+      },
+      {
+        "name": "Kiley",
+        "first_name": "Kevin",
+        "party": "O"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-01",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-12T13:45:12-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-07",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-12T13:44:04-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-03",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-12T13:42:12-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-08",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-12T13:41:01-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-02",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-04T09:36:05-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-04T09:33:58-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-07",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-21T21:00:34-05:00",
+    "incumbent": [
+      {
+        "name": "Vindman",
+        "first_name": "Eugene",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-10",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-21T20:58:39-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-03",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-21T20:56:46-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kiley",
+        "first_name": "Kevin",
+        "party": "O"
+      },
+      {
+        "name": "Bera",
+        "first_name": "Amerish",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-14",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Wahab",
+        "first_name": "Aisha",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-25",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-26",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-47",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-48",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-03",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-09",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-11",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-22",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Frankel",
+        "first_name": "Lois",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-23",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Moskowitz",
+        "first_name": "Jared",
+        "party": "D"
+      },
+      {
+        "name": "Frankel",
+        "first_name": "Lois",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-25",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Wasserman Schultz",
+        "first_name": "Debbie",
+        "party": "D"
+      },
+      {
+        "name": "Moskowitz",
+        "first_name": "Jared",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-14",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-03",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MT-01",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-21",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-13",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OK-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-23",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "UT-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "UT-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Maloy",
+        "first_name": "Celeste",
+        "party": "R"
+      },
+      {
+        "name": "Moore",
+        "first_name": "Blake",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "UT-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kennedy",
+        "first_name": "Mike",
+        "party": "R"
+      },
+      {
+        "name": "Maloy",
+        "first_name": "Celeste",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "UT-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-08T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Owens",
+        "first_name": "Burgess",
+        "party": "R"
+      },
+      {
+        "name": "Kennedy",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-10",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-11",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-18",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-38",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [
+      {
+        "name": "Hunt",
+        "first_name": "Wesley",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WY-AL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-02-05T05:55:48-05:00",
+    "incumbent": [
+      {
+        "name": "Hageman",
+        "first_name": "Harriet",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-07",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-10",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-13",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-02",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MN-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MS-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MS-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MS-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MS-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MO-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NE-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NE-02",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Bacon",
+        "first_name": "Donald",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NE-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NV-01",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NV-03",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NH-01",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NH-02",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NJ-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NM-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NM-02",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NM-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-03",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-04",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-09",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AL-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AK-AL",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-11",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-01",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-02",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-13",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-14",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-15",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-16",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-06",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-17",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-18",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AR-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-20",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AR-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AR-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-22",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AR-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-23",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-24",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-25",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NY-26",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-09",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-13",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-10",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-15",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-16",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-13",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-17",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "ND-AL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-18",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-19",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-20",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-22",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-23",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-24",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-09",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-27",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-10",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-28",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-29",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-12",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-30",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-31",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-14",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-32",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OH-15",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-33",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-34",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OK-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-35",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OK-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-36",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OK-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-37",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OK-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-38",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-39",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-40",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kim",
+        "first_name": "Young",
+        "party": "R"
+      },
+      {
+        "name": "Calvert",
+        "first_name": "Ken",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-41",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Calvert",
+        "first_name": "Ken",
+        "party": "R"
+      },
+      {
+        "name": "Sanchez",
+        "first_name": "Linda",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-01",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-42",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-43",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-44",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-46",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-07",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-49",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-50",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-51",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-11",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CA-52",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-12",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-13",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-14",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-15",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "PA-16",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "RI-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "RI-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CT-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CT-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CT-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CT-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CT-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "DE-AL",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SD-AL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-07",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TN-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-12",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-13",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-15",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-17",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-18",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-19",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-20",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": true
+  },
+  {
+    "office": "house",
+    "district": "FL-21",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-10",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-11",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-12",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-24",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-13",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-14",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-16",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-17",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-19",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-20",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-21",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-24",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-25",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-12",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-26",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "GA-13",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Blair",
+        "first_name": "Everton",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-27",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "HI-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-28",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "HI-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-29",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "ID-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-30",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "ID-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-31",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-32",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Johnson",
+        "first_name": "Julie",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VT-AL",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-01",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-02",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-09",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-12",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-13",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-14",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-15",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-16",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "VA-11",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IL-17",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-09",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IN-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WV-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IA-01",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WV-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "IA-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KS-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KS-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Schmidt",
+        "first_name": "Derek",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KS-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-06",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KS-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WI-08",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-22",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "SC-07",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "KY-05",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NV-04",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-33",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-34",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-03",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "LA-04",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-36",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "AZ-09",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-26",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "ME-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "ME-02",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "WA-10",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "CO-08",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "OR-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "TX-37",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MT-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "NC-14",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "FL-28",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MD-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-01",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-02",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-03",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-04",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-05",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-06",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-07",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-08",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MA-09",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-01",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-02",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "house",
+    "district": "MI-04",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-05T00:00:00-05:00",
+    "incumbent": [],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ME",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Collins",
+        "first_name": "Susan",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AK",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:05:51-05:00",
+    "incumbent": [
+      {
+        "name": "Sullivan",
+        "first_name": "Dan",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "KS",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:04:05-05:00",
+    "incumbent": [
+      {
+        "name": "Marshall",
+        "first_name": "Roger",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OH",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:01:48-05:00",
+    "incumbent": [
+      {
+        "name": "Husted",
+        "first_name": "Jon",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NH",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-03T14:01:06-05:00",
+    "incumbent": [
+      {
+        "name": "Shaheen",
+        "first_name": "Jeanne",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NC",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Tillis",
+        "first_name": "Thom",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "GA",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ossoff",
+        "first_name": "Jon",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "TX",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cornyn",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IA",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ernst",
+        "first_name": "Joni",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "SC",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-07-12T09:45:59-05:00",
+    "incumbent": [
+      {
+        "name": "Graham",
+        "first_name": "Darlene",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MT",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-25T11:49:57-05:00",
+    "incumbent": [
+      {
+        "name": "Daines",
+        "first_name": "Steve",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AK",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-05-28T15:32:19-05:00",
+    "incumbent": [
+      {
+        "name": "Murkowski",
+        "first_name": "Lisa",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OK",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-04-23T21:14:00-05:00",
+    "incumbent": [
+      {
+        "name": "Armstrong",
+        "first_name": "Alan",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NE",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-04-23T21:07:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ricketts",
+        "first_name": "Pete",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-03-01T19:59:57-05:00",
+    "incumbent": [
+      {
+        "name": "Padilla",
+        "first_name": "Alex",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "GA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-02-20T10:40:57-05:00",
+    "incumbent": [
+      {
+        "name": "Warnock",
+        "first_name": "Raphael",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NY",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-02-20T05:01:19-05:00",
+    "incumbent": [
+      {
+        "name": "Schumer",
+        "first_name": "Charles",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WY",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-12-19T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lummis",
+        "first_name": "Cynthia",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MN",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-07-24T12:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Smith",
+        "first_name": "Tina",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MI",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-07-24T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Peters",
+        "first_name": "Gary",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-06-05T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Tuberville",
+        "first_name": "Thomas",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IL",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-04-23T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Durbin",
+        "first_name": "Dick",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "KY",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-20T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "McConnell",
+        "first_name": "Mitch",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "FL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-17T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Moody",
+        "first_name": "Ashley",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "DE",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T01:15:00-05:00",
+    "incumbent": [
+      {
+        "name": "Coons",
+        "first_name": "Christopher",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "LA",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cassidy",
+        "first_name": "Bill",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NJ",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Booker",
+        "first_name": "Cory",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "VT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Independent",
+      "slug": "independent"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Sanders",
+        "first_name": "Bernard",
+        "party": "I"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Schiff",
+        "first_name": "Adam",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NM",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Heinrich",
+        "first_name": "Martin",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "VA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kaine",
+        "first_name": "Timothy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NM",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lujan",
+        "first_name": "Ben",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ME",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Independent",
+      "slug": "independent"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "King",
+        "first_name": "Angus",
+        "party": "I"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "VA",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Warner",
+        "first_name": "Mark",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NY",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Gillibrand",
+        "first_name": "Kirsten",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CO",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hickenlooper",
+        "first_name": "John",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cantwell",
+        "first_name": "Maria",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MD",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Alsobrooks",
+        "first_name": "Angela",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Murphy",
+        "first_name": "Christopher",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Warren",
+        "first_name": "Elizabeth",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WV",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Justice",
+        "first_name": "James",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "DE",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Blunt Rochester",
+        "first_name": "Lisa",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MA",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Markey",
+        "first_name": "Edward",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ND",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cramer",
+        "first_name": "Kevin",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WV",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Capito",
+        "first_name": "Shelley",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Slotkin",
+        "first_name": "Elissa",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Baldwin",
+        "first_name": "Tammy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OH",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Moreno",
+        "first_name": "Bernie",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "FL",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Scott",
+        "first_name": "Rick",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MN",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Klobuchar",
+        "first_name": "Amy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WY",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Barrasso",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MS",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Wicker",
+        "first_name": "Roger",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MS",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hyde-Smith",
+        "first_name": "Cindy",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OR",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Merkley",
+        "first_name": "Jeffrey",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MO",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hawley",
+        "first_name": "Joshua",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "HI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hirono",
+        "first_name": "Mazie",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "PA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "McCormick",
+        "first_name": "Dave",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ID",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Risch",
+        "first_name": "James",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Sheehy",
+        "first_name": "Tim",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "RI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Whitehouse",
+        "first_name": "Sheldon",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "RI",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Reed",
+        "first_name": "John",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NE",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Fischer",
+        "first_name": "Debra",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IN",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Banks",
+        "first_name": "James",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "SD",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Rounds",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NV",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Rosen",
+        "first_name": "Jacky",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "TN",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Blackburn",
+        "first_name": "Marsha",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "TN",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hagerty",
+        "first_name": "Bill",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AZ",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Gallego",
+        "first_name": "Ruben",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "TX",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cruz",
+        "first_name": "Ted",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AR",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cotton",
+        "first_name": "Thomas",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "UT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Curtis",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NJ",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-09T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kim",
+        "first_name": "Andy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MD",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-01T23:33:58-05:00",
+    "incumbent": [
+      {
+        "name": "Van Hollen",
+        "first_name": "Chris",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-01T05:31:57-05:00",
+    "incumbent": [
+      {
+        "name": "Murray",
+        "first_name": "Patty",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "HI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-01-01T03:49:28-05:00",
+    "incumbent": [
+      {
+        "name": "Schatz",
+        "first_name": "Brian",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AL",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-01-01T03:34:09-05:00",
+    "incumbent": [
+      {
+        "name": "Britt",
+        "first_name": "Katie",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "UT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lee",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AR",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Boozman",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "LA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kennedy",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "VT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Welch",
+        "first_name": "Peter",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CO",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Bennet",
+        "first_name": "Michael",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NC",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Budd",
+        "first_name": "Theodore",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "CT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Blumenthal",
+        "first_name": "Richard",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ND",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hoeven",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "WI",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Johnson",
+        "first_name": "Ron",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OK",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lankford",
+        "first_name": "James",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "OR",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Wyden",
+        "first_name": "Ronald",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "MO",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Schmitt",
+        "first_name": "Eric",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "PA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Fetterman",
+        "first_name": "John",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "ID",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Crapo",
+        "first_name": "Michael",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IL",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Duckworth",
+        "first_name": "Tammy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "SC",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Scott",
+        "first_name": "Timothy",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IN",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Young",
+        "first_name": "Todd",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "SD",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Thune",
+        "first_name": "John",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "IA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Grassley",
+        "first_name": "Charles",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NV",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cortez Masto",
+        "first_name": "Catherine",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "KS",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Moran",
+        "first_name": "Jerry",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "AZ",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kelly",
+        "first_name": "Mark",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "NH",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hassan",
+        "first_name": "Margaret",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "senate",
+    "district": "KY",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2023-01-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Paul",
+        "first_name": "Rand",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "FL",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "DeSantis",
+        "first_name": "Ron",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "ME",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-17T13:25:00-05:00",
+    "incumbent": [
+      {
+        "name": "Mills",
+        "first_name": "Janet",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "AZ",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-09-03T14:08:44-05:00",
+    "incumbent": [
+      {
+        "name": "Hobbs",
+        "first_name": "Katie",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "OH",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:08:05-05:00",
+    "incumbent": [
+      {
+        "name": "DeWine",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "AK",
+    "rating": "Lean Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-09-03T14:06:49-05:00",
+    "incumbent": [
+      {
+        "name": "Dunleavy",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "KS",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kelly",
+        "first_name": "Laura",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "IA",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Reynolds",
+        "first_name": "Kim",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "TX",
+    "rating": "Likely Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-08-06T13:20:00-05:00",
+    "incumbent": [
+      {
+        "name": "Abbott",
+        "first_name": "Greg",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "PA",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-25T12:08:29-05:00",
+    "incumbent": [
+      {
+        "name": "Shapiro",
+        "first_name": "Josh",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "OR",
+    "rating": "Lean Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-25T12:06:35-05:00",
+    "incumbent": [
+      {
+        "name": "Kotek",
+        "first_name": "Tina",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MI",
+    "rating": "Tilt Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-06-25T12:03:48-05:00",
+    "incumbent": [
+      {
+        "name": "Whitmer",
+        "first_name": "Gretchen",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "GA",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2026-06-25T12:00:37-05:00",
+    "incumbent": [
+      {
+        "name": "Kemp",
+        "first_name": "Brian",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MN",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-01-16T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Walz",
+        "first_name": "Tim",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NJ",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-01-02T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Sherrill",
+        "first_name": "Mikie",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "VA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2026-01-02T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Spanberger",
+        "first_name": "Abigail",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NV",
+    "rating": "Tilt Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-08-28T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lombardo",
+        "first_name": "Joe",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NM",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-08-28T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lujan Grisham",
+        "first_name": "Michelle",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NY",
+    "rating": "Likely Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-08-28T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Hochul",
+        "first_name": "Kathy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "WI",
+    "rating": "Toss-up",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-08-28T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Evers",
+        "first_name": "Tony",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "IL",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Pritzker",
+        "first_name": "J.B.",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "WY",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Gordon",
+        "first_name": "Mark",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MS",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Reeves",
+        "first_name": "Tate",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "IN",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Braun",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NC",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Stein",
+        "first_name": "Josh",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "ND",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Armstrong",
+        "first_name": "Kelly",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "VT",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Scott",
+        "first_name": "Phil",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "OK",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Stitt",
+        "first_name": "Kevin",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "AL",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ivey",
+        "first_name": "Kay",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MD",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Moore",
+        "first_name": "Wes",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "RI",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "McKee",
+        "first_name": "Dan",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MA",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Healey",
+        "first_name": "Maura",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "SC",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "McMaster",
+        "first_name": "Henry",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "AR",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Huckabee Sanders",
+        "first_name": "Sarah",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "SD",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Rhoden",
+        "first_name": "Larry",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "CA",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Newsom",
+        "first_name": "Gavin",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "TN",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lee",
+        "first_name": "Bill",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "CO",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Polis",
+        "first_name": "Jared",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "CT",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Lamont",
+        "first_name": "Ned",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "UT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Cox",
+        "first_name": "Spencer",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MO",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Kehoe",
+        "first_name": "Mike",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "DE",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Meyer",
+        "first_name": "Matt",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "MT",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Gianforte",
+        "first_name": "Greg",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NE",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Pillen",
+        "first_name": "Jim",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "WA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ferguson",
+        "first_name": "Bob",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "HI",
+    "rating": "Solid Democrat",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Green",
+        "first_name": "Josh",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "WV",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Morrisey",
+        "first_name": "Patrick",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "NH",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Ayotte",
+        "first_name": "Kelly",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "ID",
+    "rating": "Solid Republican",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Little",
+        "first_name": "Brad",
+        "party": "R"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "KY",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Democrat",
+      "slug": "democrat"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Beshear",
+        "first_name": "Andy",
+        "party": "D"
+      }
+    ],
+    "special": false
+  },
+  {
+    "office": "governor",
+    "district": "LA",
+    "rating": "Not Up This Cycle",
+    "party": {
+      "name": "Republican",
+      "slug": "republican"
+    },
+    "date": "2025-02-06T00:00:00-05:00",
+    "incumbent": [
+      {
+        "name": "Landry",
+        "first_name": "Jeff",
+        "party": "R"
+      }
+    ],
+    "special": false
+  }
+]
