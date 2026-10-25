@@ -24,6 +24,7 @@ sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT/'scripts'))
 from app import build
 from live_edges import live_markets
+from model import tradability
 from sync_markets import BASE, get
 
 TICK = .005
@@ -32,10 +33,11 @@ def floor_tick(price):
     return round(math.floor(price/TICK+1e-9)*TICK, 3)
 
 def model_probs():
+    """Probability ranges only for races that pass the same evidence filter as live_edges.py."""
     base, wide = build(), build(error_scale=1.3)
     out = {}
     for b, w in zip(base['races'], wide['races']):
-        if b['model'] and b['model']['status'] == 'Provisional polling model':
+        if b['model'] and tradability(b['model'], b['observations']) is None:
             out[b['id']] = min(b['model']['dem_probability'], w['model']['dem_probability']), max(b['model']['dem_probability'], w['model']['dem_probability'])
     return out
 
@@ -67,9 +69,10 @@ def plan_orders(plan, markets, positions, open_orders, books, balance, probs):
         if price is None: notes.append(f'SKIP {label}: no liquidity on the book'); continue
         if price > item['max_price']+1e-9: notes.append(f'SKIP {label}: price {price:.3f} above max {item["max_price"]:.3f}'); continue
         limit = floor_tick(min(price, item['max_price']))
-        edge = cautious(probs, item['race_id'], item['party'], item['side'])-limit if item['race_id'] in probs else None
-        if edge is None or edge < item.get('min_edge', plan['min_edge']):
-            notes.append(f'SKIP {label}: model edge {"n/a" if edge is None else f"{edge:+.3f}"} below minimum'); continue
+        if item['race_id'] not in probs: notes.append(f'SKIP {label}: insufficient polling evidence (reference only)'); continue
+        edge = cautious(probs, item['race_id'], item['party'], item['side'])-limit
+        if edge < item.get('min_edge', plan['min_edge']):
+            notes.append(f'SKIP {label}: model edge {edge:+.3f} below minimum'); continue
         spend = min(need, cash)
         quantity = int(spend/limit)
         if quantity < 1 or spend < plan.get('min_order', 200): notes.append(f'SKIP {label}: reserve of {plan["reserve"]:,} reached'); continue
