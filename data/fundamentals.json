@@ -1,0 +1,16 @@
+{
+  "note": "Partisan-lean prior for polled statewide races. Prior mean = state 2024 presidential margin + (environment - national 2024 margin). Margins are D minus R points.",
+  "source_2024": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election (results-by-state table, reviewed 2026-10-25)",
+  "national_2024": -1.5,
+  "environment": 7.0,
+  "environment_note": "Generic ballot averages were roughly D+7 to D+9 in October 2026 (Silver Bulletin D+8.9 on Oct 7); set slightly below to allow for generic-ballot overstatement. Analyst assumption, not calibrated.",
+  "prior_sd": {"Senate": 7.0, "Governor": 10.0},
+  "incumbency_bonus": 3.0,
+  "incumbency_overrides": {"Maine Senate": 10.0},
+  "incumbency_note": "Points toward the incumbent's party when the incumbent is running (rating open_seat false). Collins won 2020 by 8.6 while Biden won Maine by 9.1 (~18 pt overperformance); override assumes about half persists.",
+  "prior_sd_note": "Candidate, incumbency and office effects are not modeled explicitly; they live in this spread. Governor races decouple from presidential lean more often, hence wider.",
+  "states": {
+    "Alaska": -13.13, "Arizona": -5.53, "Florida": -13.10, "Georgia": -2.19, "Iowa": -13.21, "Kansas": -16.12,
+    "Maine": 6.94, "Michigan": -1.42, "Nevada": -3.10, "New Hampshire": 2.78, "Texas": -13.68, "Wisconsin": -0.86
+  }
+}

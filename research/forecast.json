@@ -2684,6 +2684,7 @@
         "source_note": ""
       },
       "state_code": "RI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -2751,6 +2752,7 @@
         "source_note": ""
       },
       "state_code": "DE",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -2823,6 +2825,7 @@
         "source_note": ""
       },
       "state_code": "RI",
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",
@@ -2860,6 +2863,7 @@
         "source_note": "Alan Armstrong appointed by Governor Stitt"
       },
       "state_code": "OK",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -2929,6 +2933,10 @@
       "state_code": "NH",
       "research_note": "UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence.",
       "research_source": "unh-nh",
+      "prior": [
+        11.28,
+        7.0
+      ],
       "observations": [
         {
           "id": "new-hampshire-senate-saint-anselm-college-2026-10-22",
@@ -2980,16 +2988,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9536429568045912,
-        "mean_margin": 7.114509867538097,
-        "sd": 4.23167511586403,
+        "dem_probability": 0.966264478352435,
+        "mean_margin": 7.656761758852131,
+        "sd": 4.18740166661031,
         "interval80": [
-          1.6913999959993182,
-          12.537619739076877
+          2.2903905955366772,
+          13.023132922167584
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.0670954152459706,
+        "local_sd": 3.005716672863695,
         "used_ids": [
           "new-hampshire-senate-saint-anselm-college-2026-10-22",
           "new-hampshire-senate-national-public-affairs-2026-10-20",
@@ -2997,20 +3005,25 @@
           "new-hampshire-senate-yougov-2026-10-06"
         ],
         "latest": "2026-10-22",
+        "prior": {
+          "mean": 11.28,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.04635704319540879,
-          "difference": -0.09364295680459123,
+          "probability": 0.03373552164756499,
+          "difference": -0.10626447835243502,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.9536429568045912,
-          "difference": 0.08364295680459122,
+          "probability": 0.966264478352435,
+          "difference": 0.09626447835243501,
           "tradable": true,
           "reason": null
         }
@@ -3048,6 +3061,7 @@
         "source_note": ""
       },
       "state_code": "MA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -3115,6 +3129,10 @@
         "source_note": ""
       },
       "state_code": "AK",
+      "prior": [
+        -7.630000000000001,
+        7.0
+      ],
       "observations": [
         {
           "id": "silver-alaska",
@@ -3190,16 +3208,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7769387953070663,
-        "mean_margin": 3.1950543931064344,
-        "sd": 4.193560176985407,
+        "dem_probability": 0.7093582473033719,
+        "mean_margin": 2.291114067112312,
+        "sd": 4.1542499338588454,
         "interval80": [
-          -2.179209218824452,
-          8.56931800503732
+          -3.032771441179888,
+          7.6149995754045126
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.014290456807022,
+        "local_sd": 2.959356773517891,
         "used_ids": [
           "alaska-senate-data-for-progress-2026-10-20",
           "alaska-senate-insideradvantage-2026-10-11",
@@ -3208,20 +3226,25 @@
           "alaska-senate-quantus-insights-2026-10-02"
         ],
         "latest": "2026-10-20",
+        "prior": {
+          "mean": -7.630000000000001,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.22306120469293367,
-          "difference": -0.08693879530706633,
-          "tradable": true,
-          "reason": null
+          "probability": 0.29064175269662806,
+          "difference": -0.019358247303371934,
+          "tradable": false,
+          "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.7769387953070663,
-          "difference": 0.07693879530706638,
+          "probability": 0.7093582473033719,
+          "difference": 0.00935824730337198,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -3258,6 +3281,7 @@
       "state_code": "NH",
       "research_note": "UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence.",
       "research_source": "unh-nh",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.75,
@@ -3325,6 +3349,7 @@
         "source_note": ""
       },
       "state_code": "OK",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -3392,6 +3417,10 @@
       "state_code": "NH",
       "research_note": "UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence.",
       "research_source": "unh-nh",
+      "prior": [
+        8.28,
+        10.0
+      ],
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -3459,6 +3488,7 @@
         "source_note": ""
       },
       "state_code": "MA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -3526,6 +3556,10 @@
         "source_note": ""
       },
       "state_code": "AK",
+      "prior": [
+        -4.630000000000001,
+        10.0
+      ],
       "observations": [],
       "model": {
         "dem_probability": 0.25,
@@ -3593,6 +3627,7 @@
         "source_note": ""
       },
       "state_code": "WY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -3660,6 +3695,7 @@
         "source_note": ""
       },
       "state_code": "VA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -3725,6 +3761,7 @@
         "source_note": ""
       },
       "state_code": "TN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -3792,6 +3829,7 @@
         "source_note": ""
       },
       "state_code": "MN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -3857,6 +3895,10 @@
         "source_note": ""
       },
       "state_code": "MI",
+      "prior": [
+        7.08,
+        7.0
+      ],
       "observations": [
         {
           "id": "silver-michigan",
@@ -4004,16 +4046,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7184555728882434,
-        "mean_margin": 2.2500224380500753,
-        "sd": 3.8910246744055392,
+        "dem_probability": 0.7391270247621781,
+        "mean_margin": 2.486350473242565,
+        "sd": 3.8809422526787367,
         "interval80": [
-          -2.7365263267789843,
-          7.236571202879135
+          -2.4872771482334377,
+          7.459978094718568
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.5768339133193536,
+        "local_sd": 2.561584035050794,
         "used_ids": [
           "michigan-senate-insideradvantage-2026-10-23",
           "michigan-senate-marist-poll-2026-10-21",
@@ -4027,20 +4069,25 @@
           "michigan-senate-fox-news-2026-09-30"
         ],
         "latest": "2026-10-23",
+        "prior": {
+          "mean": 7.08,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.28154442711175665,
-          "difference": 0.011544427111756628,
+          "probability": 0.26087297523782194,
+          "difference": -0.009127024762178082,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.7184555728882434,
-          "difference": -0.011544427111756628,
+          "probability": 0.7391270247621781,
+          "difference": 0.009127024762178082,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -4080,6 +4127,10 @@
         "source_note": ""
       },
       "state_code": "KS",
+      "prior": [
+        -10.620000000000001,
+        7.0
+      ],
       "observations": [
         {
           "id": "emerson-kansas-senate",
@@ -4143,16 +4194,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.6118633436064497,
-        "mean_margin": 1.2092463554744575,
-        "sd": 4.255229759776642,
+        "dem_probability": 0.5067788267393556,
+        "mean_margin": 0.0715015255915422,
+        "sd": 4.207750107131161,
         "interval80": [
-          -4.244050006857103,
-          6.6625427178060175
+          -5.320947213539065,
+          5.46395026472215
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.0995129147155973,
+        "local_sd": 3.0340008180721196,
         "used_ids": [
           "emerson-kansas-senate",
           "kansas-senate-insideradvantage-2026-10-16",
@@ -4161,20 +4212,25 @@
           "kansas-senate-trafalgar-group-2026-10-02"
         ],
         "latest": "2026-10-16",
+        "prior": {
+          "mean": -10.620000000000001,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.38813665639355033,
-          "difference": -0.32186334360644964,
+          "probability": 0.4932211732606444,
+          "difference": -0.21677882673935556,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.6118633436064497,
-          "difference": 0.3118633436064497,
+          "probability": 0.5067788267393556,
+          "difference": 0.2067788267393556,
           "tradable": true,
           "reason": null
         }
@@ -4214,6 +4270,10 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": [
+        -7.6,
+        7.0
+      ],
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -4275,6 +4335,7 @@
         "source_note": ""
       },
       "state_code": "WI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -4342,6 +4403,7 @@
         "source_note": ""
       },
       "state_code": "WI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -4404,6 +4466,7 @@
         "source_note": ""
       },
       "state_code": "WA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -4471,6 +4534,7 @@
         "source_note": ""
       },
       "state_code": "VA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -4533,6 +4597,7 @@
         "source_note": ""
       },
       "state_code": "VA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -4594,6 +4659,7 @@
         "source_note": ""
       },
       "state_code": "VA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -4656,6 +4722,7 @@
         "source_note": ""
       },
       "state_code": "VA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.25,
@@ -4717,6 +4784,7 @@
         "source_note": ""
       },
       "state_code": "TN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -4779,6 +4847,7 @@
         "source_note": ""
       },
       "state_code": "MN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -4840,6 +4909,7 @@
         "source_note": ""
       },
       "state_code": "MN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -4907,6 +4977,7 @@
         "source_note": ""
       },
       "state_code": "MN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -4969,6 +5040,7 @@
         "source_note": ""
       },
       "state_code": "MI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.4,
@@ -5031,6 +5103,7 @@
         "source_note": ""
       },
       "state_code": "MI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -5098,6 +5171,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.4,
@@ -5159,6 +5233,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -5226,6 +5301,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -5287,6 +5363,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -5349,6 +5426,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -5411,6 +5489,7 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -5473,6 +5552,7 @@
         "source_note": ""
       },
       "state_code": "AL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -5540,6 +5620,7 @@
         "source_note": ""
       },
       "state_code": "WY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -5605,6 +5686,10 @@
         "source_note": ""
       },
       "state_code": "WI",
+      "prior": [
+        7.64,
+        10.0
+      ],
       "observations": [
         {
           "id": "wisconsin-governor-z-to-a-research-2026-10-09",
@@ -5632,35 +5717,40 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7626978766547224,
-        "mean_margin": 3.837964871875404,
-        "sd": 5.367724761692109,
+        "dem_probability": 0.8119953106909077,
+        "mean_margin": 4.643903360451178,
+        "sd": 5.245729926489258,
         "interval80": [
-          -3.0410512023280964,
-          10.716980946078904
+          -2.078770041654195,
+          11.366576762556551
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 4.506935668198806,
+        "local_sd": 4.360926789303507,
         "used_ids": [
           "wisconsin-governor-z-to-a-research-2026-10-09",
           "wisconsin-governor-marquette-law-school-2026-09-30"
         ],
         "latest": "2026-10-09",
+        "prior": {
+          "mean": 7.64,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.23730212334527756,
-          "difference": 0.06730212334527755,
+          "probability": 0.1880046893090923,
+          "difference": 0.018004689309092298,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         },
         "Democratic": {
-          "probability": 0.7626978766547224,
-          "difference": -0.06730212334527752,
+          "probability": 0.8119953106909077,
+          "difference": -0.01800468930909227,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         }
@@ -5701,6 +5791,7 @@
       "research_note": "UNH September 24 abstract describes a statistical tie, conflicting with the imported Solid Republican rating. Rating-derived probability is suppressed pending numeric evidence.",
       "research_source": "unh-vt",
       "suppress_rating": true,
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",
@@ -5740,6 +5831,7 @@
         "source_note": ""
       },
       "state_code": "TN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -5807,6 +5899,7 @@
         "source_note": ""
       },
       "state_code": "SD",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -5874,6 +5967,7 @@
         "source_note": ""
       },
       "state_code": "MN",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -5941,6 +6035,10 @@
         "source_note": ""
       },
       "state_code": "MI",
+      "prior": [
+        7.08,
+        10.0
+      ],
       "observations": [
         {
           "id": "emerson-michigan-governor",
@@ -6016,16 +6114,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9181009614763431,
-        "mean_margin": 5.6439587703239615,
-        "sd": 4.053372267404886,
+        "dem_probability": 0.9235296561460526,
+        "mean_margin": 5.781082852981694,
+        "sd": 4.044918417829941,
         "interval80": [
-          0.4493531934502588,
-          10.838564347197664
+          0.5973113202694895,
+          10.964854385693897
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.81599480435725,
+        "local_sd": 2.8038125841253865,
         "used_ids": [
           "emerson-michigan-governor",
           "michigan-governor-marist-poll-2026-10-21",
@@ -6035,20 +6133,25 @@
           "michigan-governor-fox-news-2026-09-30"
         ],
         "latest": "2026-10-21",
+        "prior": {
+          "mean": 7.08,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.08189903852365688,
-          "difference": 0.0018990385236568735,
+          "probability": 0.07647034385394735,
+          "difference": -0.003529656146052648,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.9181009614763431,
-          "difference": -0.011899038523656924,
+          "probability": 0.9235296561460526,
+          "difference": -0.006470343853947402,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -6088,6 +6191,10 @@
         "source_note": ""
       },
       "state_code": "KS",
+      "prior": [
+        -7.620000000000001,
+        10.0
+      ],
       "observations": [
         {
           "id": "emerson-kansas-governor",
@@ -6127,36 +6234,41 @@
         }
       ],
       "model": {
-        "dem_probability": 0.1988931059202792,
-        "mean_margin": -3.927648212546891,
-        "sd": 4.644907556463084,
+        "dem_probability": 0.17067486210050137,
+        "mean_margin": -4.378452860428724,
+        "sd": 4.601623488876206,
         "interval80": [
-          -9.88033676545739,
-          2.025040340363609
+          -10.275670648740409,
+          1.5187649278829616
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.615959928993663,
+        "local_sd": 3.5601880193856656,
         "used_ids": [
           "emerson-kansas-governor",
           "kansas-governor-yougov-2026-10-06",
           "kansas-governor-siena-college-2026-10-04"
         ],
         "latest": "2026-10-06",
+        "prior": {
+          "mean": -7.620000000000001,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.8011068940797208,
-          "difference": 0.06110689407972081,
-          "tradable": false,
-          "reason": "Below 8% minimum edge"
+          "probability": 0.8293251378994986,
+          "difference": 0.08932513789949859,
+          "tradable": true,
+          "reason": null
         },
         "Democratic": {
-          "probability": 0.1988931059202792,
-          "difference": -0.08110689407972083,
+          "probability": 0.17067486210050137,
+          "difference": -0.10932513789949866,
           "tradable": true,
           "reason": null
         }
@@ -6196,6 +6308,7 @@
         "source_note": ""
       },
       "state_code": "HI",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -6263,6 +6376,10 @@
         "source_note": ""
       },
       "state_code": "FL",
+      "prior": [
+        -4.6,
+        10.0
+      ],
       "observations": [
         {
           "id": "florida-governor-univ-of-north-florida-2026-10-21",
@@ -6386,16 +6503,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.14155210877736701,
-        "mean_margin": -4.11151627684358,
-        "sd": 3.8304670385008097,
+        "dem_probability": 0.13902230983683067,
+        "mean_margin": -4.152504093653651,
+        "sd": 3.828172128236092,
         "interval80": [
-          -9.020457308545677,
-          0.7974247548585156
+          -9.058504079512169,
+          0.7534958922048665
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.4844471684946656,
+        "local_sd": 2.480907463692197,
         "used_ids": [
           "florida-governor-univ-of-north-florida-2026-10-21",
           "florida-governor-co-efficient-2026-10-21",
@@ -6409,20 +6526,25 @@
           "florida-governor-yougov-2026-10-06"
         ],
         "latest": "2026-10-21",
+        "prior": {
+          "mean": -4.6,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.858447891222633,
-          "difference": 0.07844789122263296,
-          "tradable": false,
-          "reason": "Below 8% minimum edge"
+          "probability": 0.8609776901631694,
+          "difference": 0.08097769016316936,
+          "tradable": true,
+          "reason": null
         },
         "Democratic": {
-          "probability": 0.14155210877736701,
-          "difference": -0.088447891222633,
+          "probability": 0.13902230983683067,
+          "difference": -0.09097769016316934,
           "tradable": true,
           "reason": null
         }
@@ -6462,6 +6584,7 @@
         "source_note": ""
       },
       "state_code": "CT",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -6529,6 +6652,7 @@
         "source_note": ""
       },
       "state_code": "WV",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -6596,6 +6720,10 @@
         "source_note": ""
       },
       "state_code": "TX",
+      "prior": [
+        -5.18,
+        7.0
+      ],
       "observations": [
         {
           "id": "silver-texas",
@@ -6863,16 +6991,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7226454463536223,
-        "mean_margin": 2.2116501252515146,
-        "sd": 3.744000643030761,
+        "dem_probability": 0.708570064442851,
+        "mean_margin": 2.0547749485617266,
+        "sd": 3.7413137521549227,
         "interval80": [
-          -2.5864797619295645,
-          7.009780012432594
+          -2.7399115494097503,
+          6.849461446533203
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.348944617272777,
+        "local_sd": 2.3446595898047855,
         "used_ids": [
           "texas-senate-verasight-2026-10-23",
           "texas-senate-texas-public-opinion-research-2026-10-23",
@@ -6896,20 +7024,25 @@
           "texas-senate-fox-news-2026-10-01"
         ],
         "latest": "2026-10-23",
+        "prior": {
+          "mean": -5.18,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.27735455364637773,
-          "difference": -0.13264544635362224,
+          "probability": 0.291429935557149,
+          "difference": -0.11857006444285095,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.7226454463536223,
-          "difference": 0.12264544635362229,
+          "probability": 0.708570064442851,
+          "difference": 0.108570064442851,
           "tradable": true,
           "reason": null
         }
@@ -6949,6 +7082,7 @@
         "source_note": ""
       },
       "state_code": "SD",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -7016,6 +7150,7 @@
         "source_note": "Sen. Lindsey Graham died on July 11, 2026. Gov. Henry McMaster appointed his sister Darline Graham to serve the remainder of his term."
       },
       "state_code": "SC",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -7081,6 +7216,7 @@
         "source_note": ""
       },
       "state_code": "OR",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -7146,6 +7282,7 @@
         "source_note": ""
       },
       "state_code": "NM",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -7211,6 +7348,7 @@
         "source_note": ""
       },
       "state_code": "NJ",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -7283,6 +7421,7 @@
         "source_note": ""
       },
       "state_code": "NE",
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",
@@ -7322,6 +7461,7 @@
         "source_note": ""
       },
       "state_code": "NC",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -7394,6 +7534,7 @@
         "source_note": ""
       },
       "state_code": "MT",
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",
@@ -7431,6 +7572,7 @@
         "source_note": ""
       },
       "state_code": "MS",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -7498,6 +7640,10 @@
         "source_note": ""
       },
       "state_code": "ME",
+      "prior": [
+        5.440000000000001,
+        7.0
+      ],
       "observations": [
         {
           "id": "silver-maine",
@@ -7597,16 +7743,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.6068683770433103,
-        "mean_margin": 1.0783673424563194,
-        "sd": 3.9767771177458324,
+        "dem_probability": 0.6325409708726855,
+        "mean_margin": 1.3409157103533786,
+        "sd": 3.9602846326173715,
         "interval80": [
-          -4.018077600423819,
-          6.174812285336458
+          -3.734393262383149,
+          6.416224683089906
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.7045806041282723,
+        "local_sd": 2.680271324203076,
         "used_ids": [
           "maine-senate-fox-news-2026-10-22",
           "maine-senate-insideradvantage-2026-10-16",
@@ -7617,20 +7763,25 @@
           "maine-senate-co-efficient-2026-09-30"
         ],
         "latest": "2026-10-22",
+        "prior": {
+          "mean": 5.440000000000001,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.3931316229566897,
-          "difference": -0.01686837704331029,
+          "probability": 0.36745902912731454,
+          "difference": -0.042540970872685435,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.6068683770433103,
-          "difference": 0.006868377043310336,
+          "probability": 0.6325409708726855,
+          "difference": 0.03254097087268548,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -7670,6 +7821,7 @@
         "source_note": ""
       },
       "state_code": "LA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -7737,6 +7889,7 @@
         "source_note": "Not seeking re-election at the end of term"
       },
       "state_code": "KY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -7802,6 +7955,7 @@
         "source_note": "On April 23, 2025, Durbin announced he will not seek re-election to a sixth term in 2026, marking the end of his over four-decade career in Congress."
       },
       "state_code": "IL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -7869,6 +8023,7 @@
         "source_note": ""
       },
       "state_code": "ID",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -7936,6 +8091,10 @@
         "source_note": ""
       },
       "state_code": "IA",
+      "prior": [
+        -4.710000000000001,
+        7.0
+      ],
       "observations": [
         {
           "id": "silver-iowa",
@@ -8107,16 +8266,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.45940476942276776,
-        "mean_margin": -0.38911910848579734,
-        "sd": 3.8173857573462002,
+        "dem_probability": 0.44399462501102926,
+        "mean_margin": -0.5368576760621826,
+        "sd": 3.811583757879255,
         "interval80": [
-          -5.281295803838916,
-          4.503057586867322
+          -5.421598809912507,
+          4.347883457788142
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.4642309186416806,
+        "local_sd": 2.45523333785792,
         "used_ids": [
           "iowa-senate-insideradvantage-2026-10-23",
           "iowa-senate-new-river-gsg-2026-10-21",
@@ -8132,20 +8291,25 @@
           "iowa-senate-quantus-insights-2026-09-30"
         ],
         "latest": "2026-10-23",
+        "prior": {
+          "mean": -4.710000000000001,
+          "sd": 7.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.5405952305772322,
-          "difference": -0.059404769422767734,
+          "probability": 0.5560053749889707,
+          "difference": -0.04399462501102924,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.45940476942276776,
-          "difference": 0.04940476942276778,
+          "probability": 0.44399462501102926,
+          "difference": 0.03399462501102929,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -8185,6 +8349,10 @@
         "source_note": ""
       },
       "state_code": "GA",
+      "prior": [
+        9.31,
+        7.0
+      ],
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -8252,6 +8420,7 @@
         "source_note": ""
       },
       "state_code": "CO",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -8317,6 +8486,7 @@
         "source_note": ""
       },
       "state_code": "AR",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -8384,6 +8554,7 @@
         "source_note": "Tommy Tuberville announced his run for governor of Alabama on Tuesday, May 27, 2025"
       },
       "state_code": "AL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -8446,6 +8617,7 @@
         "source_note": ""
       },
       "state_code": "TX",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -8508,6 +8680,7 @@
         "source_note": ""
       },
       "state_code": "TX",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -8576,6 +8749,7 @@
         "source_note": ""
       },
       "state_code": "TX",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.4,
@@ -8643,6 +8817,7 @@
         "source_note": ""
       },
       "state_code": "SC",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -8705,6 +8880,7 @@
         "source_note": ""
       },
       "state_code": "PA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -8766,6 +8942,7 @@
         "source_note": ""
       },
       "state_code": "PA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -8828,6 +9005,7 @@
         "source_note": ""
       },
       "state_code": "PA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -8890,6 +9068,7 @@
         "source_note": ""
       },
       "state_code": "PA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.25,
@@ -8952,6 +9131,7 @@
         "source_note": ""
       },
       "state_code": "NY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -9014,6 +9194,7 @@
         "source_note": ""
       },
       "state_code": "NY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -9075,6 +9256,7 @@
         "source_note": ""
       },
       "state_code": "NJ",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -9142,6 +9324,7 @@
         "source_note": "Not seeking reelection in 2026"
       },
       "state_code": "NE",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -9204,6 +9387,7 @@
         "source_note": ""
       },
       "state_code": "MT",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -9266,6 +9450,7 @@
         "source_note": ""
       },
       "state_code": "ME",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -9328,6 +9513,7 @@
         "source_note": ""
       },
       "state_code": "KY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -9396,6 +9582,7 @@
         "source_note": ""
       },
       "state_code": "IA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -9464,6 +9651,7 @@
         "source_note": ""
       },
       "state_code": "IA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.4,
@@ -9526,6 +9714,7 @@
         "source_note": ""
       },
       "state_code": "IA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -9587,6 +9776,7 @@
         "source_note": ""
       },
       "state_code": "CO",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -9648,6 +9838,7 @@
         "source_note": ""
       },
       "state_code": "CO",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -9709,6 +9900,7 @@
         "source_note": ""
       },
       "state_code": "CO",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.09999999999999998,
@@ -9770,6 +9962,7 @@
         "source_note": ""
       },
       "state_code": "CA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.6,
@@ -9832,6 +10025,7 @@
         "source_note": ""
       },
       "state_code": "CA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.4,
@@ -9894,6 +10088,7 @@
         "source_note": ""
       },
       "state_code": "AZ",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -9956,6 +10151,7 @@
         "source_note": ""
       },
       "state_code": "AZ",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.5,
@@ -10023,6 +10219,10 @@
         "source_note": ""
       },
       "state_code": "TX",
+      "prior": [
+        -8.18,
+        10.0
+      ],
       "observations": [
         {
           "id": "emerson-texas-governor",
@@ -10242,16 +10442,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.22554905339065562,
-        "mean_margin": -2.8427672841642124,
-        "sd": 3.7723217724681435,
+        "dem_probability": 0.21851298050324697,
+        "mean_margin": -2.930914801363014,
+        "sd": 3.770998524650359,
         "interval80": [
-          -7.677192159126657,
-          1.9916575907982326
+          -7.763643866012371,
+          1.9018142632863433
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.3938278039652716,
+        "local_sd": 2.3917420163795224,
         "used_ids": [
           "emerson-texas-governor",
           "texas-governor-verasight-2026-10-23",
@@ -10273,20 +10473,25 @@
           "texas-governor-fox-news-2026-10-01"
         ],
         "latest": "2026-10-23",
+        "prior": {
+          "mean": -8.18,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.7744509466093443,
-          "difference": -0.01554905339065571,
+          "probability": 0.781487019496753,
+          "difference": -0.008512980503247003,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.22554905339065562,
-          "difference": 0.005549053390655617,
+          "probability": 0.21851298050324697,
+          "difference": -0.0014870194967530337,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -10326,6 +10531,7 @@
         "source_note": ""
       },
       "state_code": "SC",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -10393,6 +10599,7 @@
         "source_note": ""
       },
       "state_code": "PA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -10460,6 +10667,7 @@
         "source_note": ""
       },
       "state_code": "OR",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.75,
@@ -10527,6 +10735,7 @@
         "source_note": ""
       },
       "state_code": "NY",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -10592,6 +10801,10 @@
         "source_note": ""
       },
       "state_code": "NV",
+      "prior": [
+        2.4000000000000004,
+        10.0
+      ],
       "observations": [
         {
           "id": "emerson-nevada-governor",
@@ -10619,35 +10832,40 @@
         }
       ],
       "model": {
-        "dem_probability": 0.4447352060339451,
-        "mean_margin": -0.8068324278754441,
-        "sd": 5.805620848811062,
+        "dem_probability": 0.4804534343583963,
+        "mean_margin": -0.27530307882353056,
+        "sd": 5.616642720067667,
         "interval80": [
-          -8.24703491827151,
-          6.633370062520622
+          -7.47332035238875,
+          6.922714194741689
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 5.020481395259789,
+        "local_sd": 4.800695308482837,
         "used_ids": [
           "emerson-nevada-governor",
           "nevada-governor-noble-predictive-insights-2026-10-06"
         ],
         "latest": "2026-10-06",
+        "prior": {
+          "mean": 2.4000000000000004,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.5552647939660549,
-          "difference": 0.015264793966054846,
+          "probability": 0.5195465656416036,
+          "difference": -0.020453434358396416,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         },
         "Democratic": {
-          "probability": 0.4447352060339451,
-          "difference": -0.015264793966054901,
+          "probability": 0.4804534343583963,
+          "difference": 0.020453434358396305,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         }
@@ -10685,6 +10903,7 @@
         "source_note": ""
       },
       "state_code": "NM",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.9,
@@ -10750,6 +10969,7 @@
         "source_note": ""
       },
       "state_code": "NE",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -10817,6 +11037,10 @@
         "source_note": ""
       },
       "state_code": "ME",
+      "prior": [
+        15.440000000000001,
+        10.0
+      ],
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -10884,6 +11108,7 @@
         "source_note": ""
       },
       "state_code": "MD",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -10951,6 +11176,7 @@
         "source_note": ""
       },
       "state_code": "IL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -11018,6 +11244,7 @@
         "source_note": ""
       },
       "state_code": "ID",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -11083,6 +11310,10 @@
         "source_note": ""
       },
       "state_code": "IA",
+      "prior": [
+        -4.710000000000001,
+        10.0
+      ],
       "observations": [
         {
           "id": "emerson-iowa-governor",
@@ -11218,16 +11449,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9657424220893213,
-        "mean_margin": 7.062168385319008,
-        "sd": 3.876896391714825,
+        "dem_probability": 0.9621241107836629,
+        "mean_margin": 6.87913474748972,
+        "sd": 3.8736362471128323,
         "interval80": [
-          2.0937257432971244,
-          12.03061102734089
+          1.914870148887907,
+          11.843399346091534
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.5554501818840896,
+        "local_sd": 2.5505014751900044,
         "used_ids": [
           "emerson-iowa-governor",
           "iowa-governor-new-river-gsg-2026-10-21",
@@ -11242,20 +11473,25 @@
           "iowa-governor-fox-news-2026-10-01"
         ],
         "latest": "2026-10-21",
+        "prior": {
+          "mean": -4.710000000000001,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.03425757791067874,
-          "difference": -0.12574242208932127,
+          "probability": 0.03787588921633711,
+          "difference": -0.12212411078366289,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.9657424220893213,
-          "difference": 0.1257424220893213,
+          "probability": 0.9621241107836629,
+          "difference": 0.12212411078366292,
           "tradable": true,
           "reason": null
         }
@@ -11295,6 +11531,10 @@
         "source_note": ""
       },
       "state_code": "GA",
+      "prior": [
+        6.3100000000000005,
+        10.0
+      ],
       "observations": [
         {
           "id": "georgia-governor-activote-2026-10-20",
@@ -11346,16 +11586,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.35954524236197516,
-        "mean_margin": -1.5251819135748066,
-        "sd": 4.240449256814171,
+        "dem_probability": 0.39084946697488265,
+        "mean_margin": -1.1704587945337448,
+        "sd": 4.223871009335142,
         "interval80": [
-          -6.959536299188544,
-          3.9091724720389305
+          -6.5835673011291975,
+          4.242649712061708
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.0791898122096755,
+        "local_sd": 3.0563190775018683,
         "used_ids": [
           "georgia-governor-activote-2026-10-20",
           "georgia-governor-university-of-georgia-2026-10-20",
@@ -11363,20 +11603,25 @@
           "georgia-governor-insideradvantage-2026-10-14"
         ],
         "latest": "2026-10-20",
+        "prior": {
+          "mean": 6.3100000000000005,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.6404547576380248,
-          "difference": 0.12045475763802482,
+          "probability": 0.6091505330251173,
+          "difference": 0.08915053302511733,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.35954524236197516,
-          "difference": -0.14045475763802484,
+          "probability": 0.39084946697488265,
+          "difference": -0.10915053302511735,
           "tradable": true,
           "reason": null
         }
@@ -11416,6 +11661,7 @@
         "source_note": ""
       },
       "state_code": "CO",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -11483,6 +11729,7 @@
         "source_note": ""
       },
       "state_code": "CA",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.99,
@@ -11550,6 +11797,10 @@
         "source_note": ""
       },
       "state_code": "AZ",
+      "prior": [
+        5.97,
+        10.0
+      ],
       "observations": [
         {
           "id": "arizona-governor-wick-2026-10-13",
@@ -11589,38 +11840,43 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9592920968940516,
-        "mean_margin": 7.9471348177240655,
-        "sd": 4.560688407028126,
+        "dem_probability": 0.9626842274079771,
+        "mean_margin": 8.065021590139041,
+        "sd": 4.5239924949593595,
         "interval80": [
-          2.1023774476591255,
-          13.791892187789006
+          2.2672919236516265,
+          13.862751256626456
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.5071182965507086,
+        "local_sd": 3.4592640972392688,
         "used_ids": [
           "arizona-governor-wick-2026-10-13",
           "arizona-governor-highground-inc-2026-10-13",
           "arizona-governor-grayhouse-2026-10-10"
         ],
         "latest": "2026-10-13",
+        "prior": {
+          "mean": 5.97,
+          "sd": 10.0,
+          "type": "partisan lean"
+        },
         "status": "Provisional polling model",
         "assumption": "D/R winner approximation; other-party wins not modeled"
       },
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.040707903105948406,
-          "difference": -0.0892920968940516,
+          "probability": 0.0373157725920229,
+          "difference": -0.0926842274079771,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.9592920968940516,
-          "difference": 0.07929209689405159,
-          "tradable": false,
-          "reason": "Below 8% minimum edge"
+          "probability": 0.9626842274079771,
+          "difference": 0.0826842274079771,
+          "tradable": true,
+          "reason": null
         }
       }
     },
@@ -11658,6 +11914,7 @@
         "source_note": ""
       },
       "state_code": "AR",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -11725,6 +11982,7 @@
         "source_note": ""
       },
       "state_code": "AL",
+      "prior": null,
       "observations": [],
       "model": {
         "dem_probability": 0.010000000000000009,
@@ -11777,6 +12035,7 @@
       "flags": [
         "Listed party YES prices do not sum to 100%; these are separate contracts, not an executable arbitrage."
       ],
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",
@@ -11801,6 +12060,7 @@
       "flags": [
         "Listed party YES prices do not sum to 100%; these are separate contracts, not an executable arbitrage."
       ],
+      "prior": null,
       "observations": [],
       "model": null,
       "status": "Market snapshot only",

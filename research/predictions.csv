@@ -8,12 +8,12 @@ rhode-island-governor,Rhode Island Governor,Democratic,0.94,,,Market snapshot on
 rhode-island-governor,Rhode Island Governor,Independent,0.07,,,Market snapshot only,2026-10-23,0.2.0-research
 oklahoma-senate,Oklahoma Senate,Democratic,0.06,0.010000000000000009,-0.04999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 oklahoma-senate,Oklahoma Senate,Republican,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
-new-hampshire-senate,New Hampshire Senate,Republican,0.14,0.04635704319540879,-0.09364295680459123,Provisional polling model,2026-10-23,0.2.0-research
-new-hampshire-senate,New Hampshire Senate,Democratic,0.87,0.9536429568045912,0.08364295680459122,Provisional polling model,2026-10-23,0.2.0-research
+new-hampshire-senate,New Hampshire Senate,Republican,0.14,0.03373552164756499,-0.10626447835243502,Provisional polling model,2026-10-23,0.2.0-research
+new-hampshire-senate,New Hampshire Senate,Democratic,0.87,0.966264478352435,0.09626447835243501,Provisional polling model,2026-10-23,0.2.0-research
 massachusetts-senate,Massachusetts Senate,Republican,0.05,0.010000000000000009,-0.039999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 massachusetts-senate,Massachusetts Senate,Democratic,0.95,0.99,0.040000000000000036,Rating-derived baseline,2026-10-23,0.2.0-research
-alaska-senate,Alaska Senate,Republican,0.31,0.22306120469293367,-0.08693879530706633,Provisional polling model,2026-10-23,0.2.0-research
-alaska-senate,Alaska Senate,Democratic,0.7,0.7769387953070663,0.07693879530706638,Provisional polling model,2026-10-23,0.2.0-research
+alaska-senate,Alaska Senate,Republican,0.31,0.29064175269662806,-0.019358247303371934,Provisional polling model,2026-10-23,0.2.0-research
+alaska-senate,Alaska Senate,Democratic,0.7,0.7093582473033719,0.00935824730337198,Provisional polling model,2026-10-23,0.2.0-research
 nh-01-house-race,NH-01 House race,Republican,0.06,0.25,0.19,Rating-derived baseline,2026-10-23,0.2.0-research
 nh-01-house-race,NH-01 House race,Democratic,0.93,0.75,-0.18000000000000005,Rating-derived baseline,2026-10-23,0.2.0-research
 oklahoma-governor,Oklahoma Governor,Republican,0.92,0.99,0.06999999999999995,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -32,10 +32,10 @@ tennessee-senate,Tennessee Senate,Republican,0.94,0.99,0.050000000000000044,Rati
 tennessee-senate,Tennessee Senate,Democratic,0.06,0.010000000000000009,-0.04999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 minnesota-senate,Minnesota Senate,Republican,0.11,0.09999999999999998,-0.010000000000000023,Rating-derived baseline,2026-10-23,0.2.0-research
 minnesota-senate,Minnesota Senate,Democratic,0.9,0.9,0.0,Rating-derived baseline,2026-10-23,0.2.0-research
-michigan-senate,Michigan Senate,Republican,0.27,0.28154442711175665,0.011544427111756628,Provisional polling model,2026-10-23,0.2.0-research
-michigan-senate,Michigan Senate,Democratic,0.73,0.7184555728882434,-0.011544427111756628,Provisional polling model,2026-10-23,0.2.0-research
-kansas-senate,Kansas Senate,Republican,0.71,0.38813665639355033,-0.32186334360644964,Provisional polling model,2026-10-23,0.2.0-research
-kansas-senate,Kansas Senate,Democratic,0.3,0.6118633436064497,0.3118633436064497,Provisional polling model,2026-10-23,0.2.0-research
+michigan-senate,Michigan Senate,Republican,0.27,0.26087297523782194,-0.009127024762178082,Provisional polling model,2026-10-23,0.2.0-research
+michigan-senate,Michigan Senate,Democratic,0.73,0.7391270247621781,0.009127024762178082,Provisional polling model,2026-10-23,0.2.0-research
+kansas-senate,Kansas Senate,Republican,0.71,0.4932211732606444,-0.21677882673935556,Provisional polling model,2026-10-23,0.2.0-research
+kansas-senate,Kansas Senate,Democratic,0.3,0.5067788267393556,0.2067788267393556,Provisional polling model,2026-10-23,0.2.0-research
 florida-senate,Florida Senate,Republican,0.91,0.99,0.07999999999999996,Rating-derived baseline,2026-10-23,0.2.0-research
 florida-senate,Florida Senate,Democratic,0.11,0.010000000000000009,-0.09999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 wi-03-house-race,WI-03 House race,Republican,0.28,0.5,0.21999999999999997,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -80,8 +80,8 @@ al-02-house-race,AL-02 House race,Republican,0.76,0.9,0.14,Rating-derived baseli
 al-02-house-race,AL-02 House race,Democratic,0.25,0.09999999999999998,-0.15000000000000002,Rating-derived baseline,2026-10-23,0.2.0-research
 wyoming-governor,Wyoming Governor,Republican,0.93,0.99,0.05999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 wyoming-governor,Wyoming Governor,Democratic,0.08,0.010000000000000009,-0.06999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
-wisconsin-governor,Wisconsin Governor,Republican,0.17,0.23730212334527756,0.06730212334527755,Provisional polling model,2026-10-23,0.2.0-research
-wisconsin-governor,Wisconsin Governor,Democratic,0.83,0.7626978766547224,-0.06730212334527752,Provisional polling model,2026-10-23,0.2.0-research
+wisconsin-governor,Wisconsin Governor,Republican,0.17,0.1880046893090923,0.018004689309092298,Provisional polling model,2026-10-23,0.2.0-research
+wisconsin-governor,Wisconsin Governor,Democratic,0.83,0.8119953106909077,-0.01800468930909227,Provisional polling model,2026-10-23,0.2.0-research
 vermont-governor,Vermont Governor,Republican,0.86,,,Market snapshot only,2026-10-23,0.2.0-research
 vermont-governor,Vermont Governor,Democratic,0.14,,,Market snapshot only,2026-10-23,0.2.0-research
 tennessee-governor,Tennessee Governor,Republican,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -90,20 +90,20 @@ south-dakota-governor,South Dakota Governor,Republican,0.94,0.99,0.0500000000000
 south-dakota-governor,South Dakota Governor,Democratic,0.07,0.010000000000000009,-0.06,Rating-derived baseline,2026-10-23,0.2.0-research
 minnesota-governor,Minnesota Governor,Republican,0.06,0.09999999999999998,0.03999999999999998,Rating-derived baseline,2026-10-23,0.2.0-research
 minnesota-governor,Minnesota Governor,Democratic,0.95,0.9,-0.04999999999999993,Rating-derived baseline,2026-10-23,0.2.0-research
-michigan-governor,Michigan Governor,Republican,0.08,0.08189903852365688,0.0018990385236568735,Provisional polling model,2026-10-23,0.2.0-research
-michigan-governor,Michigan Governor,Democratic,0.93,0.9181009614763431,-0.011899038523656924,Provisional polling model,2026-10-23,0.2.0-research
-kansas-governor,Kansas Governor,Republican,0.74,0.8011068940797208,0.06110689407972081,Provisional polling model,2026-10-23,0.2.0-research
-kansas-governor,Kansas Governor,Democratic,0.28,0.1988931059202792,-0.08110689407972083,Provisional polling model,2026-10-23,0.2.0-research
+michigan-governor,Michigan Governor,Republican,0.08,0.07647034385394735,-0.003529656146052648,Provisional polling model,2026-10-23,0.2.0-research
+michigan-governor,Michigan Governor,Democratic,0.93,0.9235296561460526,-0.006470343853947402,Provisional polling model,2026-10-23,0.2.0-research
+kansas-governor,Kansas Governor,Republican,0.74,0.8293251378994986,0.08932513789949859,Provisional polling model,2026-10-23,0.2.0-research
+kansas-governor,Kansas Governor,Democratic,0.28,0.17067486210050137,-0.10932513789949866,Provisional polling model,2026-10-23,0.2.0-research
 hawaii-governor,Hawaii Governor,Republican,0.07,0.010000000000000009,-0.06,Rating-derived baseline,2026-10-23,0.2.0-research
 hawaii-governor,Hawaii Governor,Democratic,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
-florida-governor,Florida Governor,Republican,0.78,0.858447891222633,0.07844789122263296,Provisional polling model,2026-10-23,0.2.0-research
-florida-governor,Florida Governor,Democratic,0.23,0.14155210877736701,-0.088447891222633,Provisional polling model,2026-10-23,0.2.0-research
+florida-governor,Florida Governor,Republican,0.78,0.8609776901631694,0.08097769016316936,Provisional polling model,2026-10-23,0.2.0-research
+florida-governor,Florida Governor,Democratic,0.23,0.13902230983683067,-0.09097769016316934,Provisional polling model,2026-10-23,0.2.0-research
 connecticut-governor,Connecticut Governor,Democratic,0.93,0.99,0.05999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 connecticut-governor,Connecticut Governor,Republican,0.08,0.010000000000000009,-0.06999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 west-virginia-senate,West Virginia Senate,Republican,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
 west-virginia-senate,West Virginia Senate,Democratic,0.07,0.010000000000000009,-0.06,Rating-derived baseline,2026-10-23,0.2.0-research
-texas-senate,Texas Senate,Republican,0.41,0.27735455364637773,-0.13264544635362224,Provisional polling model,2026-10-23,0.2.0-research
-texas-senate,Texas Senate,Democratic,0.6,0.7226454463536223,0.12264544635362229,Provisional polling model,2026-10-23,0.2.0-research
+texas-senate,Texas Senate,Republican,0.41,0.291429935557149,-0.11857006444285095,Provisional polling model,2026-10-23,0.2.0-research
+texas-senate,Texas Senate,Democratic,0.6,0.708570064442851,0.108570064442851,Provisional polling model,2026-10-23,0.2.0-research
 south-dakota-senate,South Dakota Senate,Republican,0.92,0.99,0.06999999999999995,Rating-derived baseline,2026-10-23,0.2.0-research
 south-dakota-senate,South Dakota Senate,Democratic,0.05,0.010000000000000009,-0.039999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 south-carolina-senate,South Carolina Senate,Republican,0.88,0.9,0.020000000000000018,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -124,8 +124,8 @@ montana-senate,Montana Senate,Republican,0.91,,,Market snapshot only,2026-10-23,
 montana-senate,Montana Senate,Democratic,0.06,,,Market snapshot only,2026-10-23,0.2.0-research
 mississippi-senate,Mississippi Senate,Republican,0.9,0.99,0.08999999999999997,Rating-derived baseline,2026-10-23,0.2.0-research
 mississippi-senate,Mississippi Senate,Democratic,0.1,0.010000000000000009,-0.09,Rating-derived baseline,2026-10-23,0.2.0-research
-maine-senate,Maine Senate,Republican,0.41,0.3931316229566897,-0.01686837704331029,Provisional polling model,2026-10-23,0.2.0-research
-maine-senate,Maine Senate,Democratic,0.6,0.6068683770433103,0.006868377043310336,Provisional polling model,2026-10-23,0.2.0-research
+maine-senate,Maine Senate,Republican,0.41,0.36745902912731454,-0.042540970872685435,Provisional polling model,2026-10-23,0.2.0-research
+maine-senate,Maine Senate,Democratic,0.6,0.6325409708726855,0.03254097087268548,Provisional polling model,2026-10-23,0.2.0-research
 louisiana-senate,Louisiana Senate,Republican,0.92,0.99,0.06999999999999995,Rating-derived baseline,2026-10-23,0.2.0-research
 louisiana-senate,Louisiana Senate,Democratic,0.09,0.010000000000000009,-0.07999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 kentucky-senate,Kentucky Senate,Republican,0.96,0.99,0.030000000000000027,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -134,8 +134,8 @@ illinois-senate,Illinois Senate,Republican,0.06,0.010000000000000009,-0.04999999
 illinois-senate,Illinois Senate,Democratic,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
 idaho-senate,Idaho Senate,Republican,0.92,0.99,0.06999999999999995,Rating-derived baseline,2026-10-23,0.2.0-research
 idaho-senate,Idaho Senate,Democratic,0.05,0.010000000000000009,-0.039999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
-iowa-senate,Iowa Senate,Republican,0.6,0.5405952305772322,-0.059404769422767734,Provisional polling model,2026-10-23,0.2.0-research
-iowa-senate,Iowa Senate,Democratic,0.41,0.45940476942276776,0.04940476942276778,Provisional polling model,2026-10-23,0.2.0-research
+iowa-senate,Iowa Senate,Republican,0.6,0.5560053749889707,-0.04399462501102924,Provisional polling model,2026-10-23,0.2.0-research
+iowa-senate,Iowa Senate,Democratic,0.41,0.44399462501102926,0.03399462501102929,Provisional polling model,2026-10-23,0.2.0-research
 georgia-senate,Georgia Senate,Republican,0.05,0.4,0.35000000000000003,Rating-derived baseline,2026-10-23,0.2.0-research
 georgia-senate,Georgia Senate,Democratic,0.96,0.6,-0.36,Rating-derived baseline,2026-10-23,0.2.0-research
 colorado-senate,Colorado Senate,Republican,0.06,0.010000000000000009,-0.04999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -194,8 +194,8 @@ az-06-house-race,AZ-06 House race,Republican,0.16,0.5,0.33999999999999997,Rating
 az-06-house-race,AZ-06 House race,Democratic,0.83,0.5,-0.32999999999999996,Rating-derived baseline,2026-10-23,0.2.0-research
 az-01-house-race,AZ-01 House race,Republican,0.22,0.5,0.28,Rating-derived baseline,2026-10-23,0.2.0-research
 az-01-house-race,AZ-01 House race,Democratic,0.77,0.5,-0.27,Rating-derived baseline,2026-10-23,0.2.0-research
-texas-governor,Texas Governor,Republican,0.79,0.7744509466093443,-0.01554905339065571,Provisional polling model,2026-10-23,0.2.0-research
-texas-governor,Texas Governor,Democratic,0.22,0.22554905339065562,0.005549053390655617,Provisional polling model,2026-10-23,0.2.0-research
+texas-governor,Texas Governor,Republican,0.79,0.781487019496753,-0.008512980503247003,Provisional polling model,2026-10-23,0.2.0-research
+texas-governor,Texas Governor,Democratic,0.22,0.21851298050324697,-0.0014870194967530337,Provisional polling model,2026-10-23,0.2.0-research
 south-carolina-governor,South Carolina Governor,Republican,0.95,0.99,0.040000000000000036,Rating-derived baseline,2026-10-23,0.2.0-research
 south-carolina-governor,South Carolina Governor,Democratic,0.06,0.010000000000000009,-0.04999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 pennsylvania-governor,Pennsylvania Governor,Republican,0.07,0.010000000000000009,-0.06,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -204,8 +204,8 @@ oregon-governor,Oregon Governor,Republican,0.19,0.25,0.06,Rating-derived baselin
 oregon-governor,Oregon Governor,Democratic,0.82,0.75,-0.06999999999999995,Rating-derived baseline,2026-10-23,0.2.0-research
 new-york-governor,New York Governor,Republican,0.06,0.09999999999999998,0.03999999999999998,Rating-derived baseline,2026-10-23,0.2.0-research
 new-york-governor,New York Governor,Democratic,0.95,0.9,-0.04999999999999993,Rating-derived baseline,2026-10-23,0.2.0-research
-nevada-governor,Nevada Governor,Republican,0.54,0.5552647939660549,0.015264793966054846,Provisional polling model,2026-10-23,0.2.0-research
-nevada-governor,Nevada Governor,Democratic,0.46,0.4447352060339451,-0.015264793966054901,Provisional polling model,2026-10-23,0.2.0-research
+nevada-governor,Nevada Governor,Republican,0.54,0.5195465656416036,-0.020453434358396416,Provisional polling model,2026-10-23,0.2.0-research
+nevada-governor,Nevada Governor,Democratic,0.46,0.4804534343583963,0.020453434358396305,Provisional polling model,2026-10-23,0.2.0-research
 new-mexico-governor,New Mexico Governor,Republican,0.07,0.09999999999999998,0.02999999999999997,Rating-derived baseline,2026-10-23,0.2.0-research
 new-mexico-governor,New Mexico Governor,Democratic,0.93,0.9,-0.030000000000000027,Rating-derived baseline,2026-10-23,0.2.0-research
 nebraska-governor,Nebraska Governor,Republican,0.9,0.99,0.08999999999999997,Rating-derived baseline,2026-10-23,0.2.0-research
@@ -218,16 +218,16 @@ illinois-governor,Illinois Governor,Republican,0.08,0.010000000000000009,-0.0699
 illinois-governor,Illinois Governor,Democratic,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
 idaho-governor,Idaho Governor,Republican,0.94,0.99,0.050000000000000044,Rating-derived baseline,2026-10-23,0.2.0-research
 idaho-governor,Idaho Governor,Democratic,0.07,0.010000000000000009,-0.06,Rating-derived baseline,2026-10-23,0.2.0-research
-iowa-governor,Iowa Governor,Republican,0.16,0.03425757791067874,-0.12574242208932127,Provisional polling model,2026-10-23,0.2.0-research
-iowa-governor,Iowa Governor,Democratic,0.84,0.9657424220893213,0.1257424220893213,Provisional polling model,2026-10-23,0.2.0-research
-georgia-governor,Georgia Governor,Republican,0.52,0.6404547576380248,0.12045475763802482,Provisional polling model,2026-10-23,0.2.0-research
-georgia-governor,Georgia Governor,Democratic,0.5,0.35954524236197516,-0.14045475763802484,Provisional polling model,2026-10-23,0.2.0-research
+iowa-governor,Iowa Governor,Republican,0.16,0.03787588921633711,-0.12212411078366289,Provisional polling model,2026-10-23,0.2.0-research
+iowa-governor,Iowa Governor,Democratic,0.84,0.9621241107836629,0.12212411078366292,Provisional polling model,2026-10-23,0.2.0-research
+georgia-governor,Georgia Governor,Republican,0.52,0.6091505330251173,0.08915053302511733,Provisional polling model,2026-10-23,0.2.0-research
+georgia-governor,Georgia Governor,Democratic,0.5,0.39084946697488265,-0.10915053302511735,Provisional polling model,2026-10-23,0.2.0-research
 colorado-governor,Colorado Governor,Republican,0.08,0.010000000000000009,-0.06999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 colorado-governor,Colorado Governor,Democratic,0.93,0.99,0.05999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 california-governor,California Governor,Republican,0.08,0.010000000000000009,-0.06999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 california-governor,California Governor,Democratic,0.93,0.99,0.05999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
-arizona-governor,Arizona Governor,Republican,0.13,0.040707903105948406,-0.0892920968940516,Provisional polling model,2026-10-23,0.2.0-research
-arizona-governor,Arizona Governor,Democratic,0.88,0.9592920968940516,0.07929209689405159,Provisional polling model,2026-10-23,0.2.0-research
+arizona-governor,Arizona Governor,Republican,0.13,0.0373157725920229,-0.0926842274079771,Provisional polling model,2026-10-23,0.2.0-research
+arizona-governor,Arizona Governor,Democratic,0.88,0.9626842274079771,0.0826842274079771,Provisional polling model,2026-10-23,0.2.0-research
 arkansas-governor,Arkansas Governor,Republican,0.93,0.99,0.05999999999999994,Rating-derived baseline,2026-10-23,0.2.0-research
 arkansas-governor,Arkansas Governor,Democratic,0.08,0.010000000000000009,-0.06999999999999999,Rating-derived baseline,2026-10-23,0.2.0-research
 alabama-governor,Alabama Governor,Republican,0.9,0.99,0.08999999999999997,Rating-derived baseline,2026-10-23,0.2.0-research

@@ -67,6 +67,13 @@ class ModelTests(unittest.TestCase):
             for edge in race['edges'].values():
                 if race['model']['status']=='Rating-derived baseline':self.assertFalse(edge['tradable'])
                 if edge['tradable']:self.assertGreaterEqual(abs(edge['difference']),.08)
+    def test_partisan_prior_pulls_sparse_races(self):
+        races={r['id']:r for r in build()['races']}
+        self.assertEqual(races['kansas-senate']['model']['prior']['type'],'partisan lean')
+        self.assertLess(races['kansas-senate']['model']['prior']['mean'],-5)
+        obs=[p for p in self.seed['observations'] if p['race_id']=='texas-senate']
+        weak,strong=estimate(obs,'2026-09-29'),estimate(obs,'2026-09-29',prior=(-10,3))
+        self.assertLess(strong['mean_margin'],weak['mean_margin'])
     def test_database_universe(self):
         rows=json.loads(Path('data/universe.json').read_text())
         self.assertEqual(sum(r['office']=='house' for r in rows),435)

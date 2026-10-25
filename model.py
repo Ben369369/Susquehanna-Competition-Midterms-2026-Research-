@@ -48,8 +48,21 @@ def parse_challenge(text):
             race['flags'].append('Verify 2026 district boundaries before using historical returns.')
     return list(races.values())
 
-def estimate(observations, as_of, shift=0, error_scale=1):
-    """Weak N(0,15²) prior; average OR raw polls, never overlapping both."""
+def fundamentals_prior(race, fundamentals):
+    """(mean, sd) partisan-lean prior for a statewide race, or None when no lean is recorded."""
+    lean = fundamentals['states'].get(race['location'])
+    sd = fundamentals['prior_sd'].get(race['office'])
+    if lean is None or sd is None:return None
+    mean=lean+fundamentals['environment']-fundamentals['national_2024']
+    rating=race.get('rating') or {}
+    parties={i['party'] for i in rating.get('incumbents',[])}
+    if rating and not rating.get('open_seat') and len(parties)==1:
+        bonus=fundamentals['incumbency_overrides'].get(race['title'],fundamentals['incumbency_bonus'])
+        mean+=bonus if parties=={'D'} else -bonus
+    return mean, sd
+
+def estimate(observations, as_of, shift=0, error_scale=1, prior=None):
+    """Prior (mean, sd), default weak N(0,15²); average OR raw polls, never overlapping both."""
     today = date.fromisoformat(as_of)
     eligible = [p for p in observations if date.fromisoformat(p['published']) <= today and date.fromisoformat(p['end']) <= today]
     if not eligible:
@@ -67,7 +80,8 @@ def estimate(observations, as_of, shift=0, error_scale=1):
         variance = p.get('se', 100/math.sqrt(p.get('n', 600)))**2
         precision = math.exp(-math.log(2)*age/21) / (variance + 2.0**2)
         groups[p['pollster']].append((p['margin'], precision))
-    precision, numerator = 1/225, 0
+    prior_mean, prior_sd = prior or (0, 15)
+    precision, numerator = 1/prior_sd**2, prior_mean/prior_sd**2
     for group in groups.values():
         total = sum(w for _,w in group)
         effective = max(w for _,w in group)
@@ -82,6 +96,7 @@ def estimate(observations, as_of, shift=0, error_scale=1):
             'interval80':[mu-1.281551566*sd,mu+1.281551566*sd],
             'national_sd':national_sd,'state_sd':state_sd,'local_sd':math.sqrt(local_variance),
             'used_ids':[p['id'] for p in selected], 'latest':max(p['end'] for p in selected),
+            'prior':{'mean':prior_mean,'sd':prior_sd,'type':'partisan lean' if prior else 'neutral'},
             'status':'Provisional polling model', 'assumption':'D/R winner approximation; other-party wins not modeled'}
 
 MIN_EDGE, MIN_POLLSTERS = .08, 3
@@ -99,7 +114,7 @@ def forecast(races, observations, as_of, shift=0, error_scale=1):
         row = dict(race)
         obs = [p for p in observations if p['race_id']==race['id']]
         row['observations'] = obs
-        row['model'] = None if 'Independent' in race['quotes'] or race['office']=='Control' else estimate(obs,as_of,shift,error_scale)
+        row['model'] = None if 'Independent' in race['quotes'] or race['office']=='Control' else estimate(obs,as_of,shift,error_scale,race.get('prior'))
         if not row['model'] and 'Independent' not in race['quotes'] and race['office']!='Control' and not race.get('suppress_rating'):
             row['model']=rating_estimate(race.get('rating'),as_of,shift,error_scale)
         row['status'] = row['model']['status'] if row['model'] else 'Market snapshot only'

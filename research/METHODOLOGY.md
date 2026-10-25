@@ -8,7 +8,7 @@ Deduplicate repeated titles, not separate party contracts. Preserve YES and NO p
 
 ## Poll model
 
-Let m be D minus R vote margin in percentage points. Begin with m ~ Normal(0, 15²). This weak neutral prior is a placeholder, not a fitted fundamentals model.
+Let m be D minus R vote margin in percentage points. For polled Senate and governor races in `data/fundamentals.json`, begin with a partisan-lean prior: m ~ Normal(lean₂₀₂₄ + environment − national₂₀₂₄ ± incumbency, sd²), with environment D+7 (generic ballot, shaded down), a 3-point bonus toward a running incumbent's party (10 for Collins, documented), sd 7 for Senate and 10 for governor. Other races keep the weak neutral Normal(0, 15²). These are analyst-set assumptions, not a fitted fundamentals model; sparse polling now updates an informed baseline instead of a 50/50 one.
 
 For raw poll j use sampling variance 10000/n_j, a conservative near-even approximation for a margin. Add 2² points² as a poll-level error allowance. Weight its precision by 2^(-age/21). Within each pollster, average margins by these weights but cap effective precision at that firm's strongest observation. This prevents repetitions from driving uncertainty toward zero. It is not a full house-effects or overlapping-sample model.
 

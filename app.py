@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
-from model import VERSION, forecast
+from model import VERSION, forecast, fundamentals_prior
 
 ROOT=Path(__file__).resolve().parent
 DB=ROOT/'data/research.sqlite3'
@@ -27,6 +27,8 @@ def build(shift=0, error_scale=1, as_of=None):
         seed['observations']+=extra['observations'];seed['sources']+=extra['sources']
         seed['as_of']=max([seed['as_of']]+[p['published'] for p in extra['observations']])
     as_of=as_of or seed['as_of']
+    fundamentals=json.loads((ROOT/'data/fundamentals.json').read_text(encoding='utf-8'))
+    for race in seed['races']:race['prior']=fundamentals_prior(race,fundamentals)
     races=forecast(seed['races'],seed['observations'],as_of,shift,error_scale)
     return {**seed,'as_of':as_of,'races':races,'version':VERSION,'scenario':{'shift':shift,'error_scale':error_scale},
             'coverage':{'races':len(races),'contracts':sum(len(r['quotes']) for r in races),
