@@ -25,10 +25,13 @@ def get(path,key):
         except urllib.error.HTTPError as exc:
             if exc.code==429 and attempt<3:
                 time.sleep(min(30,2**attempt*2));continue
-            try:code=json.load(exc).get('error',{}).get('code','')
-            except (ValueError,AttributeError):code=''
-            hint={401:'Key missing or not recognised: paste the real key from Super Market account settings, not a placeholder.',
-                  403:'Key lacks access to this tournament; check SIG_TOURNAMENT_ID or unset it to auto-detect.'}.get(exc.code,'Verify key access and tournament context.')
+            try:err=json.load(exc).get('error',{})
+            except (ValueError,AttributeError):err={}
+            code=err.get('code','')
+            hint={'INVALID_API_KEY':'Key not recognised: paste the real key from Super Market account settings, not a placeholder.',
+                  'API_KEY_EXPIRED':'Key has expired; create a new one.',
+                  'INSUFFICIENT_SCOPES':f"Key is missing scope(s) {(err.get('details') or {}).get('missing','?')}: use a key with the read scope as SIG_API_KEY."
+                  }.get(code,'Verify key access and tournament context.')
             raise RuntimeError(f'API returned HTTP {exc.code} {code}. {hint}') from None
     raise RuntimeError('Rate limit retry exhausted')
 
