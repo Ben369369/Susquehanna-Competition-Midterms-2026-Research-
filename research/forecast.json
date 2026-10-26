@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-25",
   "election_date": "2026-11-03",
   "market_captured_at": null,
   "market_imported_on": "2026-09-29",
@@ -1075,6 +1075,14 @@
       "type": "Imported primary poll",
       "published": "2026-10-01",
       "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-trafalgar-group-2026-10-25",
+      "title": "Trafalgar Group / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-25",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
     }
   ],
   "observations": [
@@ -2649,6 +2657,18 @@
       "kind": "poll",
       "source_id": "import-texas-governor-fox-news-2026-10-01",
       "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-trafalgar-group-2026-10-25",
+      "race_id": "maine-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-25",
+      "published": "2026-10-25",
+      "margin": 0.0,
+      "n": 1077,
+      "kind": "poll",
+      "source_id": "import-maine-senate-trafalgar-group-2026-10-25",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
     }
   ],
   "races": [
@@ -2988,16 +3008,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.966264478352435,
-        "mean_margin": 7.656761758852131,
-        "sd": 4.18740166661031,
+        "dem_probability": 0.9658430887099636,
+        "mean_margin": 7.680071539970677,
+        "sd": 4.213034392539213,
         "interval80": [
-          2.2903905955366772,
-          13.023132922167584
+          2.280850716600189,
+          13.079292363341164
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.005716672863695,
+        "local_sd": 3.0413251705002304,
         "used_ids": [
           "new-hampshire-senate-saint-anselm-college-2026-10-22",
           "new-hampshire-senate-national-public-affairs-2026-10-20",
@@ -3016,14 +3036,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.03373552164756499,
-          "difference": -0.10626447835243502,
+          "probability": 0.034156911290036396,
+          "difference": -0.10584308870996362,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.966264478352435,
-          "difference": 0.09626447835243501,
+          "probability": 0.9658430887099636,
+          "difference": 0.09584308870996361,
           "tradable": true,
           "reason": null
         }
@@ -3208,16 +3228,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7093582473033719,
-        "mean_margin": 2.291114067112312,
-        "sd": 4.1542499338588454,
+        "dem_probability": 0.7033181140926146,
+        "mean_margin": 2.2310608595884847,
+        "sd": 4.178268082227586,
         "interval80": [
-          -3.032771441179888,
-          7.6149995754045126
+          -3.123605144358095,
+          7.585726863535065
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.959356773517891,
+        "local_sd": 2.9929791457612582,
         "used_ids": [
           "alaska-senate-data-for-progress-2026-10-20",
           "alaska-senate-insideradvantage-2026-10-11",
@@ -3237,14 +3257,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.29064175269662806,
-          "difference": -0.019358247303371934,
+          "probability": 0.2966818859073854,
+          "difference": -0.013318114092614575,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.7093582473033719,
-          "difference": 0.00935824730337198,
+          "probability": 0.7033181140926146,
+          "difference": 0.0033181140926146213,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -4046,16 +4066,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.7391270247621781,
-        "mean_margin": 2.486350473242565,
-        "sd": 3.8809422526787367,
+        "dem_probability": 0.739793761951925,
+        "mean_margin": 2.500233946154546,
+        "sd": 3.8901449414759606,
         "interval80": [
-          -2.4872771482334377,
-          7.459978094718568
+          -2.4851873955609496,
+          7.485655287870042
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.561584035050794,
+        "local_sd": 2.575505322396171,
         "used_ids": [
           "michigan-senate-insideradvantage-2026-10-23",
           "michigan-senate-marist-poll-2026-10-21",
@@ -4080,14 +4100,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.26087297523782194,
-          "difference": -0.009127024762178082,
+          "probability": 0.26020623804807497,
+          "difference": -0.00979376195192505,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.7391270247621781,
-          "difference": 0.009127024762178082,
+          "probability": 0.739793761951925,
+          "difference": 0.00979376195192505,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -4194,16 +4214,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.5067788267393556,
-        "mean_margin": 0.0715015255915422,
-        "sd": 4.207750107131161,
+        "dem_probability": 0.5000196249477846,
+        "mean_margin": 0.0002082982887076196,
+        "sd": 4.234354923099891,
         "interval80": [
-          -5.320947213539065,
-          5.46395026472215
+          -5.426335884409768,
+          5.426752480987183
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.0340008180721196,
+        "local_sd": 3.070791691857377,
         "used_ids": [
           "emerson-kansas-senate",
           "kansas-senate-insideradvantage-2026-10-16",
@@ -4223,14 +4243,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.4932211732606444,
-          "difference": -0.21677882673935556,
+          "probability": 0.4999803750522154,
+          "difference": -0.2100196249477846,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.5067788267393556,
-          "difference": 0.2067788267393556,
+          "probability": 0.5000196249477846,
+          "difference": 0.20001962494778464,
           "tradable": true,
           "reason": null
         }
@@ -5717,16 +5737,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.8119953106909077,
-        "mean_margin": 4.643903360451178,
-        "sd": 5.245729926489258,
+        "dem_probability": 0.8102040158007909,
+        "mean_margin": 4.673525359726941,
+        "sd": 5.318994030773357,
         "interval80": [
-          -2.078770041654195,
-          11.366576762556551
+          -2.1430397699553074,
+          11.49009048940919
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 4.360926789303507,
+        "local_sd": 4.4487860703120585,
         "used_ids": [
           "wisconsin-governor-z-to-a-research-2026-10-09",
           "wisconsin-governor-marquette-law-school-2026-09-30"
@@ -5743,14 +5763,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.1880046893090923,
-          "difference": 0.018004689309092298,
+          "probability": 0.18979598419920907,
+          "difference": 0.019795984199209055,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         },
         "Democratic": {
-          "probability": 0.8119953106909077,
-          "difference": -0.01800468930909227,
+          "probability": 0.8102040158007909,
+          "difference": -0.019795984199209027,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         }
@@ -6114,16 +6134,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9235296561460526,
-        "mean_margin": 5.781082852981694,
-        "sd": 4.044918417829941,
+        "dem_probability": 0.9226474342219482,
+        "mean_margin": 5.7841570204936525,
+        "sd": 4.064456790563342,
         "interval80": [
-          0.5973113202694895,
-          10.964854385693897
+          0.5753460556078673,
+          10.992967985379437
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.8038125841253865,
+        "local_sd": 2.831926729694195,
         "used_ids": [
           "emerson-michigan-governor",
           "michigan-governor-marist-poll-2026-10-21",
@@ -6144,14 +6164,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.07647034385394735,
-          "difference": -0.003529656146052648,
+          "probability": 0.07735256577805183,
+          "difference": -0.0026474342219481722,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.9235296561460526,
-          "difference": -0.006470343853947402,
+          "probability": 0.9226474342219482,
+          "difference": -0.007352565778051878,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -6234,16 +6254,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.17067486210050137,
-        "mean_margin": -4.378452860428724,
-        "sd": 4.601623488876206,
+        "dem_probability": 0.17218639761746846,
+        "mean_margin": -4.39668776422667,
+        "sd": 4.649821696653747,
         "interval80": [
-          -10.275670648740409,
-          1.5187649278829616
+          -10.355674041194057,
+          1.5622985127407167
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.5601880193856656,
+        "local_sd": 3.622270256437519,
         "used_ids": [
           "emerson-kansas-governor",
           "kansas-governor-yougov-2026-10-06",
@@ -6261,14 +6281,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.8293251378994986,
-          "difference": 0.08932513789949859,
+          "probability": 0.8278136023825315,
+          "difference": 0.08781360238253155,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.17067486210050137,
-          "difference": -0.10932513789949866,
+          "probability": 0.17218639761746846,
+          "difference": -0.10781360238253157,
           "tradable": true,
           "reason": null
         }
@@ -6503,16 +6523,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.13902230983683067,
-        "mean_margin": -4.152504093653651,
-        "sd": 3.828172128236092,
+        "dem_probability": 0.13938807827683503,
+        "mean_margin": -4.153043932083831,
+        "sd": 3.8345015458393643,
         "interval80": [
-          -9.058504079512169,
-          0.7534958922048665
+          -9.06715539298369,
+          0.761067528816028
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.480907463692197,
+        "local_sd": 2.490662985039219,
         "used_ids": [
           "florida-governor-univ-of-north-florida-2026-10-21",
           "florida-governor-co-efficient-2026-10-21",
@@ -6537,14 +6557,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.8609776901631694,
-          "difference": 0.08097769016316936,
+          "probability": 0.8606119217231649,
+          "difference": 0.08061192172316489,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.13902230983683067,
-          "difference": -0.09097769016316934,
+          "probability": 0.13938807827683503,
+          "difference": -0.09061192172316498,
           "tradable": true,
           "reason": null
         }
@@ -6991,16 +7011,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.708570064442851,
-        "mean_margin": 2.0547749485617266,
-        "sd": 3.7413137521549227,
+        "dem_probability": 0.7075156196493084,
+        "mean_margin": 2.0435836997656267,
+        "sd": 3.7418584139188162,
         "interval80": [
-          -2.7399115494097503,
-          6.849461446533203
+          -2.751800810342309,
+          6.8389682098735625
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.3446595898047855,
+        "local_sd": 2.345528594968528,
         "used_ids": [
           "texas-senate-verasight-2026-10-23",
           "texas-senate-texas-public-opinion-research-2026-10-23",
@@ -7035,14 +7055,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.291429935557149,
-          "difference": -0.11857006444285095,
+          "probability": 0.2924843803506916,
+          "difference": -0.1175156196493084,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.708570064442851,
-          "difference": 0.108570064442851,
+          "probability": 0.7075156196493084,
+          "difference": 0.10751561964930845,
           "tradable": true,
           "reason": null
         }
@@ -7740,19 +7760,31 @@
           "kind": "poll",
           "source_id": "import-maine-senate-co-efficient-2026-09-30",
           "note": "D46/R48 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+        },
+        {
+          "id": "maine-senate-trafalgar-group-2026-10-25",
+          "race_id": "maine-senate",
+          "pollster": "Trafalgar Group",
+          "end": "2026-10-25",
+          "published": "2026-10-25",
+          "margin": 0.0,
+          "n": 1077,
+          "kind": "poll",
+          "source_id": "import-maine-senate-trafalgar-group-2026-10-25",
+          "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
         }
       ],
       "model": {
-        "dem_probability": 0.6325409708726855,
-        "mean_margin": 1.3409157103533786,
-        "sd": 3.9602846326173715,
+        "dem_probability": 0.6214506965785753,
+        "mean_margin": 1.2171644766818164,
+        "sd": 3.9353112614296872,
         "interval80": [
-          -3.734393262383149,
-          6.416224683089906
+          -3.826139833100835,
+          6.260468786464467
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.680271324203076,
+        "local_sd": 2.64323187108799,
         "used_ids": [
           "maine-senate-fox-news-2026-10-22",
           "maine-senate-insideradvantage-2026-10-16",
@@ -7760,9 +7792,10 @@
           "maine-senate-wash-post-schar-school-2026-10-09",
           "maine-senate-trafalgar-group-2026-10-03",
           "maine-senate-aarp-2026-10-01",
-          "maine-senate-co-efficient-2026-09-30"
+          "maine-senate-co-efficient-2026-09-30",
+          "maine-senate-trafalgar-group-2026-10-25"
         ],
-        "latest": "2026-10-22",
+        "latest": "2026-10-25",
         "prior": {
           "mean": 5.440000000000001,
           "sd": 7.0,
@@ -7774,14 +7807,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.36745902912731454,
-          "difference": -0.042540970872685435,
+          "probability": 0.3785493034214247,
+          "difference": -0.0314506965785753,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.6325409708726855,
-          "difference": 0.03254097087268548,
+          "probability": 0.6214506965785753,
+          "difference": 0.021450696578575346,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -8266,16 +8299,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.44399462501102926,
-        "mean_margin": -0.5368576760621826,
-        "sd": 3.811583757879255,
+        "dem_probability": 0.4430815007779659,
+        "mean_margin": -0.5463857885260305,
+        "sd": 3.8165816887335913,
         "interval80": [
-          -5.421598809912507,
-          4.347883457788142
+          -5.437532028489489,
+          4.344760451437429
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.45523333785792,
+        "local_sd": 2.4629851373438187,
         "used_ids": [
           "iowa-senate-insideradvantage-2026-10-23",
           "iowa-senate-new-river-gsg-2026-10-21",
@@ -8302,14 +8335,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.5560053749889707,
-          "difference": -0.04399462501102924,
+          "probability": 0.5569184992220342,
+          "difference": -0.0430815007779658,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.44399462501102926,
-          "difference": 0.03399462501102929,
+          "probability": 0.4430815007779659,
+          "difference": 0.0330815007779659,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -10442,16 +10475,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.21851298050324697,
-        "mean_margin": -2.930914801363014,
-        "sd": 3.770998524650359,
+        "dem_probability": 0.21829919163567335,
+        "mean_margin": -2.9356940418750193,
+        "sd": 3.7736272994085587,
         "interval80": [
-          -7.763643866012371,
-          1.9018142632863433
+          -7.771792016932409,
+          1.9004039331823699
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.3917420163795224,
+        "local_sd": 2.3958845954764874,
         "used_ids": [
           "emerson-texas-governor",
           "texas-governor-verasight-2026-10-23",
@@ -10484,14 +10517,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.781487019496753,
-          "difference": -0.008512980503247003,
+          "probability": 0.7817008083643266,
+          "difference": -0.008299191635673386,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         },
         "Democratic": {
-          "probability": 0.21851298050324697,
-          "difference": -0.0014870194967530337,
+          "probability": 0.21829919163567335,
+          "difference": -0.0017008083643266503,
           "tradable": false,
           "reason": "Below 8% minimum edge"
         }
@@ -10832,16 +10865,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.4804534343583963,
-        "mean_margin": -0.27530307882353056,
-        "sd": 5.616642720067667,
+        "dem_probability": 0.48309368348322757,
+        "mean_margin": -0.24166140758194488,
+        "sd": 5.700832993522859,
         "interval80": [
-          -7.47332035238875,
-          6.922714194741689
+          -7.5475728579356325,
+          7.064250042771743
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 4.800695308482837,
+        "local_sd": 4.8989281297074365,
         "used_ids": [
           "emerson-nevada-governor",
           "nevada-governor-noble-predictive-insights-2026-10-06"
@@ -10858,14 +10891,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.5195465656416036,
-          "difference": -0.020453434358396416,
+          "probability": 0.5169063165167724,
+          "difference": -0.0230936834832276,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         },
         "Democratic": {
-          "probability": 0.4804534343583963,
-          "difference": 0.020453434358396305,
+          "probability": 0.48309368348322757,
+          "difference": 0.023093683483227545,
           "tradable": false,
           "reason": "Fewer than 3 independent pollsters"
         }
@@ -11449,16 +11482,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9621241107836629,
-        "mean_margin": 6.87913474748972,
-        "sd": 3.8736362471128323,
+        "dem_probability": 0.9614162913449864,
+        "mean_margin": 6.862392235435868,
+        "sd": 3.8828420392200327,
         "interval80": [
-          1.914870148887907,
-          11.843399346091534
+          1.8863299395428017,
+          11.838454531328935
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 2.5505014751900044,
+        "local_sd": 2.564461405740859,
         "used_ids": [
           "emerson-iowa-governor",
           "iowa-governor-new-river-gsg-2026-10-21",
@@ -11484,14 +11517,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.03787588921633711,
-          "difference": -0.12212411078366289,
+          "probability": 0.03858370865501359,
+          "difference": -0.12141629134498641,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.9621241107836629,
-          "difference": 0.12212411078366292,
+          "probability": 0.9614162913449864,
+          "difference": 0.12141629134498644,
           "tradable": true,
           "reason": null
         }
@@ -11586,16 +11619,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.39084946697488265,
-        "mean_margin": -1.1704587945337448,
-        "sd": 4.223871009335142,
+        "dem_probability": 0.39386729238727436,
+        "mean_margin": -1.1452442854130218,
+        "sd": 4.25340480470864,
         "interval80": [
-          -6.5835673011291975,
-          4.242649712061708
+          -6.596201873719304,
+          4.30571330289326
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.0563190775018683,
+        "local_sd": 3.097007012055113,
         "used_ids": [
           "georgia-governor-activote-2026-10-20",
           "georgia-governor-university-of-georgia-2026-10-20",
@@ -11614,14 +11647,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.6091505330251173,
-          "difference": 0.08915053302511733,
+          "probability": 0.6061327076127256,
+          "difference": 0.08613270761272562,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.39084946697488265,
-          "difference": -0.10915053302511735,
+          "probability": 0.39386729238727436,
+          "difference": -0.10613270761272564,
           "tradable": true,
           "reason": null
         }
@@ -11840,16 +11873,16 @@
         }
       ],
       "model": {
-        "dem_probability": 0.9626842274079771,
-        "mean_margin": 8.065021590139041,
-        "sd": 4.5239924949593595,
+        "dem_probability": 0.96104567340446,
+        "mean_margin": 8.054238263853545,
+        "sd": 4.568609975445152,
         "interval80": [
-          2.2672919236516265,
-          13.862751256626456
+          2.199328995378589,
+          13.9091475323285
         ],
         "national_sd": 2.5,
         "state_sd": 1.5,
-        "local_sd": 3.4592640972392688,
+        "local_sd": 3.5174134115478877,
         "used_ids": [
           "arizona-governor-wick-2026-10-13",
           "arizona-governor-highground-inc-2026-10-13",
@@ -11867,14 +11900,14 @@
       "status": "Provisional polling model",
       "edges": {
         "Republican": {
-          "probability": 0.0373157725920229,
-          "difference": -0.0926842274079771,
+          "probability": 0.03895432659553999,
+          "difference": -0.09104567340446001,
           "tradable": true,
           "reason": null
         },
         "Democratic": {
-          "probability": 0.9626842274079771,
-          "difference": 0.0826842274079771,
+          "probability": 0.96104567340446,
+          "difference": 0.08104567340446,
           "tradable": true,
           "reason": null
         }

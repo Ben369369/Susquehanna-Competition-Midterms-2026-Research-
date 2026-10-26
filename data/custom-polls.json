@@ -1391,6 +1391,18 @@
       "kind": "poll",
       "source_id": "import-texas-governor-fox-news-2026-10-01",
       "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "maine-senate-trafalgar-group-2026-10-25",
+      "race_id": "maine-senate",
+      "pollster": "Trafalgar Group",
+      "end": "2026-10-25",
+      "published": "2026-10-25",
+      "margin": 0.0,
+      "n": 1077,
+      "kind": "poll",
+      "source_id": "import-maine-senate-trafalgar-group-2026-10-25",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
     }
   ],
   "sources": [
@@ -2321,6 +2333,14 @@
       "type": "Imported primary poll",
       "published": "2026-10-01",
       "note": "D47/R52 LV via 270toWin listing reviewed 2026-10-24; only listed (release) date available, used as fieldwork end."
+    },
+    {
+      "id": "import-maine-senate-trafalgar-group-2026-10-25",
+      "title": "Trafalgar Group / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-25",
+      "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
     }
   ]
 }
