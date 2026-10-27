@@ -1403,6 +1403,18 @@
       "kind": "poll",
       "source_id": "import-maine-senate-trafalgar-group-2026-10-25",
       "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
+    },
+    {
+      "id": "maine-senate-marist-poll-2026-10-27",
+      "race_id": "maine-senate",
+      "pollster": "Marist Poll",
+      "end": "2026-10-27",
+      "published": "2026-10-27",
+      "margin": 2.0,
+      "n": 1449,
+      "kind": "poll",
+      "source_id": "import-maine-senate-marist-poll-2026-10-27",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-27; only listed (release) date available."
     }
   ],
   "sources": [
@@ -2341,6 +2353,14 @@
       "type": "Imported primary poll",
       "published": "2026-10-25",
       "note": "D47/R47 LV via 270toWin listing reviewed 2026-10-26; only listed (release) date available."
+    },
+    {
+      "id": "import-maine-senate-marist-poll-2026-10-27",
+      "title": "Marist Poll / maine-senate",
+      "url": "https://www.270towin.com/2026-senate-polls/maine",
+      "type": "Imported primary poll",
+      "published": "2026-10-27",
+      "note": "D49/R47 LV via 270toWin listing reviewed 2026-10-27; only listed (release) date available."
     }
   ]
 }

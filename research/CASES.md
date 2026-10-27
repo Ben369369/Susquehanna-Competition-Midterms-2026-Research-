@@ -1,6 +1,6 @@
 # Challenge case register
 
-Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; rating baselines are uncalibrated analyst conversions.
+Evidence as of 2026-10-27. Model 0.2.0-research. Probabilities are provisional; rating baselines are uncalibrated analyst conversions.
 
 | Contest | Basis | D estimate | Outside rating | Research next step |
 |---|---|---:|---|---|
@@ -8,9 +8,9 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | Delaware Senate | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Rhode Island Governor | Market snapshot only | Withheld | Solid Democrat | Build candidate-level and settlement mapping. |
 | Oklahoma Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| New Hampshire Senate | Provisional polling model | 96.6% | Toss-up | UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence. |
+| New Hampshire Senate | Provisional polling model | 96.5% | Toss-up | UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence. |
 | Massachusetts Senate | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Alaska Senate | Provisional polling model | 70.3% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
+| Alaska Senate | Provisional polling model | 69.7% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
 | NH-01 House race | Rating-derived baseline | 75.0% | Lean Democrat | UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence. |
 | Oklahoma Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | New Hampshire Governor | Rating-derived baseline | 1.0% | Solid Republican | UNH September 24 abstract describes a narrow D Senate lead and statistical ties for governor and NH-01. Numeric PDF unavailable; review against market confidence. |
@@ -21,7 +21,7 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | Tennessee Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Minnesota Senate | Rating-derived baseline | 90.0% | Likely Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Michigan Senate | Provisional polling model | 74.0% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
-| Kansas Senate | Provisional polling model | 50.0% | Likely Republican | Add independent polling; inspect candidate field and actual ask. |
+| Kansas Senate | Provisional polling model | 49.3% | Likely Republican | Add independent polling; inspect candidate field and actual ask. |
 | Florida Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | WI-03 House race | Rating-derived baseline | 50.0% | Toss-up | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | WI-01 House race | Rating-derived baseline | 10.0% | Likely Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
@@ -44,18 +44,18 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | FL-07 House race | Rating-derived baseline | 10.0% | Likely Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | AL-02 House race | Rating-derived baseline | 10.0% | Likely Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Wyoming Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Wisconsin Governor | Provisional polling model | 81.0% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
+| Wisconsin Governor | Provisional polling model | 80.8% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
 | Vermont Governor | Market snapshot only | Withheld | Solid Republican | UNH September 24 abstract describes a statistical tie, conflicting with the imported Solid Republican rating. Rating-derived probability is suppressed pending numeric evidence. |
 | Tennessee Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | South Dakota Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Minnesota Governor | Rating-derived baseline | 90.0% | Likely Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Michigan Governor | Provisional polling model | 92.3% | Tilt Democrat | Add independent polling; inspect candidate field and actual ask. |
-| Kansas Governor | Provisional polling model | 17.2% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
+| Michigan Governor | Provisional polling model | 92.2% | Tilt Democrat | Add independent polling; inspect candidate field and actual ask. |
+| Kansas Governor | Provisional polling model | 17.4% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
 | Hawaii Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Florida Governor | Provisional polling model | 13.9% | Lean Republican | Add independent polling; inspect candidate field and actual ask. |
+| Florida Governor | Provisional polling model | 14.0% | Lean Republican | Add independent polling; inspect candidate field and actual ask. |
 | Connecticut Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | West Virginia Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Texas Senate | Provisional polling model | 70.8% | Lean Republican | Add independent polling; inspect candidate field and actual ask. |
+| Texas Senate | Provisional polling model | 70.6% | Lean Republican | Add independent polling; inspect candidate field and actual ask. |
 | South Dakota Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | South Carolina Senate | Rating-derived baseline | 10.0% | Likely Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Oregon Senate | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
@@ -65,12 +65,12 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | North Carolina Senate | Rating-derived baseline | 60.0% | Tilt Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Montana Senate | Market snapshot only | Withheld | Solid Republican | Build candidate-level and settlement mapping. |
 | Mississippi Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Maine Senate | Provisional polling model | 62.1% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
+| Maine Senate | Provisional polling model | 64.0% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
 | Louisiana Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Kentucky Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Illinois Senate | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Idaho Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Iowa Senate | Provisional polling model | 44.3% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
+| Iowa Senate | Provisional polling model | 44.2% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
 | Georgia Senate | Rating-derived baseline | 60.0% | Tilt Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Colorado Senate | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Arkansas Senate | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
@@ -105,7 +105,7 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | Pennsylvania Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Oregon Governor | Rating-derived baseline | 75.0% | Lean Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | New York Governor | Rating-derived baseline | 90.0% | Likely Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Nevada Governor | Provisional polling model | 48.3% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
+| Nevada Governor | Provisional polling model | 48.6% | Tilt Republican | Add independent polling; inspect candidate field and actual ask. |
 | New Mexico Governor | Rating-derived baseline | 90.0% | Likely Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Nebraska Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Maine Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
@@ -113,10 +113,10 @@ Evidence as of 2026-10-25. Model 0.2.0-research. Probabilities are provisional; 
 | Illinois Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Idaho Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Iowa Governor | Provisional polling model | 96.1% | Tilt Democrat | Add independent polling; inspect candidate field and actual ask. |
-| Georgia Governor | Provisional polling model | 39.4% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
+| Georgia Governor | Provisional polling model | 39.7% | Toss-up | Add independent polling; inspect candidate field and actual ask. |
 | Colorado Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | California Governor | Rating-derived baseline | 99.0% | Solid Democrat | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
-| Arizona Governor | Provisional polling model | 96.1% | Tilt Democrat | Add independent polling; inspect candidate field and actual ask. |
+| Arizona Governor | Provisional polling model | 95.9% | Tilt Democrat | Add independent polling; inspect candidate field and actual ask. |
 | Arkansas Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | Alabama Governor | Rating-derived baseline | 1.0% | Solid Republican | Replace rating baseline with local evidence; validate 2026 geography and candidate field. |
 | U.S. Senate | Market snapshot only | Withheld | — | Validate complete seat and caucus mapping. |
